@@ -1,5 +1,16 @@
 # Leciono 0
 
+<!--toc:start-->
+- [Leciono 0](#leciono-0)
+  - [Lingua de planeta - Neŭtrala lingvo de internacia komunikado](#lingua-de-planeta-neŭtrala-lingvo-de-internacia-komunikado)
+  - [Alfabeto kaj pronoco](#alfabeto-kaj-pronoco)
+    - [Vokaloj](#vokaloj)
+    - [Konsonantoj](#konsonantoj)
+      - [Bazaj Konsonantoj](#bazaj-konsonantoj)
+      - [Kromaj konsonantoj](#kromaj-konsonantoj)
+  - [Akcento](#akcento)
+<!--toc:end-->
+
 ## Lingua de planeta - Neŭtrala lingvo de internacia komunikado
 
 Kiel devas esti la lingvo de internacia komunikado?
@@ -101,7 +112,7 @@ e, la konsonantoj ne estas moligitaj.
 | b       |                                                                                 | bu (ne)                                                         |
 | d       |                                                                                 | de (de, da)                                                     |
 | g       |                                                                                 | ga (tute)                                                       |
-| p, t, k | Same kiel esperanto, sed prononcata kun suspiro.                                | pa (prepozicio de ĝenerala signifo), taim (tempo), kahwa (kafo) |
+| p, t, k | Same kiel esperanto, sed prononcata kun alspiro.                                | pa (prepozicio de ĝenerala signifo), taim (tempo), kahwa (kafo) |
 | w       |                                                                                 | wel (nu)                                                        |
 | f       |                                                                                 | fai (fari)                                                      |
 | s       | Kiel en esperanto, kaj inter du vokaloj povas esti prononcata kiel esperanta Z. | si (se), also (do)                                              |
@@ -121,9 +132,9 @@ e, la konsonantoj ne estas moligitaj.
 | v      | Kiel **v** en Vento, sed povas esti prononcata kiel w (ŭ).                                                                                                            | vino (vino)  |
 | ng     | Ĉe la fino de vorto prononciĝas kiel unu sono: [ŋ] (kiel en la angla «doing»). Ĉe la mezo de vorto tiu kombinaĵo prononciĝas ĝuste kiel kombinaĵo de **n** kaj **g**. | feng (vento) |
 
-La litero "X" indikas la kombinaĵon **ks**, en la pozicio inter vokaloj ĝi estas
-voĉebla> examen (ekzameno), antaŭ konsonanto oni povas prononci ĝin kiel simpla
-**s**: expliki (klarigi).
+La litero **x** indikas la kombinaĵon **ks**, en la pozicio inter vokaloj ĝi
+estas voĉebla> examen (ekzameno), antaŭ konsonanto oni povas prononci ĝin kiel
+simpla **s**: expliki (klarigi).
 
 ## Akcento
 
