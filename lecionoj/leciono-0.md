@@ -1,16 +1,5 @@
 # Leciono 0
 
-<!--toc:start-->
-- [Leciono 0](#leciono-0)
-  - [Lingua de planeta - Neŭtrala lingvo de internacia komunikado](#lingua-de-planeta-neŭtrala-lingvo-de-internacia-komunikado)
-  - [Alfabeto kaj pronoco](#alfabeto-kaj-pronoco)
-    - [Vokaloj](#vokaloj)
-    - [Konsonantoj](#konsonantoj)
-      - [Bazaj Konsonantoj](#bazaj-konsonantoj)
-      - [Kromaj konsonantoj](#kromaj-konsonantoj)
-  - [Akcento](#akcento)
-<!--toc:end-->
-
 ## Lingua de planeta - Neŭtrala lingvo de internacia komunikado
 
 Kiel devas esti la lingvo de internacia komunikado?
