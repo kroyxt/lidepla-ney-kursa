@@ -75,19 +75,19 @@ kunteksto, oni supozas la estantecon.
 | yeri yu         | hieraŭ vi diris     |
 | manya nu samaji | morgaŭ ni komprenos |
 
-### Ekzerco de tradukado
+### Ekzerco de tradukado 1
 
-| Esperanto       | Lidela |
-| --------------- | ------ |
-| ni vivas        |        |
-| ili vivas       |        |
-| li esperas      |        |
-| ŝi esperas      |        |
-| ili scias       |        |
-| me scias        |        |
-| vi parolas      |        |
-| vi ĉiuj parolas |        |
-| me parolas      |        |
+| Esperanto        | Lidela |
+| ---------------  | ------ |
+| Ni vivas.        |        |
+| Ili vivas.       |        |
+| Li esperas.      |        |
+| Ŝi esperas.      |        |
+| Ili scias.       |        |
+| Me scias.        |        |
+| Vi parolas.      |        |
+| Vi ĉiuj parolas. |        |
+| Me parolas.      |        |
 
 ## Neado, Demandoj kaj Respondoj, Emfazanta partiklo
 
@@ -105,7 +105,7 @@ Por fari demandon, necesas meti la partiklon **ob** (ĉu) antaŭ la tuta frazo.
 | ------------- | ---------------- |
 | Ob yu samaji? | Ĉu vi komprenas? |
 
-### Ekzerco de tradukado
+### Ekzerco de tradukado 2
 
 | Esperanto                  | Lidepla |
 | -------------------------- | ------- |
@@ -129,24 +129,24 @@ Oni povas respondi ĝeneralan demandon uzante la vortojn:
 Ob yu samaji?
 
 | Lidepla           | Esperanto            |
-| ---------------   | ---------------      |
+| ----------------- | -------------------- |
 | Ya, me samaji.    | Jes, mi komprenas.   |
 | Non, me bu samaji | Ne, mi ne komprenas. |
 
 Ob yu bu samaji?
 
 | Lidepla              | Esperanto                      |
-| ---------------      | ---------------                |
+| -------------------- | ------------------------------ |
 | Ya/Non, me bu samaji | Ne, mi ne komprenas.           |
 | Doh, me samaji.      | Yes / Tute male, mi komprenas. |
 
 La partiklo **ya** ankaŭ povas esti metita antaŭ aŭ post la verbo por emfazi
 ĝian signifon:
 
-| Lidepla         | Esperanto                            |
-| --------------- | ---------------                      |
-| Me samaji ya!   | Yes, mi komprenas / Mi ja komprenas! |
-| Me ya lubi!     | Mi ja amas!                          |
+| Lidepla       | Esperanto                            |
+| ------------- | ------------------------------------ |
+| Me samaji ya! | Yes, mi komprenas / Mi ja komprenas! |
+| Me ya lubi!   | Mi ja amas!                          |
 
 ## Partikloj de estinta kaj estonta tempo, konjunkcioj
 
@@ -156,22 +156,22 @@ Por klarigi la daŭron de la ago (se estas necese), partikloj estas uzataj:
 - -te [Post la verbo kun streketo] - Pasinta tempo.
 
 | Lidepla          | Esperanto         |
-| ---------------  | ---------------   |
+| ---------------- | ----------------- |
 | Me lubi-te.      | Mi amis.          |
 | yu ve lubi.      | vi amos.          |
 | li bu ve samaji. | Ili ne komprenos. |
 
-### Ekzerco de tradukado
+### Ekzerco de tradukado 3
 
-| Esperanto        | Lidepla         |
-| ---------------  | --------------- |
-| Ĉu vi amis?      |                 |
-| Mi amos.         |                 |
-| Ĉu li komprenos? |                 |
-| Ĉu ŝi esperas?   |                 |
-| Ŝi esperis.      |                 |
-| Ŝi ne esperos.   |                 |
-| Ni vivos.        |                 |
+| Esperanto        | Lidepla |
+| ---------------- | ------- |
+| Ĉu vi amis?      |         |
+| Mi amos.         |         |
+| Ĉu li komprenos? |         |
+| Ĉu ŝi esperas?   |         |
+| Ŝi esperis.      |         |
+| Ŝi ne esperos.   |         |
+| Ni vivos.        |         |
 
 Konjunkcioj estas utila por kombini vortojn kaj frazojn:
 
@@ -182,7 +182,7 @@ Konjunkcioj estas utila por kombini vortojn kaj frazojn:
 - bikos (ĉar)
 
 | Lidepla                 | Esperanto                      |
-| ---------------         | ---------------                |
+| ----------------------- | ------------------------------ |
 | Mi e yu.                | Vi kaj mi.                     |
 | Ela o mi.               | Ŝi aŭ mi.                      |
 | Me jan, bat bu samaji.  | Mi scias, sed mi ne komprenas. |
@@ -202,33 +202,33 @@ de gramatikaj partikloj.
 
 > La kombinaĵo **sh** estas prononcata kiel **ŝ**
 
-| Lidepla          | Esperanto       | Ekzemplo                            |
-| ---------------- | --------------- | ---------------                     |
-| dumi             | pensi           | me dumi. li ve dumi. nu dumi-te.    |
-| jan              | scii            | me bu jan. ob yu jan?               |
-| samaji           | kompreni        | ta bu samaji. ob yu samaji?         |
-| kredi            | kredi           | me kredi. ta bu kredi. nu ve kredi. |
-| nadi             | esperi          | ob yu nadi? me nadi-te ya!          |
-| lubi             | ami             | nu lubi. me ve lubi. ta lubi-te.    |
-| gun              | labori          | li bu gun. me gun. on yu gun?       |
-| jivi             | vivi            | nu ve jivi. li jivi-te.             |
-| vidi             | vidi            | ob yu vidi? ta bu vidi. me vidi ya! |
-| audi             | aŭdi            | ob yu audi? me bu audi. ta ve audi. |
-| shwo             | paroli          | me shwo-te. ob yu ve shwo?          |
+| Lidepla | Esperanto | Ekzemplo                            |
+| ------- | --------- | ----------------------------------- |
+| dumi    | pensi     | me dumi. li ve dumi. nu dumi-te.    |
+| jan     | scii      | me bu jan. ob yu jan?               |
+| samaji  | kompreni  | ta bu samaji. ob yu samaji?         |
+| kredi   | kredi     | me kredi. ta bu kredi. nu ve kredi. |
+| nadi    | esperi    | ob yu nadi? me nadi-te ya!          |
+| lubi    | ami       | nu lubi. me ve lubi. ta lubi-te.    |
+| gun     | labori    | li bu gun. me gun. on yu gun?       |
+| jivi    | vivi      | nu ve jivi. li jivi-te.             |
+| vidi    | vidi      | ob yu vidi? ta bu vidi. me vidi ya! |
+| audi    | aŭdi      | ob yu audi? me bu audi. ta ve audi. |
+| shwo    | paroli    | me shwo-te. ob yu ve shwo?          |
 
-### Ekzerco de tradukado
+### Ekzerco de tradukado 4
 
-| Esperanto                                | Lidepla         |
-| ---------------                          | --------------- |
-| Mi ne sciis. Sed vi diris. Nun mi scias. |                 |
-| Ŝi kredas kaj esperas.                   |                 |
-| Ili ne vidas kaj ne aŭdas, sed parolas.  |                 |
-| Li ne komprenas, sed laboras.            |                 |
-| Mi parolas por ke vi komprenos.          |                 |
-| Ŝi esperas, ĉar ŝi amas.                 |                 |
-| Vi ne scias aŭ ne komprenas.             |                 |
-| Ŝi ne pensis, ŝi ja sciis.               |                 |
-| Ĉu vi ne kredas? ne, mi ja kredas.       |                 |
+| Esperanto                                | Lidepla |
+| ---------------------------------------- | ------- |
+| Mi ne sciis. Sed vi diris. Nun mi scias. |         |
+| Ŝi kredas kaj esperas.                   |         |
+| Ili ne vidas kaj ne aŭdas, sed parolas.  |         |
+| Li ne komprenas, sed laboras.            |         |
+| Mi parolas por ke vi komprenos.          |         |
+| Ŝi esperas, ĉar ŝi amas.                 |         |
+| Vi ne scias aŭ ne komprenas.             |         |
+| Ŝi ne pensis, ŝi ja sciis.               |         |
+| Ĉu vi ne kredas? ne, mi ja kredas.       |         |
 
 ## Teksto
 
@@ -358,7 +358,7 @@ adjektivo **e** ).
 - Konjukcioj: o (aŭ), bat (sed), bikos (ĉar).
 - Prepozicioj: fo (por), bay (per, de (iu)) bifoo (antaŭe), afte (post).
 - Adverboj: nau (nun), iven (eĉ)
-- Demandaj korelativoj: hu (kiu), wen (kiam)
+- Relativaj kaj Demandaj korelativoj: hu (kiu), wen (kiam)
 
 Ekzemplo de la plej ofte uzataj vortoj pruntitaj el la angla:
 
