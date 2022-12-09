@@ -18,12 +18,12 @@ konstruitaj ĉirkaŭ ĝi:
 
 Ekzemploj de verboj:
 
-- jivi (vivi)
+- jivi (vivi, loĝi)
 - lubi (ami)
 - nadi (esperi)
 - jan (scii)
 - samaji (kompreni)
-- shwo (paroli)
+- shwo (paroli, diri)
 
 > la litero **j** estas prononcata kiel **ĝ**.
 
@@ -202,19 +202,19 @@ de gramatikaj partikloj.
 
 > La kombinaĵo **sh** estas prononcata kiel **ŝ**
 
-| Lidepla | Esperanto | Ekzemplo                            |
-| ------- | --------- | ----------------------------------- |
-| dumi    | pensi     | me dumi. li ve dumi. nu dumi-te.    |
-| jan     | scii      | me bu jan. ob yu jan?               |
-| samaji  | kompreni  | ta bu samaji. ob yu samaji?         |
-| kredi   | kredi     | me kredi. ta bu kredi. nu ve kredi. |
-| nadi    | esperi    | ob yu nadi? me nadi-te ya!          |
-| lubi    | ami       | nu lubi. me ve lubi. ta lubi-te.    |
-| gun     | labori    | li bu gun. me gun. on yu gun?       |
-| jivi    | vivi      | nu ve jivi. li jivi-te.             |
-| vidi    | vidi      | ob yu vidi? ta bu vidi. me vidi ya! |
-| audi    | aŭdi      | ob yu audi? me bu audi. ta ve audi. |
-| shwo    | paroli    | me shwo-te. ob yu ve shwo?          |
+| Lidepla | Esperanto    | Ekzemplo                            |
+| ------- | ---------    | ----------------------------------- |
+| dumi    | pensi        | me dumi. li ve dumi. nu dumi-te.    |
+| jan     | scii         | me bu jan. ob yu jan?               |
+| samaji  | kompreni     | ta bu samaji. ob yu samaji?         |
+| kredi   | kredi        | me kredi. ta bu kredi. nu ve kredi. |
+| nadi    | esperi       | ob yu nadi? me nadi-te ya!          |
+| lubi    | ami          | nu lubi. me ve lubi. ta lubi-te.    |
+| gun     | labori       | li bu gun. me gun. on yu gun?       |
+| jivi    | vivi         | nu ve jivi. li jivi-te.             |
+| vidi    | vidi         | ob yu vidi? ta bu vidi. me vidi ya! |
+| audi    | aŭdi         | ob yu audi? me bu audi. ta ve audi. |
+| shwo    | paroli, diri | me shwo-te. ob yu ve shwo?          |
 
 ### Ekzerco de tradukado 4
 
