@@ -181,13 +181,13 @@ Konjunkcioj estas utila por kombini vortojn kaj frazojn:
 - dabe (por ke)
 - bikos (ĉar)
 
-| Lidepla                 | Esperanto                      |
-| ----------------------- | ------------------------------ |
-| Mi e yu.                | Vi kaj mi.                     |
-| Ela o mi.               | Ŝi aŭ mi.                      |
-| Me jan, bat bu samaji.  | Mi scias, sed mi ne komprenas. |
-| Me kredi, dabe yu nadi. | Me kredas, por ke vi esperas.  |
-| Me nadi bikos me kredi. | Mi esperas, ĉar mi kredas.     |
+| Lidepla                  | Esperanto                      |
+| -----------------------  | ------------------------------ |
+| Mi e yu.                 | Vi kaj mi.                     |
+| Ela o mi.                | Ŝi aŭ mi.                      |
+| Me jan, bat bu samaji.   | Mi scias, sed mi ne komprenas. |
+| Me kredi, dabe yu nadi.  | Me kredas, por ke vi esperas.  |
+| Me nadi, bikos me kredi. | Mi esperas, ĉar mi kredas.     |
 
 ## Novaj verboj
 

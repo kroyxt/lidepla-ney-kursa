@@ -33,7 +33,19 @@ vortoj pruntitaj el tiu ĉi lingvo.
 - Etiketo: Konatiĝi
 - Fokusa lingvo: La Angla
 
-[Leciono 2 | Ankoraŭ ne tradukata]()
+[Leciono 2 | Kompleksaj frazoj](./lecionoj/leciono-2.md)
+- Pronomo kiel rekta objekto
+- Bazaj Prepozicioj
+- Demostrativaj kaj Demandaj korelativoj
+- Kompleksaj Frazoj
+- Ĝenerala Signifo
+- Specialaj verboj
+- Emfazaj vortoj
+- Utilaj vortoj por rakontoj
+- Novaj verboj
+- Teksto
+- Etiketo: De kie vi estas? Kie vi loĝas?
+- Fokusa lingvo: La Ĉina
 
 [Leciono 3 | Ankoraŭ ne tradukata]()
 
