@@ -47,7 +47,19 @@ vortoj pruntitaj el tiu ĉi lingvo.
 - Etiketo: De kie vi estas? Kie vi loĝas?
 - Fokusa lingvo: La Ĉina
 
-[Leciono 3 | Ankoraŭ ne tradukata]()
+[Leciono 3 | Substantivoj kaj Adjektivoj](./lecionoj/leciono-3.md)
+- Substantivoj
+- Derivataj substantivoj
+- Adjektivoj
+- La verbo Bi/Es/Bin
+- Adjektivo en priskriba funkcio
+- Ĉeestaj verboj Ye kaj Yok. La verbo Hev
+- Posedaj adjektivoj kaj pronomoj
+- Partikloj Gro- kaj -Ki
+- Novaj verboj
+- Teksto
+- Etiketo: Saluton, Kiel vi fartas?
+- Fokusa lingvo: La Hispana kaj La Portugala
 
 [Leciono 4 | Ankoraŭ ne tradukata]()
 

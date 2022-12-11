@@ -20,7 +20,7 @@ entute 70 vortoj
 
 > + 97 el la 1a kaj 2a lecionoj = 167 vortoj.
 
-# Substantivoj
+## Substantivoj
 
 Substativoj estas vortoj, kiuj respondas la demandon **kio?** (kwo?) aŭ **kiu?**
 (hu?).
@@ -273,7 +273,7 @@ En kompleksaj frazoj kun demanda korelativo, kiel regula, ne ekzistas inversio:
 | ---------------- | ---------------------- |
 | Me jan wo yu es. | Mi scias kie vi estas. |
 
-### Ekzerco de tradukado
+### Ekzerco de tradukado 3
 
 | Esperanto                      | Lidepla |
 | ------------------------------ | ------- |
@@ -326,7 +326,7 @@ Demostrativaj korelativoj:
 | Toy kitaba es syao. | Tiu libro estas malgranda.    |
 | Me bu pri tal jen.  | Mi ne ŝatas tia(j)n homo(j)n. |
 
-## Ekzerco de tradukado 4
+### Ekzerco de tradukado 4
 
 | Esperanto                                                        | Lidepla |
 | ---------------------------------------------------------------- | ------- |
@@ -401,7 +401,7 @@ ekzistas ankaŭ mallongaj formoj por ili: May (Mia), Yur (Via), Nuy (Nia), Ley
 El la refleksiva pronomo **swa**, oni povas formi la posedan pronomon
 **Swa-ney** (Sia).
 
-### Ekzerco de tradukado
+### Ekzerco de tradukado 6
 
 | Esperanto               | Lidepla |
 | ----------------------- | ------- |
