@@ -186,7 +186,7 @@ partikloj indikas la tempon de la ago relative al la ago en la ĉefa frazo.
 
 | Lidepla                       | Esperanto                  |
 | ----------------------------- | -------------------------- |
-| Me shwo, ke mi ve go adas.    | Mi diras, ke mi iros tien. |
+| Me shwo, ke mi ve go adar.    | Mi diras, ke mi iros tien. |
 | Me show-te, ke me ve go adar. | Mi diris, ke mi iros tien. |
 
 ### Ekzerco de tradukado 4
@@ -198,7 +198,7 @@ partikloj indikas la tempon de la ago relative al la ago en la ĉefa frazo.
 | Mi ne komprenas, kion vi volas (yao).      |         |
 | Ni diris, ke ili vojaĝos (safari).         |         |
 | Ŝi ne kredas, ke vi venos (lai).           |         |
-| ILi ne scias kien mi iras (go).            |         |
+| Ili ne scias kien mi iras (go).            |         |
 | Mi ne komprenas pri kio vi kantas (gani).  |         |
 | Vi ne scias kun kiu ŝi dancas (dansi).     |         |
 | Mi ne komprenas kiel vi parolas sen pensi. |         |
@@ -226,7 +226,7 @@ Kelkfoje ne gravas kiu faras kion. Por tia okazo ekzistas pronomo **oni** (oni).
 
 | Lidepla                         | Esperanto                                  |
 | ------------------------------- | ------------------------------------------ |
-| Oni shwo, ke ta bu lubi yu.     | Oni diras, ke li/ŝi amas vin.              |
+| Oni shwo, ke ta bu lubi yu.     | Oni diras, ke li/ŝi ne amas vin.           |
 | Me lubi yu, kwo unkwe oni shwo. | Mi amas vin, (negrave) kion ajn oni diras. |
 
 ### Ekzerco de tradukado 5
@@ -274,7 +274,7 @@ frazo alprenas nepersonan signifon:
 | Esperanto                                           | Lidepla |
 | --------------------------------------------------- | ------- |
 | Ŝi volos demandi vin.                               |         |
-| ni ŝatas labori.                                    |         |
+| Ni ŝatas labori.                                    |         |
 | Ni devigatis peti (Pregi).                          |         |
 | Vi necesas ja esperi.                               |         |
 | Mi scipovas ami.                                    |         |
@@ -295,7 +295,7 @@ troviĝas. Jen la partiklo **hi**:
 | Lidepla                | Esperanto                  |
 | ---------------------- | -------------------------- |
 | Mi hi ga bu yao go.    | "Mi" tute ne volas iri.    |
-| Me yao go hi, bu lopi. | "Mi volas marŝi", ne kuri. |
+| Me yao go hi, bu lopi. | Mi volas "marŝi", ne kuri. |
 
 Por rimarki vorton en demando, ekzistas partiklo **ku**. Per ĝi, oni povas
 facile demandi (ĝeneralan) demandon pri specifa vorto en la frazo (la partiklo
@@ -323,7 +323,7 @@ mallonga frazo:
 | Esperanto              | Lidepla |
 | --------------------   | ------- |
 | Mi parolas pri "vi".   |         |
-| "Ela" lubi yu?         |         |
+| "Ŝi" amas vin?         |         |
 | Mi "scias", ne kredas. |         |
 
 ## Utilaj vortoj por rakontoj
@@ -369,17 +369,17 @@ Utilaj konjunkcioj:
 
 ### Ekzerco de tradukado 8
 
-| Esperanto                                           | Lidepla |
-| --------------------------------------------------- | ------- |
-| Ankaŭ mi kredas ilin.                               |         |
-| Mi ne laboras. Ankaŭ mi ne amas vin.                |         |
-| Mi necesas kompreni tuj.                            |         |
-| Mi ne povas kompreni, kvankam devas labori.         |         |
-| Li povas veni subite.                               |         |
-| Ŝi ne volas esperi, tamen li amas ŝin.              |         |
-| Ni ne volas vidi ŝin denove.                        |         |
-| Mi kredas, konsiderante ke mi ne volas vivi sen vi. |         |
-| Poste mi respondos (jawabi) al (a) vi.              |         |
+| Esperanto                                               | Lidepla |
+| ------------------------------------------------------- | ------- |
+| Mi ankaŭ kredas ilin.                                   |         |
+| Mi ne laboras. Ankaŭ mi ne amas vin.                    |         |
+| Mi necesas kompreni tuj.                                |         |
+| Mi ne povas kompreni, kvankam devas labori.             |         |
+| Li povas veni subite.                                   |         |
+| Ŝi ne volas esperi, tamen li amas ŝin.                  |         |
+| Ni ne volas vidi ŝin denove.                            |         |
+| Mi kredas, ĉar/pro la kaŭzo ke mi ne volas vivi sen vi. |         |
+| Poste mi respondos (jawabi) al (a) vi.                  |         |
 
 ## Novaj verboj
 
@@ -423,7 +423,7 @@ Utilaj konjunkcioj:
 | Pri kio vi pensas?                                                                      | Om kwo yu...?                        |
 | Kiam vi helpos min?                                                                     | Wen yu...?                           |
 | Vi devus labori, tamen vi kantas kaj dancas.                                            | Yu..., yedoh yu...                   |
-| Mi devigatos diri al li pri vi.                                                         | Me... ta... yu.                      |
+| Mi necesos diri al li pri vi.                                                           | Me... ta... yu.                      |
 | Kvankam mi amas vin. Mi amis kaj amos.                                                  | Obwol me... Mi... e...               |
 
 ## Teksto

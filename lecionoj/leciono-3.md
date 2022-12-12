@@ -114,11 +114,11 @@ Se necese, por indiki la kazojn de vorto ŝanĝante la ordon de la vortoj
 (ekzemple, por emfazi la signifon de vorto), oni povas uzi la specialajn
 partiklojn **da** por nominativo kaj **den** por akuzativa kazo:
 
-| Lidepla                                      | Esperanto                                 |
-| -------------------------------------------- | ----------------------------------------- |
-| Me vidi amiga. **Den** amiga me vidi         | Mi vidis amikon.                          |
-| Om hu yu shwo? **Den** amiga om.             | Pri kiu vi parolas. Pri amiko.            |
-| Ob lu samaji ela? Non, samaji da ela den lu. | Ĉu li komprenis ŝin? Ne, ŝi komrenis lin. |
+| Lidepla                                              | Esperanto                                 |
+| ---------------------------------------------------- | ----------------------------------------- |
+| Me vidi amiga. **Den** amiga me vidi                 | Mi vidis amikon.                          |
+| Om hu yu shwo? **Den** amiga om.                     | Pri kiu vi parolas. Pri amiko.            |
+| Ob lu samaji ela? Non, samaji **da** ela **den** lu. | Ĉu li komprenis ŝin? Ne, ŝi komrenis lin. |
 
 Tiaj partikloj ebligas preskaŭ liberan vortordon en frazo. Rimarku, tamen, ke ĉi
 tiuj partikloj ne devas esti misuzataj.
@@ -131,7 +131,7 @@ Substantivoj povas esti formataj el verboj.
 formitaj per:
 
 - anstatatŭigante la finaĵon **i** per **a** (se la verbo finiĝas per konsonanto
-+ i):
+\+ i):
 
 | Verbo | Substantivo |
 | ----- | ----------- |
@@ -144,7 +144,7 @@ unusilaba):
 | ----- | ------------------ |
 | Pri   | Pria (ŝato, plaĉo) |
 
-- Aldonante **sa** (se la verbo finiĝas pero io alia ol **i**):
+- Aldonante **sa** (se la verbo finiĝas per io alia ol **i**):
 
 | Verbo | Substantivo        |
 | ----- | ------------------ |
@@ -206,7 +206,7 @@ Kune kun adjektivoj, adverboj de kvanto estas uzataj:
 | Ga syao.    | Tute malgranda. |
 | Basta gran. | Sufiĉe granda.  |
 | Muy jamile. | Tre bela.       |
-| Aika hao.   | Sufiĉe bona.    |
+| Aika hao.   | Sate bona.      |
 
 Adjektivoj povas esti formitaj el verboj.
 
@@ -256,18 +256,18 @@ La verbo **bi/es/bin** neniam estas ellasita.
 
 | Lidepla                 | Esperanto                       |
 | ----------------------- | ------------------------------- |
-| Kinda es gao syao.      | La infano estas tute malgranda. |
+| Kinda es ga syao.       | La infano estas tute malgranda. |
 | Ob flor bin muy jamile? | Ĉu la floro estis tre bela?     |
 | Ob kitaba es basta hao? | Ĉu la libro estas sufiĉe bona?  |
 
 En demandoj kun la verbo **bi (es, bin)**, inversio eblas kaj kutime okazas, tio
-estas, la verbo estas metita tuj post la demanda korelativo:
+signifas, ke la verbo estas metita tuj post la demanda korelativo:
 
 | Lidepla   | Esperanto     |
 | --------- | ------------- |
 | Wo es yu? | Kie vi estas? |
 
-En kompleksaj frazoj kun demanda korelativo, kiel regula, ne ekzistas inversio:
+En kompleksaj frazoj kun demanda korelativo, kiel regulo, ne ekzistas inversio:
 
 | Lidepla          | Esperanto              |
 | ---------------- | ---------------------- |
@@ -343,7 +343,7 @@ Kelkfoje oni devas diri **Estas** ne en la senco de kvalito, sed en la senco de
 ĉeesto aŭ foresto de io.
 
 En ĉi tiu kazo oni devas uzi, anstataŭ la verbo **bi**, la vortoj **ye**
-(estas, ĉeesti, ekzisti) kaj **yok** (malĉeesti, foresti):
+(estas, ĉeesti, ekzisti) kaj **yok** (ne estas, malĉeesti, foresti, ne ekzisti):
 
 | Lidepla          | Esperanto                         |
 | ---------------- | --------------------------------- |
@@ -378,7 +378,7 @@ Por demandi **Kies?** kaj respondi al ĝi, la partiklo **ney** estas uzata:
 Eblaj kunmetitaj adjektivoj:
 
 | Lidepla              | Esperanto                  |
-| -------------------- | --------------------       |
+| -------------------- | -------------------------- |
 | Sey-kinda-ney kitaba | La libro de tiu ĉi infano. |
 
 La sama signifo povas esti esprimita per la prepozicio **de**:
@@ -431,8 +431,8 @@ La sekvaj partikloj estas vaste uzataj en Lidepla lingvo:
 | Somni-ki.       | Dormeti.        |
 
 Por formi etan formon de substantivoj aŭ nomoj, vi povas anstataŭigi la finan
-vokalon per **i**, longa nomo povas esti mallongigita al unu silabo (ĉi tiu
-metodo ne ĉiam aplikeblas):
+vokalon per **i**, longa nomo povas esti mallongigita al unu aŭ du silabo (ĉi
+tiu metodo ne ĉiam aplikeblas):
 
 | Lidepla       | Eta formo                     |
 | ------------- | ----------------------------- |
@@ -440,8 +440,8 @@ metodo ne ĉiam aplikeblas):
 | Dimitri.      | Dimi.                         |
 | Konstantin.   | Konsti.                       |
 
-Ankaŭ en la lingvo ekzistas derivaj sufiksoj **-kin** kaj **-gron**, kiuj servas
-por formi substantivojn kun ia nova kvalito:
+Ankaŭ en la lingvo ekzistas derivaj sufiksoj **-kin** (-eta) kaj **-gron**
+(-ega), kiuj servas por formi substantivojn kun ia nova kvalito:
 
 | Lidepla         | Esperanto        |
 | --------------- | ---------------  |
@@ -482,21 +482,21 @@ por formi substantivojn kun ia nova kvalito:
 | Esperanto                                                                                                 | Lidepla |
 | --------------------------------------------------------------------------------------------------------- | ------- |
 | Mi havas (unu) amiko.                                                                                     |         |
-| Li es bonega persono.                                                                                     |         |
+| Ŝi es bonega persono.                                                                                     |         |
 | Li estas tre laborema kaj komprenema.                                                                     |         |
-| Li havas (unu) malgrandan infanon.                                                                        |         |
+| Ŝi havas (unu) malgrandan infanon.                                                                        |         |
 | Mia amiko volas esti kun infano, volas vidi kiel lia infano vivas.                                        |         |
 | Sed li ne povas, ĉar li devas labori.                                                                     |         |
 | Li ne havas tempon por ludi kun sia infano.                                                               |         |
 | Kiam li alvenas, la infano dormas.                                                                        |         |
 | Mia amiko esperas, ke kiam la infano estos granda, li povos legi libron por li kaj paroli pri ili kun li. |         |
-| La infano de mia amiko ne povas kompreni kial la patro ne povas ludi kun li.                              |         |
+| La infano de mia amiko ne povas kompreni kial sia patro ne povas ludi kun li.                             |         |
 | La infano ne povas sidi sen ludi. Li volas kuri, kanti, danci.                                            |         |
 | Mia amiko ankaŭ havas patron.                                                                             |         |
 | Li estas tre maljuna (lao).                                                                               |         |
 | Li ne memoras sian nomon.                                                                                 |         |
-| Li ne vidas kaj pro tio ne povas legi kaj skribi.                                                         |         |
-| Li bezonas dormi.                                                                                         |         |
+| Ŝi ne vidas kaj pro tio ne povas legi kaj skribi.                                                         |         |
+| Ŝi bezonas dormi.                                                                                         |         |
 
 ## Teksto
 
