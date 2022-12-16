@@ -10,7 +10,7 @@ En ĉi tiu leciono vi lernos:
 
 Entute 34 vortoj
 
-## Bazaj verboformo kaj personaj pronomoj
+## Baza verba formo kaj personaj pronomoj
 
 La bazo de iu ajn frazo en iu ajn lingvo estas la verbo. Ĝi starigas la
 ĝeneralan situacion, la agon. Ĉiuj aliaj komponantoj de la frazo estas
@@ -29,18 +29,18 @@ Ekzemploj de verboj:
 
 > la kombinaĵo **sh** estas prononcata kiel **ŝ**.
 
-En Lidepla la verboformo neniam ŝanĝiĝas. Por klarigi, kiu agas, oni uzas
+En Lidepla la verba formo neniam ŝanĝiĝas. Por klarigi, kiu agas, oni uzas
 personajn pronomojn, pro klarigi la agon (ekzemple la tempo) specialaj partikloj
 estas uzataj.
 
-Personaj pronomoj: me (mi), nu (ni); yu (vi); ta (ŝi, li, ĝi), lu (li), ela
-(ŝi), li(ili).
+Personaj pronomoj: Me (Mi), Nu (Ni); Yu (Vi); Ta (Ŝi, Li, Ĝi), Lu (Li), Ela
+(Ŝi), Li(Ili).
 
 |            | Ununombra   | Multnombra |
 | ---------- | ----------- | ---------- |
-| 1a persono | me          | nu         |
-| 2a persono | yu          | yu         |
-| 3a persono | ta, lu, ela | li         |
+| 1a persono | Me          | Nu         |
+| 2a persono | Yu          | Yu         |
+| 3a persono | Ta, Lu, Ela | Li         |
 
 > La litero **t** estas alspirata.
 
@@ -59,21 +59,21 @@ Tiu, kiu agas (la subjekto) estas kutime metita antaŭ la verbo.
 
 | Lidepla | Esperanto |
 | ------- | --------- |
-| me lubi | mi amas   |
-| yu lubi | vi amas   |
-| nu lubi | ni amas   |
+| Me lubi | Mi amas   |
+| Yu lubi | Vi amas   |
+| Nu lubi | Ni amas   |
 
 La baza formo de la verbo mem ne enhavas indikon pri la tempo de la ago.
 
-La tempo de la ago estas determinita de la kunteksto (ekzemple, la vorto yeri
-(hieraŭ) malambigue indikas la estintecon, la vorto manya (morgaŭ) la
-estontecon, kaj nau (nun), sedey (ĉi tiu tago) la estantecon). Se ne ekzistas
-kunteksto, oni supozas la estantecon.
+La tempo de la ago estas determinata de la kunteksto (ekzemple, la vorto
+**yeri** (hieraŭ) malambigue indikas la estintecon, la vorto **manya** (morgaŭ)
+la estontecon, kaj **nau** (nun), **sedey** (ĉi tiu tago) la estantecon). Se ne
+ekzistas kunteksto, oni supozas la estantecon.
 
 | Lidepla         | Espera              |
 | --------------- | ------------------- |
-| yeri yu         | hieraŭ vi diris     |
-| manya nu samaji | morgaŭ ni komprenos |
+| Yeri yu         | Hieraŭ vi diris     |
+| Manya nu samaji | Morgaŭ ni komprenos |
 
 ### Ekzerco de tradukado 1
 
@@ -89,13 +89,13 @@ kunteksto, oni supozas la estantecon.
 | Vi ĉiuj parolas. |        |
 | Me parolas.      |        |
 
-## Neado, Demandoj kaj Respondoj, Emfazanta partiklo
+## Neado, Demandoj kaj Respondoj, Emfazanta partiklo Ya
 
-Por nei, la partiklo bu estas metita antaŭ la verbo.
+Por nei, la partiklo **bu** (ne) estas metita antaŭ la verbo.
 
 | Lidepla   | Esperanto   |
 | --------- | ----------- |
-| me bu jan | mi ne scias |
+| Me bu jan | Mi ne scias |
 
 Por fari demandon, necesas meti la partiklon **ob** (ĉu) antaŭ la tuta frazo.
 
@@ -122,9 +122,10 @@ Por fari demandon, necesas meti la partiklon **ob** (ĉu) antaŭ la tuta frazo.
 
 Oni povas respondi ĝeneralan demandon uzante la vortojn:
 
-- ya (jes)
-- non (ne)
-- doh (jes; Ho jes; Ne; male, tute male.) [en respondo al negativa demando aŭ deklaro.]
+- Ya (Jes, Ja)
+- Non (Ne)
+- Doh (Jes; Ho jes; Ne; Male, Tute male.) [en respondo al negativa demando aŭ
+deklaro.]
 
 Ob yu samaji?
 
@@ -135,13 +136,13 @@ Ob yu samaji?
 
 Ob yu bu samaji?
 
-| Lidepla              | Esperanto                      |
-| -------------------- | ------------------------------ |
-| Ya/Non, me bu samaji | Ne, mi ne komprenas.           |
-| Doh, me samaji.      | Yes / Tute male, mi komprenas. |
+| Lidepla               | Esperanto                      |
+| --------------------- | ------------------------------ |
+| Ya/Non, me bu samaji. | Ne, mi ne komprenas.           |
+| Doh, me samaji.       | Yes / Tute male, mi komprenas. |
 
-La partiklo **ya** ankaŭ povas esti metita antaŭ aŭ post la verbo por emfazi
-ĝian signifon:
+La partiklo **ya** (ja) ankaŭ povas esti metita antaŭ aŭ post la verbo por
+emfazi ĝian signifon:
 
 | Lidepla       | Esperanto                            |
 | ------------- | ------------------------------------ |
@@ -152,8 +153,8 @@ La partiklo **ya** ankaŭ povas esti metita antaŭ aŭ post la verbo por emfazi
 
 Por klarigi la daŭron de la ago (se estas necese), partikloj estas uzataj:
 
-- ve [Antaŭ la verbo] - Estonta tempo.
-- -te [Post la verbo kun streketo] - Pasinta tempo.
+- ve [Antaŭ la verbo] - Estonta tempo (-os).
+- -te [Post la verbo kun streketo] - Pasinta tempo (-is).
 
 | Lidepla          | Esperanto         |
 | ---------------- | ----------------- |
@@ -175,11 +176,11 @@ Por klarigi la daŭron de la ago (se estas necese), partikloj estas uzataj:
 
 Konjunkcioj estas utila por kombini vortojn kaj frazojn:
 
-- e (kaj)
-- o (aŭ)
-- bat (sed)
-- dabe (por ke)
-- bikos (ĉar)
+- E (Kaj)
+- O (Aŭ)
+- Bat (Sed)
+- Dabe (Por ke)
+- Bikos (Ĉar)
 
 | Lidepla                  | Esperanto                      |
 | -----------------------  | ------------------------------ |
@@ -204,17 +205,17 @@ de gramatikaj partikloj.
 
 | Lidepla | Esperanto    | Ekzemplo                            |
 | ------- | ---------    | ----------------------------------- |
-| dumi    | pensi        | me dumi. li ve dumi. nu dumi-te.    |
-| jan     | scii         | me bu jan. ob yu jan?               |
-| samaji  | kompreni     | ta bu samaji. ob yu samaji?         |
-| kredi   | kredi        | me kredi. ta bu kredi. nu ve kredi. |
-| nadi    | esperi       | ob yu nadi? me nadi-te ya!          |
-| lubi    | ami          | nu lubi. me ve lubi. ta lubi-te.    |
-| gun     | labori       | li bu gun. me gun. on yu gun?       |
-| jivi    | vivi         | nu ve jivi. li jivi-te.             |
-| vidi    | vidi         | ob yu vidi? ta bu vidi. me vidi ya! |
-| audi    | aŭdi         | ob yu audi? me bu audi. ta ve audi. |
-| shwo    | paroli, diri | me shwo-te. ob yu ve shwo?          |
+| Dumi    | Pensi        | Me dumi. Li ve dumi. Nu dumi-te.    |
+| Jan     | Scii         | Me bu jan. Ob yu jan?               |
+| Samaji  | Kompreni     | Ta bu samaji. Ob yu samaji?         |
+| Kredi   | Kredi        | Me kredi. Ta bu kredi. Nu ve kredi. |
+| Nadi    | Esperi       | Ob yu nadi? Me nadi-te ya!          |
+| Lubi    | Ami          | Nu lubi. Me ve lubi. Ta lubi-te.    |
+| Gun     | Labori       | Li bu gun. Me gun. On yu gun?       |
+| Jivi    | Vivi         | Nu ve jivi. Li jivi-te.             |
+| Vidi    | Vidi         | Ob yu vidi? Ta bu vidi. Me vidi ya! |
+| Audi    | Aŭdi         | Ob yu audi? Me bu audi. Ta ve audi. |
+| Shwo    | Paroli, Diri | Me shwo-te. Ob yu ve shwo?          |
 
 ### Ekzerco de tradukado 4
 
@@ -246,8 +247,8 @@ Provu rerakonti ĉi tiun tekston aŭ elpensi vian propran tekston.
 
 ## Etiketo: Konatiĝi
 
-Ekzistas unu universala vorto en la lingvo Lidepla, kiu povas esti prononcata
-kiel saluto, aŭ kiel adiaŭo, aŭ simplekiel bondeziro. Ĉi tiu vorto estas
+Ekzistas universala vorto en lingvo Lidepla, kiu povas esti prononcata
+kiel saluto, aŭ kiel adiaŭo, aŭ simple kiel bondeziro. Ĉi tiu vorto estas
 **Swasti**! Laŭvorte, ĝi signifas "Estu feliĉo! Estu paco!"
 
 Krome, kiam vi salutas, vi povas diri: **Salam**! (Saluton), **Namastee**!
@@ -255,18 +256,18 @@ Krome, kiam vi salutas, vi povas diri: **Salam**! (Saluton), **Namastee**!
 
 > Duobligi la vokalon indikas, ke ĉi tiu vokalo estas emfazita.
 
-Por prezenti vin, vi bezonas la verbon nami (nomi, nomiĝi):
+Por prezenti vin, vi bezonas la verbon **nami** (nomi, nomiĝi):
 
-| Lidepla         | Esperanto       |
-| --------------- | --------------- |
-| Me nami Lena    | Mi nomiĝas Lena |
+| Lidepla       | Esperanto        |
+| ------------- | ---------------- |
+| Me nami Lena. | Mi nomiĝas Lena. |
 
-Post kial la interparolanto diras sian nomon, vi povas esprimi ĝojon pro pro
+Post, kiam la interparolanto diras sian nomon, vi povas esprimi ĝojon pro
 renkontiĝo kun la verbo **joi** (ĝoji):
 
 | Lidepla         | Esperanto       |
 | --------------- | --------------- |
-| Me joi          | Mi ĝojas        |
+| Me joi.         | Mi ĝojas.       |
 
     - Salam! Me nomas Nina.
     - Swasti! Me nomas Marina. Me joi.
@@ -291,8 +292,8 @@ kristanigon de Britio, kaj dum tiu ĉi periodo aperis en la angla lingvo granda
 nombro da vortoj latindevenaj kiel **school** (lernejo), **priest** (pastro).
 
 En la 9-a jarcento p.K komenciĝis la konkero de Britio fare de danoj. Rezulte
-aperis voroj en la angla pruntita el la skandinavaj lingvoj: **anger** (kolero),
-**sky** (ĉielo).
+aperis vortoj en la angla pruntita el la skandinavaj lingvoj: **anger**
+(kolero), **sky** (ĉielo).
 
 En la 11-a jarcento, Britio estis konkerita de la loĝantoj de norda Francio. De
 ĉi tiu tempo komenciĝas la epoko de tri lingvoj:
@@ -304,11 +305,11 @@ En la 11-a jarcento, Britio estis konkerita de la loĝantoj de norda Francio. De
 Ekde tiam, en la angla ekzistas serioj da vortoj, kiuj estas proksimaj laŭ
 signifo, sed havas malsamajn originojn, kaj tial sufiĉe diferencas unu de la
 alia: **head** (Kapo, de la anglosaksa), **chapter** (Ĉapitro, de la latina),
-chief (Ĉefo, de la franca).
+**chief** (Ĉefo, de la franca).
 
 Ekde la 15-a jarcento, Britio praktikas aktivan kolonian politikon, rezulte de
 kiu hodiaŭ ekzistas signifa nombro da varioj de la angla, kiel la usona anga, la
-aŭstralia angla, la kanada angla, sen mencii la grandan nombron da tre mansamaj
+aŭstralia angla, la kanada angla, sen mencii la grandan nombron da tre malsamaj
 dialektoj, kiuj ekzistas en la Britaj insuloj mem. Tiel, la angla ĝis hodiaŭ
 restas miksita kaj tre heterogena.
 
@@ -318,8 +319,8 @@ lingvo tute perdus ilin, se ne estus la evoluo de la skriba lingvo kaj la
 konvinko de fruaj gramatikistoj, ke "Ĝusta" gramatiko nepre devas simili latinan
 gramatikon.
 
-Vi certe havas ideon pri kiel kiel oni parolas la angla. Sed tamen, pro komparo
-kun la lingvo priparolataj en la sekvaj lecionoj, ni prezentas ĉi tie malgrandan
+Vi certe havas ideon pri kiel oni parolas la angla. Sed tamen, pro komparo kun
+la lingvo priparolataj en la sekvaj lecionoj, ni prezentas ĉi tie malgrandan
 eltiraĵon el la fama libro de A. Exupery "La Eta Princo", skribita per
 literumado kaj poste fonetike, tio estas proksimume kiel ĝi sonas.
 
@@ -344,7 +345,7 @@ Fonetike:
     ay em 'veri fond e/ov 'sansets.
 
 Videblas, ke la angla lingvo karakterizas per sufiĉe mallongaj vortoj kaj granda
-nombro da diftongoj (duoblaj vokaloj> ai, ou, ktp). Krome, oni klare vidas, ke
+nombro da diftongoj (duoblaj vokaloj: ai, ou, ktp). Krome, oni klare vidas, ke
 la literumo estas signife malsama al la sono de la vorto.
 
 Kiam oni pruntas anglajn vortojn en Lidepla, kutime oni konservas antaŭ ĉio

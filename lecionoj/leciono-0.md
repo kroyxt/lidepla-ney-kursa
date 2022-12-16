@@ -2,18 +2,18 @@
 
 ## Lingua de planeta - Neŭtrala lingvo de internacia komunikado
 
-Kiel devas esti la lingvo de internacia komunikado?
+Kiel devus esti lingvo de internacia komunikado?
 
-Verŝajne neŭtrala. Tio signifas, ne apartenante al iu aparta popolo (kiel la
+Verŝajne neŭtrala. Tio signifas, ke ne apartenante al iu aparta popolo (kiel la
 angla).
 
-Verŝajne simpla gramatike. Tio signifas, ne enhavante grandegan nombron da
+Verŝajne simpla gramatike. Tio signifas, ke ne enhavante grandegan nombron da
 malsamaj formoj, kiujn oni devas lerni (kiel ekzemple la rusa).
 
 Verŝajne simpla fonetike. Tio signifas, ke ĉiuj sonoj povus esti facile
 pronoceblaj de parolantoj de diversaj lingvoj.
 
-Verŝajne melodia. Tio signifas, tiu en kiu paroloj sonus bele, kaj tial estus
+Verŝajne melodia. Tio signifas, ke tiu en kiu paroloj sonus bele, kaj tial estus
 agrable paroli en ĝi.
 
 Verŝajne enhavante internaciajn kaj divastigitajn vortojn. Tial ili estas
@@ -26,24 +26,24 @@ denaska parolanto de iu ajn lingvo.
 
 Lingwa de planeta, aŭ Lidepla, estas lingvo, kiu plenumas ĉiujn ĉi-suprajn
 postulojn por internacia lingvo. Ĝi estis kreita kiel unuopa harmonia tuto
-surbaze de la plej ingluaj kaj divastigitaj naciaj lingvoj nuntempe (Angla,
+surbaze de la plej influaj kaj divastigitaj naciaj lingvoj nuntempe (Angla,
 Germana, Franca, Hipana, Portugala, Ĉina, Rusa, Hinda, Araba).
 
-Kompreneble, hodiaŭ vi verŝajne ne renkontos personon, kiu konos je Lidepla en
-framda lando. Sed, tamen, lerni ĉi tiun lingvon povas esti ne nur interesa, sed
-ankaŭ ege utila. Ja, sen esti distrita de la studo de malfacilaĵoj kaj esceptoj,
-vi lernos klare formuli pensojn en negepatra lingvo kaj ĉi tio estas unu el la
-plej grava taskoj, kiujn vi devas solvi kiam vi lernas la unuan frendam lingvon
-(oni scias, ke la sekva lingvo estas ricevata multe pli facile). Kaj krome, vi
-facile kaj simple lernos ĉirkaŭ duonmil vortojn, kiuj tre similas al realaj kaj
-vivantaj vortoj en la plej oftaj lingvoj sur nia planedo nuntempe.
+Kompreneble, hodiaŭ vi verŝajne ne renkontos personojn, kiu konos je Lidepla en
+fremdaj landoj. Sed, tamen, lerni ĉi tiun lingvon povas esti ne nur interesa,
+sed ankaŭ ege utila. Ja, sen esti distrita de la studo de malfacilaĵoj kaj
+esceptoj, vi lernos klare formuli pensojn en negepatra lingvo kaj ĉi tio estas
+unu el la plej grava taskoj, kiujn vi devas solvi kiam vi lernas la unuan
+frendam lingvon (oni scias, ke la sekva lingvo estas ricevata multe pli facile).
+Kaj krome, vi facile kaj simple lernos ĉirkaŭ duonmil vortojn, kiuj tre similas
+al realaj kaj vivantaj vortoj en la plej oftaj lingvoj sur nia planedo nuntempe.
 
-Ni deziras al vi bonan sorton en regado de Lingwa de planeta!
+Ni deziras al vi bonan sorton en la regado de Lingwa de planeta!
 
-## Alfabeto kaj pronoco
+## Alfabeto kaj pronocado
 
 Lidepla alfabeto baziĝas sur la latina kaj havas nur 25 literojn. En ĉi tiu
-kazo, la litero **"q"** ne estas uzata, kaj la litero **"c"** okazas nur en la
+kazo, la litero **"q"** ne estas uzata, kaj la litero **"c"** aperas nur en la
 kombinaĵo **"ch"**.
 
 | Litero | Prononco |

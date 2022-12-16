@@ -96,7 +96,7 @@ Aliaj gravaj Prepozicioj: **fo** (por), **por** (pro), **kun** (kun), **sin**
 | Sen ŝi.   |         |
 | Pro vi.   |         |
 
-Prepozicio ankaŭ povas sekvi verbo:
+Prepozicio ankaŭ povas sekvi verbon:
 
 | Lidepla                    | Esperanto                        |
 | -------------------------- | -------------------------------- |
@@ -106,14 +106,14 @@ Prepozicio ankaŭ povas sekvi verbo:
 
 Demandaj korelativoj:
 
-- hu (kiu)
-- kwo (kio)
-- wo (kie)
-- a wo (kien)
-- fon wo (de kie)
-- wen (kiam)
-- way (kial)
-- komo (kiel)
+- Hu (Kiu)
+- Kwo (Kio)
+- Wo (Kie)
+- A wo (Kien)
+- Fon wo (De kie, Kies)
+- Wen (Kiam)
+- Way (Kial)
+- Komo (Kiel)
 
 Demandaj korelativoj estas metitaj, kiel regulo, komence de la frazo, la
 vortordo en la frazo ne ŝanĝiĝas.
@@ -139,14 +139,14 @@ vortordo en la frazo ne ŝanĝiĝas.
 
 Vi povas respondi demandaj korelativoj uzante Demostrativaj korelativoj:
 
-- se (ĉi tio)
-- to (tio)
-- hir (ĉi tie)
-- dar (tie)
-- ahir (ĉi tien)
-- adar (tien)
-- dan (tiam)
-- tak (tiel)
+- Se (Ĉi tio)
+- To (Tio)
+- Hir (Ĉi tie)
+- Dar (Tie)
+- Ahir (Ĉi tien)
+- Adar (Tien)
+- Dan (Tiam)
+- Tak (Tiel)
 
 | Lidepla               | Esperanto                      |
 | --------------------- | ------------------------------ |
@@ -215,7 +215,7 @@ Alia maniero por konstrui Kompleksan frazon estas: prepozicio + partiklo **ke**:
 Es esperanto ekzistas la vorto **ajn**, kiu povas aperi post ui demanda
 korelativo, komence de subfrazo: kiu ajn, kia ajn, kiel ajn, etc, En Lidepla,
 tiu ĉi vorto estas esprimata per la vorto **unkwe** (ajn), kiu ankaŭ povas esti
-metita post iu demanda korelativo (La verbo estas uzata en la ĉefformo):
+metita post iu demanda korelativo (La verbo estas uzata en la ĉefa formo):
 
 | Lidepla                              | Esperanto                                           |
 | ------------------------------------ | --------------------------------------------------- |
@@ -238,21 +238,21 @@ Kelkfoje ne gravas kiu faras kion. Por tia okazo ekzistas pronomo **oni** (oni).
 | Kiu ajn venas.                  |         |
 | Kiel ajn oni petas (pregi) min. |         |
 
-## Specialaj verboj
+## Modalaj verboj
 
-Specialaj verboj, kiuj esprimas sintenon al ago kutime estas nomataj "modaj".
+Specialaj verboj, kiuj esprimas sintenon al ago kutime estas nomataj "modalaj".
 Kaj kun ilia helpo, vi povas komponi verbsekvenvojn:
 
-- mog (povi, darfi)
-- janmog (scipovi)
-- darfi (rajti)
-- treba (necesas; igi necesa)
-- mus (devi)
-- gai (devus)
-- majbur (devigatas, esti devigata)
-- nidi (malhavi ion necesan, bezoni)
-- yao (voli)
-- pri (ŝati, plaĉi)
+- Mog (Povi)
+- Janmog (Scipovi)
+- Darfi (Rajti)
+- Treba (Necesas; Igi necesa)
+- Mus (Devi)
+- Gai (Devus)
+- Majbur (Devigatas, esti devigata)
+- Nidi (Malhavi ion necesan, bezoni)
+- Yao (Voli)
+- Pri (Ŝati, Plaĉi)
 
 Specialaj verboj mem povas alligi partiklojn kiuj precizigas tempon. Semantikaj
 verboj post specialaj verboj estas en la ĉefa formo.
@@ -284,10 +284,10 @@ frazo alprenas nepersonan signifon:
 
 ## Emfazaj vortoj
 
-Por rimarki, emfazi la signifon de la tuta frazo (tio estas, antaŭ ĉio ĝia predikato),
-kiel ni jam scias, oni uzas la partiklon **ya**. Sed ĉe Lidepla ekzistas ankaŭ
-la partiklo de pli direkta ago: Ĝi enfazas ĝuste la vorton, post kiu ĝi
-troviĝas. Jen la partiklo **hi**:
+Por rimarki, emfazi la signifon de la tuta frazo (tio estas, antaŭ ĉio ĝia
+predikato), kiel ni jam scias, oni uzas la partiklon **ya**. Sed en Lidepla
+ekzistas ankaŭ la partiklo de pli direkta emfazo: Ĝi enfazas ĝuste la vorton,
+post kiu ĝi troviĝas. Jen la partiklo **hi**:
 
 > La uzo de citiloj en la esperanta traduko estas nur por montri al vi kiu parto
 > de la frazo estas emfazita per la partiklo.
@@ -304,11 +304,11 @@ estas metita post la vorto):
 > La uzo de citiloj en la esperanta traduko estas nur por montri al vi kiu parto
 > de la frazo estas emfazita per la partiklo.
 
-| Lidepla          | Esperanto           |
-| ---------------- | ------------------- |
+| Lidepla          | Esperanto             |
+| ---------------- | --------------------- |
 | Yu ku bu yao go? | Ĉu "vi" ne volas iri? |
 
-La partiklo **ku** estas utila kiam vi bezonas demandi ĝeneralan demandon pri
+La partiklo **ku** estas utila kiam oni bezonas demandi ĝeneralan demandon pri
 mallonga frazo:
 
 | Lidepla    | Esperanto    |
@@ -328,7 +328,7 @@ mallonga frazo:
 
 ## Utilaj vortoj por rakontoj
 
-En rakonto, ekzemple, pri vi mem, pri viaj kapabloj, la vorto **yoshi**
+Por rakonto, ekzemple, pri vi mem, pri viaj kapabloj, la vorto **yoshi**
 (ankoraux (plie), ankaux (kaj plie)) povas esti utila:
 
 | Lidepla                                | Esperanto                                     |
@@ -344,10 +344,10 @@ utila:
 
 Vortoj necesaj por komuniki la ordon kaj tempon de eventoj:
 
-- poy (poste, pli malfrue)
-- snova (denove, ree)
-- turan (subite)
-- tuy (tuj)
+- Poy (Poste, Pli malfrue)
+- Snova (Denove, Ree)
+- Turan (Subite)
+- Tuy (Tuj)
 
 | Lidepla                  | Esperanto                           |
 | ------------------------ | ----------------------------------- |
@@ -357,9 +357,9 @@ Vortoj necesaj por komuniki la ordon kaj tempon de eventoj:
 
 Utilaj konjunkcioj:
 
-- sikom (ĉar, pro la fakto ke, pro la kaŭzo, konsiderante ke)
-- obwol (kvankam)
-- yedoh (tamen)
+- Sikom (Ĉar, Pro la fakto ke, Pro la kaŭzo, Konsiderante ke)
+- Obwol (Kvankam)
+- Yedoh (Tamen)
 
 | Lidepla                         | Esperanto                                   |
 | ------------------------------- | ------------------------------------------- |
@@ -493,8 +493,10 @@ la vortfarada konsisto de la lingvo spertis signifajn transformojn dufoje: en la
 tavolo de konceptoj, kaj ekde la komenco de la 20-a jarcento, la lingvo absorbas
 la adaptitajn konceptojn de okcidenta civilizo.
 
-Eltiraĵo de "La eta princo" en la ĉina (La transskribo estis registrita per
-Lidepla sonoj tre proksimume, sen indiki tonojn)
+Eltiraĵo de "La eta princo" en la ĉina:
+
+>La transskribo estis registrita per Lidepla sonoj tre proksimume, sen indiki
+>tonojn.
 
 Literumado:
 

@@ -47,7 +47,7 @@ Do, la vorto **flor**, ekzemple, depende de la kunteksto, povas signifi kaj
 | ------- | --------- |
 | Un flor | Unu floro |
 
-Alia maniero klarigi unikecon (unu peco): partiklo **ge** (metita psot la vorto
+Alia maniero klarigi unikecon (unu peco): partiklo **ge** (metita post la vorto
 kun strekto):
 
 | Lidepla | Esperanto         |
@@ -85,7 +85,7 @@ Se necese, specifu la sekson en aliaj kazoj uzante:
 | Gin-kota.       | Katino.         |
 | Man-kota.       | Virkato.        |
 
-- anstataŭigante la finaĵon a per **-ina** (-ino) / **-o** (viro):
+Anstataŭigante la finaĵon **a** per **-ina** (-ino) / **-o** (viro):
 
 | Lidepla         | Esperanto       |
 | --------------- | --------------- |
@@ -96,14 +96,14 @@ La substantivo en Lidepla ne havas kasojn. Tamen ekzistas 2 malsamaj
 kazformoj de substantivoj laŭ ĝia funkcio en la frazo (la samaj 2 kazoj
 ankaŭ rilatas por personaj pronomoj):
 
-- nominativa kazo (poziciita antaŭ la verbo):
+- Nominativa kazo (poziciita antaŭ la verbo):
 
 | Lidepla           | Esperanto        |
 | ----------------- | ---------------- |
 | **Me** jan.       | Mi scias.        |
 | **Amiga** samaji. | Amiko komprenas. |
 
-- dativa kaj akuzativa kazo (poziciita post la verbo aŭ post prepozicio):
+- Dativa kaj akuzativa kazo (poziciita post la verbo aŭ post prepozicio):
 
 | Lidepla               | Esperanto             |
 | --------------------- | --------------------- |
@@ -130,7 +130,7 @@ Substantivoj povas esti formataj el verboj.
 Ĝenerala subtantivoj kiu rilatas al agoj kaj indikas procezon/rezulton estas
 formitaj per:
 
-- anstatatŭigante la finaĵon **i** per **a** (se la verbo finiĝas per konsonanto
+- Anstatatŭigante la finaĵon **i** per **a** (se la verbo finiĝas per konsonanto
 \+ i):
 
 | Verbo | Substantivo |
@@ -144,7 +144,7 @@ unusilaba):
 | ----- | ------------------ |
 | Pri   | Pria (ŝato, plaĉo) |
 
-- Aldonante **sa** (se la verbo finiĝas per io alia ol **i**):
+- Aldonante **sa** (se la verbo finiĝas per io alia ol **i**, aŭ diptongo):
 
 | Verbo | Substantivo        |
 | ----- | ------------------ |
@@ -182,7 +182,7 @@ Adjektivoj respondas al demando **Kia?/Kiu?** (Kwel?)
 
 Ekzemploj de adjektivoj:
 
-- Hao (bona).
+- Hao (Bona).
 - Buhao (Malbona).
 - Gran (Granda).
 - Syao (Malgranda).
@@ -307,7 +307,7 @@ aŭ rekta objekto de la verbo.
 
 En ĉi tiu rolo, substativoj povas esti akompanataj de adjektivoj.
 
-La priskribo estas kutime metita antaŭ la priskribata vorto.
+La adjektivo estas kutime metita antaŭ la priskribata vorto.
 
 | Lidepla                     | Esperanto                          |
 | --------------------------- | ---------------------------------- |
