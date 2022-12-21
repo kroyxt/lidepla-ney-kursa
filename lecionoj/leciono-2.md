@@ -4,9 +4,9 @@ En ĉi tiu leciono vi lernos:
 
 - 4 pronomoj (swa, mutu, it, oni)
 - 12 verboj (pregi, kwesti, jawabi, dai, pren, helpi, go, lai, safari, gani,
-dansi, rasmi)
+  dansi, rasmi)
 - 10 specialaj verboj (mog, janmog, darfi, treba, mus, gai, majbur, nidi, yao,
-pri)
+  pri)
 - 8 prepozicioj (a, om, fo, por, kun, sin, in, fon)
 - 6 relativaj kaj demandaj korelativoj (hu, kwo, wo, wen, way, komo)
 - 6 demostrativaj korelativoj (hir, dar, ahir, adar, dan, tak)
@@ -357,15 +357,15 @@ Vortoj necesaj por komuniki la ordon kaj tempon de eventoj:
 
 Utilaj konjunkcioj:
 
-- Sikom (Ĉar, Pro la fakto ke, Pro la kaŭzo, Konsiderante ke)
+- Sikom (Ĉar (ĉe la  komenco de frazo))
 - Obwol (Kvankam)
 - Yedoh (Tamen)
 
-| Lidepla                         | Esperanto                                   |
-| ------------------------------- | ------------------------------------------- |
-| Sikom yu bu shwo-te, me bu jan. | Konsiderante ke vi ne parolis, mi ne scias. |
-| Yu bu jawabi, obwol me kwesti.  | Vi ne respondas, kvankam mi demandas.       |
-| Me bu kwesti, yedoh ta shwo.    | Mi ne demandas, tamen li parolas.           |
+| Lidepla                         | Esperanto                             |
+| ------------------------------- | ------------------------------------- |
+| Sikom yu bu shwo-te, me bu jan. | Ĉar vi ne parolis, mi ne scias.       |
+| Yu bu jawabi, obwol me kwesti.  | Vi ne respondas, kvankam mi demandas. |
+| Me bu kwesti, yedoh ta shwo.    | Mi ne demandas, tamen li parolas.     |
 
 ### Ekzerco de tradukado 8
 
@@ -378,7 +378,7 @@ Utilaj konjunkcioj:
 | Li povas veni subite.                                   |         |
 | Ŝi ne volas esperi, tamen li amas ŝin.                  |         |
 | Ni ne volas vidi ŝin denove.                            |         |
-| Mi kredas, ĉar/pro la kaŭzo ke mi ne volas vivi sen vi. |         |
+| Ĉar mi ne volas vivi sen vi, mi kredas.                 |         |
 | Poste mi respondos (jawabi) al (a) vi.                  |         |
 
 ## Novaj verboj
@@ -417,7 +417,7 @@ Utilaj konjunkcioj:
 | Oni povas kanti, poste danci, poste denove kanti pro ĝojo.                              | Oni.., poy..., poy snova... por joi. |
 | Kial vi subite diras, ke vi ne komprenas por kio vojaĝi?                                | Way yu turan..., ke yu... fo kwo...? |
 | Ĉu vi demandos min pri tio?                                                             | Ob yu... om to?                      |
-| Sed mi ne povas respondi al vi, ĉar/pro la kaŭzo ke mi ne komprenas kion vi volas aŭdi. | Bat me... sikom me... kwo yu...      |
+| Sed, ĉar mi ne komprenas kion vi volas aŭdi, mi ne povas respondi al vi.                | Bat sikom me... kwo yu... me...      |
 | Kvankam mi komprenis vin.                                                               | Obwol me... yu.                      |
 | Kaj mi esperas, ke mi komprenos.                                                        | E me..., ke me...                    |
 | Pri kio vi pensas?                                                                      | Om kwo yu...?                        |
@@ -526,22 +526,59 @@ silabo, aŭ falas, aŭ restas je la sama tono.
 
 Inter la plej oftaj vortoj en Lidepla, estas multaj vortoj pruntitaj el la ĉina.
 
-- Funkciaj vortoj kaj adverboj: bu (ne), ba (imperativa partiklo), gwo
-(nedefinita pasinta tempo), zai (aktuala ago), zyu (plej), fen (formas
-frakciojn), shi (dek), idyen (iomete), haishi (ankoraŭ), shao (malmulte, iom),
-turam (subite).
+- Funkciaj vortoj kaj adverboj:
+    - Bu (Ne)
+    - Ba (Imperativa partiklo)
+    - Gwo (Nedefinita pasinta tempo)
+    - Zai (Aktuala ago)
+    - Zyu (Plej)
+    - Fen (Formas frakciojn)
+    - Shi (Dek)
+    - Idyen (Iomete)
+    - Haishi (Ankoraŭ)
+    - Shao (Malmulte, Iom)
+    - Turam (Subite)
 
-- Substantivoj: jen (persono), bao (sako), mao (lano), dao (maniero), yuan
-(funkciulo, ano, membro), guan (publika institucio, ejo), bey (dorso), duza
-(ventro), tuza (leporo), chiza (kulero), feng (vento).
+- Substantivoj:
+    - Jen (Persono)
+    - Bao (Sako)
+    - Mao (Lano)
+    - Dao (Maniero)
+    - Yuan (Funkciulo, Ano, membro)
+    - Guan (Publika institucio, Ejo)
+    - Bey (Dorso)
+    - Duza (Ventro)
+    - Tuza (Leporo)
+    - Chiza (Kulero)
+    - Feng (Vento)
 
-- Verboj: zwo (fari), shwo (paroli), lwo (fali), yao (voli), kan (rigardi), gun
-(labori), chi (manĝi), zin (eniri), chu (eliri), zun (fari ion), mangi (esti
-okupata), tungi (dolori, vundi), kaulu (konsideri).
+- Verboj:
+    - Zwo (Fari)
+    - Shwo (Paroli)
+    - Lwo (Fali)
+    - Yao (Voli)
+    - Kan (Rigardi)
+    - Gun (Labori)
+    - Chi (Manĝi)
+    - Zin (Eniri)
+    - Chu (Eliri)
+    - Zun (Fari ion)
+    - Mangi (Esti okupata)
+    - Tungi (Dolori, Vundi)
+    - Kaulu (Konsideri)
 
-- Adjektivoj: hao (bona), lao (malnova), gao (alta), syao (malgranda), byen
-(konforta), hwan (flava), suan (acida), guy (multekosta), kway (rapida), lenge
-(malvarma), lan (maldiligenta).
+- Adjektivoj:
+    - Hao (Bona)
+    - Lao (Malnova)
+    - Gao (Alta)
+    - Syao (Malgranda)
+    - Byen (Konforta)
+    - Hwan (Flava)
+    - Suan (Acida)
+    - Guy (Multekosta)
+    - Kway (Rapida)
+    - Lenge (Malvarma)
+    - Lan (Maldiligenta)
 
 [Respondoj de la Ekzercoj de tradukado](./respondoj/l-2.md)
 

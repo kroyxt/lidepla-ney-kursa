@@ -2,10 +2,10 @@
 
 En ĉi tiu leciono vi lernos:
 
-- 11 verboj (muvi, flai, lopi, sidi, stan, somni, plei, lekti, skribi, remembi,
-fogeti).
+- 11 verboj (muvi, flai, lopi, sidi, stan, somni, plei, lekti, skribi,
+  remembi,fogeti).
 - 11 Substantivoj (jen, kinda, amiga, dom, flor, kitaba, taim; sabah, dey,
-aksham, nocha).
+  aksham, nocha).
 - 5 adjektivoj (hao, buhao, syao, gran, jamile).
 - 6 adverboj de kvanto (muy, idyen, aika, basta, tro, ga).
 - 7 specialaj verboj (bi/es/bin, ye, yok, hev, sta).
@@ -131,14 +131,14 @@ Substantivoj povas esti formataj el verboj.
 formitaj per:
 
 - Anstatatŭigante la finaĵon **i** per **a** (se la verbo finiĝas per konsonanto
-\+ i):
+  \+ i):
 
 | Verbo | Substantivo |
 | ----- | ----------- |
 | Lubi  | Luba (amo)  |
 
 - Aldonante **a** (se la verbo finiĝas per konsonanto + **i**, sed estas
-unusilaba):
+  unusilaba):
 
 | Verbo | Substantivo        |
 | ----- | ------------------ |
@@ -618,21 +618,61 @@ vortoj kiuj konsistigas la plimulton de vortprovizo de Lidepla.
 
 La plej oftaj vortoj pruntitaj el la hispana:
 
-- Funkciaj vortoj: a (al), kada (ĉiuj), kwanto (kiom da), es (estas), ela (ŝi),
-mil (mil), mucho (multe), komo (kiel), sol (nur), sin (sen), i... i... (kaj...
-kaj..), muy (tre), basta (sufiĉe), ambi (ambaŭ), segun (laŭ).
+- Funkciaj vortoj:
+    - A (Al)
+    - Kada (Ĉiuj)
+    - Kwanto (Kiom da)
+    - Es (Estas)
+    - Ela (Ŝi)
+    - Mil (Mil)
+    - Mucho (Multe)
+    - Komo (Kiel)
+    - Sol (Nur)
+    - Sin (Sen)
+    - I... i... (Kaj... kaj..)
+    - Muy (Tre)
+    - Basta (Sufiĉe)
+    - Ambi (Ambaŭ)
+    - Segun (Laŭ)
 
-- Substantivoj: kosa (aĵo, io), flor (floro), tasa (taso), kamina (vojo), tren
-(trajno), avion (aviadilo, flugilo), amiga (amiko), vos (voĉo), munda (mondo),
-oton (aŭtuno), mes (monato), isla (insulo), mar (maro).
+- Substantivoj:
+    - Kosa (Aĵo Io)
+    - Flor (Floro)
+    - Tasa (Taso)
+    - Kamina (Vojo)
+    - Tren (Trajno)
+    - Avion (Aviadilo Flugilo)
+    - Amiga (Amiko)
+    - Vos (Voĉo)
+    - Munda (Mondo)
+    - Oton (Aŭtuno)
+    - Mes (Monato)
+    - Isla (Insulo)
+    - Mar (Maro)
 
-- Verboj: skribi (skribi), fumi (fumi), inviti (inviti), visiti (viziti),
-resolvi (solvi (taskon)), regi (regi, reĝi), kresi (kreski), konsenti
-(konsenti), doni (doni).
+- Verboj:
+    - Skribi (Skribi)
+    - Fumi (Fumi)
+    - Inviti (Inviti)
+    - Visiti (Viziti)
+    - Resolvi (Solvi (taskon))
+    - Regi (Regi Reĝi)
+    - Kresi (Kreski)
+    - Konsenti (Konsenti)
+    - Doni (Doni)
 
-- Adjektivoj: gran (granda), blan (blanka), lente (malrapida), otre (alia),
-alegre (gaja), agude (akuta), vere (reala, vera), tarde (malfrua), kare
-(multekosta), libre (libera), sane (sana).
+- Adjektivoj:
+    - Gran (Granda)
+    - Blan (Blanka)
+    - Lente (Malrapida)
+    - Otre (Alia)
+    - Alegre (Gaja)
+    - Agude (Akuta)
+    - Vere (Reala Vera)
+    - Tarde (Malfrua)
+    - Kare (Multekosta)
+    - Libre (Libera)
+    - Sane (Sana)
 
 [Respondoj de la Ekzercoj de tradukado](./respondoj/l-3.md)
 

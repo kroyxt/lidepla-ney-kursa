@@ -125,7 +125,7 @@ Oni povas respondi ĝeneralan demandon uzante la vortojn:
 - Ya (Jes, Ja)
 - Non (Ne)
 - Doh (Jes; Ho jes; Ne; Male, Tute male.) [en respondo al negativa demando aŭ
-deklaro.]
+  deklaro.]
 
 Ob yu samaji?
 
@@ -356,18 +356,49 @@ adjektivo **e** ).
 
 Ĝuste el la angla lingvo multaj gramatikaj vortoj venis al lidepla:
 
-- Konjukcioj: o (aŭ), bat (sed), bikos (ĉar).
-- Prepozicioj: fo (por), bay (per, de (iu)) bifoo (antaŭe), afte (post).
-- Adverboj: nau (nun), iven (eĉ)
-- Relativaj kaj Demandaj korelativoj: hu (kiu), wen (kiam)
+- Konjukcioj:
+    - O (Aŭ)
+    - Bat (Sed)
+    - Bikos (Ĉar)
+
+- Prepozicioj:
+    - Fo (Por)
+    - Bay (Per de (iu))
+    - Bifoo (Antaŭe)
+    - Afte (Post)
+
+- Adverboj:
+    - Nau (Nun)
+    - Iven (Eĉ)
+
+- Relativaj kaj Demandaj korelativoj:
+    - Hu (Kiu)
+    - Wen (Kiam)
 
 Ekzemplo de la plej ofte uzataj vortoj pruntitaj el la angla:
 
-- Subtantivoj: dey (tago), wik (semajno), taim (tempo), boy (knabo), mani
-(mono), shop (butiko), riva (rivero), skay (ĉielo), leta (letero).
+- Subtantivoj:
+    - Dey (Tago)
+    - Wik (Semajno)
+    - Taim (Tempo)
+    - Boy (Knabo)
+    - Mani (Mono)
+    - Shop (Butiko)
+    - Riva (Rivero)
+    - Skay (Ĉielo)
+    - Leta (Letero)
 
-- Verboj: bi (esti), bikam (iĝi), hev (havi), weiti (atendi), miti (renkonti),
-smaili (rideti), bildi (konstrui), krai (krii), tachi (tuŝi), helpi (helpi).
+- Verboj:
+    - Bi (Esti)
+    - Bikam (Iĝi)
+    - Hev (Havi)
+    - Weiti (Atendi)
+    - Miti (Renkonti)
+    - Smaili (Rideti)
+    - Bildi (Konstrui)
+    - Krai (Krii)
+    - Tachi (Tuŝi)
+    - Helpi (Helpi)
 
 - Adjektivoj: blu (blua), grin (verda), klin (pura), longe (longa)
 

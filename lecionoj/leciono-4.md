@@ -3,7 +3,7 @@
 En ĉi tiu leciono vi lernos:
 
 - 14 verboj (kan, slu, telefoni, weiti, miti, klosi, ofni, begin, fini, stopi,
-chi, pi, bikam, repeti, maini).
+  chi, pi, bikam, repeti, maini).
 - 8 substantivoj (dwar, leta, versa, kafee, aiskrem, chay, vino, dela).
 - 10 partikloj (ba, bye, hay, magari, nomagari, wud, he, sal, zai, gwo).
 - 6 afiksoj (en-, ek-, fa-, mah, -(i)fi, -(i)si).
@@ -346,7 +346,7 @@ Provu rerakonti ĉi tiun tekston aŭ elpensi vian propran tekston.
 ## Etiketo: Dankon! Pardonu, kion vi diris?
 
 Por esprimi dankemon oni uzas la vorton **Danke!** (Dankon!) aŭ la esprimon
-**Danke gro!*** (Dankegon!).
+**Danke gro!** (Dankegon!).
 
 Vi povas respondi al dankemo per la esprimo **Bi hao** (Fartu bone!) aŭ **Es
 syao dela** (Ĝi estas malgranda afero. Nedankinde).
@@ -420,17 +420,38 @@ proksumume; La araba estas skribita de dekstre al maldekstre):
 
 Lidepla vortoj, kiujj estas de araba origino:
 
-- Substantivoj: salam (paco, saluton), talim (klerigo, instruado), kitaba
-(libro), dafta (kajero), kalam (krajono, skribilo), taraf (flanko), arda (tero),
-sabah (mateno), bulbul (najtingalo), ramla (sablo), sahil (bordo), fauha
-(odoro), hamsa (flustro).
+- Substantivoj:
+    - Salam (Paco Saluton)
+    - Talim (Klerigo Instruado)
+    - Kitaba (Libro)
+    - Dafta (Kajero)
+    - Kalam (Krajono Skribilo)
+    - Taraf (Flanko)
+    - Arda (Tero)
+    - Sabah (Mateno)
+    - Bulbul (Najtingalo)
+    - Ramla (Sablo)
+    - Sahil (Bordo)
+    - Fauha (Odoro)
+    - Hamsa (Flustro)
 
-- Verboj: shakwi (plendi), jawabi (respondi), ahfi (kaŝi), balbati (murmuri),
-raki (veturi), safari (vojaĝi).
+- Verboj:
+    - Shakwi (Plendi)
+    - Jawabi (Respondi)
+    - Ahfi (Kaŝi)
+    - Balbati (Murmuri)
+    - Raki (Veturi)
+    - Safari (Vojaĝi)
 
-- Adjektivoj: karim (bonkora), rahim (korfavora), salim (sekura), muhim (grava,
-konsiderinda), jamile (bela), garibe (fremda), swate (nigra), jatile
-(kompleksa).
+- Adjektivoj:
+    - Karim (Bonkora)
+    - Rahim (Korfavora)
+    - Salim (Sekura)
+    - Muhim (Grava Konsiderinda)
+    - Jamile (Bela)
+    - Garibe (Fremda)
+    - Swate (Nigra)
+    - Jatile (Kompleksa)
 
 [Respondoj de la Ekzercoj de tradukado](./respondoj/l-4.md)
 
