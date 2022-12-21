@@ -61,9 +61,29 @@ vortoj pruntitaj el tiu ĉi lingvo.
 - Etiketo: Saluton, Kiel vi fartas?
 - Fokusa lingvo: La Hispana kaj La Portugala
 
-[Leciono 4 | Ankoraŭ ne tradukata]()
+[Leciono 4 | Verbaj partikloj](./lecionoj/leciono-4.md)
+- Esprimo de mendoj, pentoj kaj deziroj
+- Kondiĉo
+- Tempo de la agoj
+- Verbaj prefiksoj En kaj Ek
+- Transitiva kaj netransitiva prefiksoj
+- Konjekta esprimo
+- Novaj verboj
+- Teksto
+- Etiketo: Dankon! Pardonu, kion vi diris?
+- Fokusa lingvo: La Araba
 
-[Leciono 5 | Ankoraŭ ne tradukata]()
+[Leciono 5 | Kvanto](./lecionoj/leciono-5.md)
+- Preciza kvanto (konto)
+- Malpreciza kvanto
+- Horloĝo
+- Semajntagoj, monatoj, datoj kaj sezonoj
+- Tempodaŭroj
+- Mezurado
+- Teksto
+- Novaj verboj
+- Etiketo: Demando pri aĝo
+- Fokusa lingvo: La Hinda
 
 [Leciono 6 | Ankoraŭ ne tradukata]()
 
