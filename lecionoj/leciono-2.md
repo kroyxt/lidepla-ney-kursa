@@ -45,7 +45,9 @@ Senvivaj objektoj povas estis anstataŭgitaj per la pronomo **it** (ĝi).
 | ----------- | ------------- |
 | Me vidi it. | Mi vidas ĝin. |
 
-### Ekzerco de tradukado 1
+----------
+
+***Ekzerco de tradukado 1:***
 
 | Esperanto                  | Lidepla |
 | -------------------------- | ------- |
@@ -58,6 +60,8 @@ Senvivaj objektoj povas estis anstataŭgitaj per la pronomo **it** (ĝi).
 | Vi ne aŭdos unu la alian.  |         |
 | Vi ne aŭdas vin.           |         |
 | Ni komprenis unu la alian. |         |
+
+----------
 
 ## Bazaj Prepozicioj
 
@@ -84,7 +88,9 @@ Aliaj gravaj Prepozicioj: **fo** (por), **por** (pro), **kun** (kun), **sin**
 | Me jivi fo yu.      | Mi vivas por vi.     |
 | Ta bu kredi por yu. | Li ne kredas pro vi. |
 
-### Ekzerco de tradukado 2
+----------
+
+***Ekzerco de tradukado 2:***
 
 | Esperanto | Lidepla |
 | --------- | ------- |
@@ -95,6 +101,8 @@ Aliaj gravaj Prepozicioj: **fo** (por), **por** (pro), **kun** (kun), **sin**
 | Kun vi.   |         |
 | Sen ŝi.   |         |
 | Pro vi.   |         |
+
+----------
 
 Prepozicio ankaŭ povas sekvi verbon:
 
@@ -122,7 +130,9 @@ vortordo en la frazo ne ŝanĝiĝas.
 | ------------ | -------------- |
 | Kwo yu vidi? | Kion vi vidas? |
 
-### Ekzerco de tradukado 3
+----------
+
+***Ekzerco de tradukado 3:***
 
 | Esperanto                | Lidepla |
 | ------------------------ | ------- |
@@ -136,6 +146,8 @@ vortordo en la frazo ne ŝanĝiĝas.
 | kiam li venis?           |         |
 | Kial vi ne komprenas?    |         |
 | Kiel vi diras?           |         |
+
+----------
 
 Vi povas respondi demandaj korelativoj uzante Demostrativaj korelativoj:
 
@@ -189,7 +201,9 @@ partikloj indikas la tempon de la ago relative al la ago en la ĉefa frazo.
 | Me shwo, ke mi ve go adar.    | Mi diras, ke mi iros tien. |
 | Me show-te, ke me ve go adar. | Mi diris, ke mi iros tien. |
 
-### Ekzerco de tradukado 4
+----------
+
+***Ekzerco de tradukado 4:***
 
 | Esperanto                                  | Lidepla |
 | ------------------------------------------ | ------- |
@@ -202,6 +216,8 @@ partikloj indikas la tempon de la ago relative al la ago en la ĉefa frazo.
 | Mi ne komprenas pri kio vi kantas (gani).  |         |
 | Vi ne scias kun kiu ŝi dancas (dansi).     |         |
 | Mi ne komprenas kiel vi parolas sen pensi. |         |
+
+----------
 
 Alia maniero por konstrui Kompleksan frazon estas: prepozicio + partiklo **ke**:
 
@@ -229,7 +245,9 @@ Kelkfoje ne gravas kiu faras kion. Por tia okazo ekzistas pronomo **oni** (oni).
 | Oni shwo, ke ta bu lubi yu.     | Oni diras, ke li/ŝi ne amas vin.           |
 | Me lubi yu, kwo unkwe oni shwo. | Mi amas vin, (negrave) kion ajn oni diras. |
 
-### Ekzerco de tradukado 5
+----------
+
+***Ekzerco de tradukado 5:***
 
 | Esperanto                       | Lidepla |
 | ------------------------------- | ------- |
@@ -237,6 +255,8 @@ Kelkfoje ne gravas kiu faras kion. Por tia okazo ekzistas pronomo **oni** (oni).
 | Pri kion ajn mi pensas.         |         |
 | Kiu ajn venas.                  |         |
 | Kiel ajn oni petas (pregi) min. |         |
+
+----------
 
 ## Modalaj verboj
 
@@ -269,7 +289,9 @@ frazo alprenas nepersonan signifon:
 | --------- | --------------- |
 | Treba gun | Necesas labori. |
 
-### Ekzerco de tradukado 6
+----------
+
+***Ekzerco de tradukado 6:***
 
 | Esperanto                                           | Lidepla |
 | --------------------------------------------------- | ------- |
@@ -281,6 +303,8 @@ frazo alprenas nepersonan signifon:
 | Hir oni bu darfi dansi.                             |         |
 | Devus respondi kiam oni demandi vin.                |         |
 | Li/Ŝi ne venis (lai), ĉar mi ne volis vidi lin/ŝin. |         |
+
+----------
 
 ## Emfazaj vortoj
 
@@ -315,10 +339,14 @@ mallonga frazo:
 | ---------- | ------------ |
 | Yu lai ku? | Ĉu vi venos? |
 
-### Ekzerco de tradukado 7
+----------
+
+***Ekzerco de tradukado 7:***
 
 > La uzo de citiloj en la esperanta traduko estas nur por montri al vi kiu vorto
 > aŭ parto de la frazo ricevos la enfazon al traduki ĝin al Lidepla.
+
+----------
 
 | Esperanto              | Lidepla |
 | --------------------   | ------- |
@@ -367,7 +395,9 @@ Utilaj konjunkcioj:
 | Yu bu jawabi, obwol me kwesti.  | Vi ne respondas, kvankam mi demandas. |
 | Me bu kwesti, yedoh ta shwo.    | Mi ne demandas, tamen li parolas.     |
 
-### Ekzerco de tradukado 8
+----------
+
+***Ekzerco de tradukado 8:***
 
 | Esperanto                                               | Lidepla |
 | ------------------------------------------------------- | ------- |
@@ -380,6 +410,8 @@ Utilaj konjunkcioj:
 | Ni ne volas vidi ŝin denove.                            |         |
 | Ĉar mi ne volas vivi sen vi, mi kredas.                 |         |
 | Poste mi respondos (jawabi) al (a) vi.                  |         |
+
+----------
 
 ## Novaj verboj
 
@@ -400,7 +432,9 @@ Utilaj konjunkcioj:
 | Dansi   | Danci     | Nu dansi-te kun mutu. Ob yu dansi? Li bu ve dansi hir. |
 | Rasmi   | Desegni   | Nu bu rasmi-te. Me ve rasmi yu. Kwo yu rasmi?          |
 
-### Ekzerco de tradukado 9
+----------
+
+***Ekzerco de tradukado 9:***
 
 | Esperanto                                                                               | Lidepla                              |
 | --------------------------------------------------------------------------------------- | ------------------------------------ |
@@ -425,6 +459,8 @@ Utilaj konjunkcioj:
 | Vi devus labori, tamen vi kantas kaj dancas.                                            | Yu..., yedoh yu...                   |
 | Mi necesos diri al li pri vi.                                                           | Me... ta... yu.                      |
 | Kvankam mi amas vin. Mi amis kaj amos.                                                  | Obwol me... Mi... e...               |
+
+----------
 
 ## Teksto
 

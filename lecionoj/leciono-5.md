@@ -96,7 +96,9 @@ Por grandaj nomboj oni zuas la vortojn:
 | ------------------------------------- | --------- |
 | pet milion sitsto-otshi-char mil dwa. | 5.684.002 |
 
-### Ekzerco de tradukado 1
+----------
+
+***Ekzerco de tradukado 1:***
 
 | Esperanto | Lidepla |
 | --------- | ------- |
@@ -108,6 +110,8 @@ Por grandaj nomboj oni zuas la vortojn:
 | 5.736     |         |
 | 88.902    |         |
 | 3.630.785 |         |
+
+----------
 
 Se estas substantivo post la nombro, ĝi ne ŝanĝas sian formon:
 
@@ -156,7 +160,9 @@ de vortoj indikantaj kvanton:
 | ------------------------ | --------------------------- |
 | May kindas bu pri lekti. | Miaj infanoj ne ŝatas legi. |
 
-### Ekzerco de tradukado 2
+----------
+
+***Ekzerco de tradukado 2:***
 
 | Esperanto                                                              | Lidepla |
 | ---------------------------------------------------------------------- | ------- |
@@ -175,6 +181,8 @@ de vortoj indikantaj kvanton:
 | Ŝi konsilas (konsili), ke mi serĉi hejme (pa dom).                     |         |
 | Ŝi diras ke mi povas selekti (selekti) kaj preni unu de ŝiaj krajonoj. |         |
 | Mi prenas krajonon kaj dankas (danki) ŝin.                             |         |
+
+----------
 
 ## Horloĝo
 
@@ -220,7 +228,9 @@ sabah** (matene):
 | --------------------------------------- | -------------------------------- |
 | Me (ve) telefoni pa klok sem pa aksham. | Mi telefonas je la sepa verpere. |
 
-### Ekzerco de tradukado 3
+----------
+
+***Ekzerco de tradukado 3:***
 
 | Esperanto                                                                                                        | Lidepla |
 | ---------------------------------------------------------------------------------------------------------------- | ------- |
@@ -229,6 +239,8 @@ sabah** (matene):
 | Kio ajn ŝi pensas, mi venos je la sesa.                                                                          |         |
 | Je la sesa kaj duono ni venos al butiko (shop), ŝi selektos ĉapelo (shapa) por si mem, kaj mi aĉetos (kupi) ĝin. |         |
 | Je kioma horo vi venos? - kien? - A dom. - Je la deka.                                                           |         |
+
+----------
 
 ## Semajntagoj, monatoj, datoj kaj sezonoj
 
@@ -289,7 +301,9 @@ tagtempon, la prepozicio de ĝenerala signifo **pa** estas kutime uzata:
 | Pa oton.    | Aŭtune.   |
 | Pa sabah.   | Matene.   |
 
-### Ekzerco de tradukado 4
+----------
+
+***Ekzerco de tradukado 4:***
 
 | Esperanto                                                                                                                       | Lidepla |
 | ------------------------------------------------------------------------------------------------------------------------------- | ------- |
@@ -298,6 +312,8 @@ tagtempon, la prepozicio de ĝenerala signifo **pa** estas kutime uzata:
 | Matene mi venos a via domo, kaj vespere mi iros al mia (swa-ney) domo.                                                          |         |
 | Somere mi vojaĝas multe, aŭtune mi laboras multe, vintre mi dormas multe, printempe mi komencas kredi, esperi, ami, vivi, ĝoji. |         |
 | Maje mi iros al Ameriko por rekonti mian bonan amikon.                                                                          |         |
+
+----------
 
 Por komuiki, ke io okazas regule, uzu la vorton **kada** (Ĉiu):
 
@@ -378,7 +394,9 @@ La verbo **pasi** (pasi):
 | ---------------------------- | ---------------------------- |
 | Tri yar (he) pasi depos dan. | Tri jaroj pasis depost tiam. |
 
-### Ekzerco de tradukado 5
+----------
+
+***Ekzerco de tradukado 5:***
 
 | Esperanto                                                                                | Lidepla |
 | ---------------------------------------------------------------------------------------- | ------- |
@@ -391,6 +409,8 @@ La verbo **pasi** (pasi):
 | Ni venas tien ĉi antaŭ kvin yaroj, kiam mia filo estis ankoraŭ malgranda.                |         |
 | Depost tiam ni loĝas tie ĉi.                                                             |         |
 | Post du jaroj mia filo estos jam granda kaj finos la lernejon.                           |         |
+
+----------
 
 Vortoj, kiuj ankaŭ povas esti utila en rakontoj:
 
@@ -412,7 +432,9 @@ Aliaj utilaj vortoj:
 - Ranem (frue)
 - Tardem (Malfrue)
 
-### Ekzerco de tradukado 6
+    ---
+
+***Ekzerco de tradukado 6:***
 
 | Esperanto                                          | Lidepla |
 | -------------------------------------------------- | ------- |
@@ -422,6 +444,8 @@ Aliaj utilaj vortoj:
 | Se vi venos frue, ni povos fari kion ajn vi volas. |         |
 | Antaŭfoje vi ne komprenis min.                     |         |
 | Mi esperas ke venontfoje vi povos kompreni.        |         |
+
+----------
 
 ## Mezurado
 
@@ -481,7 +505,9 @@ La sekvaj prepozicioj utilas kiam oni parolas pri valoroj:
 | Milka kosti charshi rubla per libro. | Lakto kostas kvardek rublojn por ĉiu litro. |
 | Olo po un euro.                      | Ĉio po unu eŭro.                            |
 
-### Ekzerco de tradukado 7
+----------
+
+***Ekzerco de tradukado 7:***
 
 | Esperanto                                                                        | Lidepla |
 | -------------------------------------------------------------------------------- | ------- |
@@ -495,6 +521,8 @@ La sekvaj prepozicioj utilas kiam oni parolas pri valoroj:
 | Kiel longa?                                                                      |         |
 | Tri kaj duono metroj.                                                            |         |
 | Mi aĉetas.                                                                       |         |
+
+----------
 
 ## Teksto
 

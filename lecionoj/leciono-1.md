@@ -75,7 +75,9 @@ ekzistas kunteksto, oni supozas la estantecon.
 | Yeri yu         | Hieraŭ vi diris     |
 | Manya nu samaji | Morgaŭ ni komprenos |
 
-### Ekzerco de tradukado 1
+----------
+
+***Ekzerco de tradukado 1:***
 
 | Esperanto        | Lidela |
 | ---------------  | ------ |
@@ -88,6 +90,8 @@ ekzistas kunteksto, oni supozas la estantecon.
 | Vi parolas.      |        |
 | Vi ĉiuj parolas. |        |
 | Me parolas.      |        |
+
+----------
 
 ## Neado, Demandoj kaj Respondoj, Emfazanta partiklo Ya
 
@@ -105,7 +109,9 @@ Por fari demandon, necesas meti la partiklon **ob** (ĉu) antaŭ la tuta frazo.
 | ------------- | ---------------- |
 | Ob yu samaji? | Ĉu vi komprenas? |
 
-### Ekzerco de tradukado 2
+----------
+
+***Ekzerco de tradukado 2:***
 
 | Esperanto                  | Lidepla |
 | -------------------------- | ------- |
@@ -119,6 +125,8 @@ Por fari demandon, necesas meti la partiklon **ob** (ĉu) antaŭ la tuta frazo.
 | Ni esperas.                |         |
 | Ĉu ili parolas?            |         |
 | Ili ne scias.              |         |
+
+----------
 
 Oni povas respondi ĝeneralan demandon uzante la vortojn:
 
@@ -162,7 +170,9 @@ Por klarigi la daŭron de la ago (se estas necese), partikloj estas uzataj:
 | yu ve lubi.      | vi amos.          |
 | li bu ve samaji. | Ili ne komprenos. |
 
-### Ekzerco de tradukado 3
+----------
+
+***Ekzerco de tradukado 3:***
 
 | Esperanto        | Lidepla |
 | ---------------- | ------- |
@@ -173,6 +183,8 @@ Por klarigi la daŭron de la ago (se estas necese), partikloj estas uzataj:
 | Ŝi esperis.      |         |
 | Ŝi ne esperos.   |         |
 | Ni vivos.        |         |
+
+----------
 
 Konjunkcioj estas utila por kombini vortojn kaj frazojn:
 
@@ -217,7 +229,9 @@ de gramatikaj partikloj.
 | Audi    | Aŭdi         | Ob yu audi? Me bu audi. Ta ve audi. |
 | Shwo    | Paroli, Diri | Me shwo-te. Ob yu ve shwo?          |
 
-### Ekzerco de tradukado 4
+----------
+
+***Ekzerco de tradukado 4:***
 
 | Esperanto                                | Lidepla |
 | ---------------------------------------- | ------- |
@@ -230,6 +244,8 @@ de gramatikaj partikloj.
 | Vi ne scias aŭ ne komprenas.             |         |
 | Ŝi ne pensis, ŝi ja sciis.               |         |
 | Ĉu vi ne kredas? ne, mi ja kredas.       |         |
+
+----------
 
 ## Teksto
 

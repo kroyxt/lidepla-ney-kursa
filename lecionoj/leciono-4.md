@@ -77,7 +77,9 @@ Post ĉi tiuj partikloj oni povas uzi ne nur la ĉefformon de la verbo.
 
 > Deziro, de la ago jam okazis.
 
-### Ekzerco de tradukado 1
+----------
+
+***Ekzerco de tradukado 1:***
 
 | Esperanto                                                          | Lidepla |
 | ------------------------------------------------------------------ | ------- |
@@ -88,6 +90,8 @@ Post ĉi tiuj partikloj oni povas uzi ne nur la ĉefformon de la verbo.
 | Mi ne deziras, ke ŝi kredu ilin.                                   |         |
 | Atendu min tie ĉi, bonvolu.                                        |         |
 | Ŝi parolu al li pri mi.                                            |         |
+
+----------
 
 ## Kondiĉo
 
@@ -111,7 +115,9 @@ La konjunkcio **si** (se) povas, esti uzata sen **wud** (-us):
 | ------------------------------- | ------------------------------ |
 | Si yu pregi, (dan) me ve helpi. | Se vi petas, (tiam) mi helpos. |
 
-### Ekzerco de tradukado 2
+----------
+
+***Ekzerco de tradukado 2:***
 
 | Esperanto                                                    | Lidepla |
 | ------------------------------------------------------------ | ------- |
@@ -119,6 +125,8 @@ La konjunkcio **si** (se) povas, esti uzata sen **wud** (-us):
 | Se vi volas ludi kaj ne labori, ne venu.                     |         |
 | Ĉu vi povus dormi, se ni kantus kaj dancus ĉi tie?           |         |
 | Mi respondus al vi, sed mi ne komprenas pri kio vi demandas. |         |
+
+----------
 
 ## Tempo de la agoj
 
@@ -155,7 +163,9 @@ pri supozo pri la pasinteco:
 | Begin shwo. | Ekparoli, komenci paroli.                   |
 | Stopi gani. | Ĉesu paroli.                                |
 
-### Ekzerco de tradukado 3
+----------
+
+***Ekzerco de tradukado 3:***
 
 | Esperanto                                         | Lidepla |
 | ------------------------------------------------- | ------- |
@@ -163,6 +173,8 @@ pri supozo pri la pasinteco:
 | Li ĵus jam finis danci.                           |         |
 | Ŝi ekludontas.                                    |         |
 | Mi jam parolus al vi, sed vi ne jam venis.        |         |
+
+----------
 
 Ankaŭ povas okazi, ke oni devos diri, ke la ago okazis, iam, negrave kiam. Aŭ ĝi
 neniam okazis. La partiklo **gwo** (iam ...-is) estas por ĉi tio:
@@ -172,7 +184,9 @@ neniam okazis. La partiklo **gwo** (iam ...-is) estas por ĉi tio:
 | Me gwo visiti ela. Me bu yao go adar denove. | Mi iam vizitis ŝin. Mi ne volas iri tien denove. |
 | Me bu gwo shwo kun ela.                      | Mi ne parolis iam kun ŝi.                        |
 
-### Ekzerco de tradukado 4
+----------
+
+***Ekzerco de tradukado 4:***
 
 | Esperanto                                                                                                                                                                                      | Lidepla |
 | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------- |
@@ -181,6 +195,8 @@ neniam okazis. La partiklo **gwo** (iam ...-is) estas por ĉi tio:
 | Me estas devigata labori hodiaŭ, pro to ĉi mi ĵus jam venis al domo, mi estas manĝanta kaj parolanta kun infano pri ke mi ne scias kial en ameriko (Amerika) ne ekzistas krokodilo (Krokodil). |
 | Mi ne malfermos la pordon de mia domo, kiu ajn venas kaj kio ajn (ŝi) diras.                                                                                                                   |         |
 | Mi ne venos pro ke ŝi ne volas malfermi la pordon por mi.                                                                                                                                      |         |
+
+----------
 
 ## Verbaj prefiksoj En kaj Ek
 
@@ -197,7 +213,9 @@ mallonga, ununura. Por tio, ekzistas la sekvaj verbaj prefiksoj:
 | Nu audi ke koywan ek-krai. | Ni audas ke iu ekkrias. (subite kantas)       |
 | En-jan                     | Ekscii.                                       |
 
-### Ekzerco de tradukado 5
+----------
+
+***Ekzerco de tradukado 5:***
 
 | Esperanto               | Lidepla |
 | ----------------------- | ------- |
@@ -206,6 +224,8 @@ mallonga, ununura. Por tio, ekzistas la sekvaj verbaj prefiksoj:
 | Ekmemori. (subita ago)  |         |
 | Ekmovi. (subita ago)    |         |
 | Ekdomir. (komenci agon) |         |
+
+----------
 
 ## Transitiva kaj netransitiva prefiksoj
 
@@ -237,13 +257,17 @@ transitivajn verbojn:
 | Chi.         | Manĝi.      |
 | Mah-chi.     | Manĝigi.    |
 
-### Ekzerco de tradukado 6
+----------
+
+***Ekzerco de tradukado 6:***
 
 | Esperanto      | Lidepla |
 | -------------- | ------- |
 | Trinkigi. (pi) |         |
 | Sidigi. (Sidi) |         |
 | Vidiĝi.        |         |
+
+----------
 
 La samaj partikloj estas uzataj kun adjektivoj por raporti ŝanĝon en iu kvalito:
 
@@ -365,7 +389,9 @@ Se vi aŭdir, sed ne tute komprenas pri kio temas, vi povas demandi jene:
 | ------------- | ----------------- |
 | Kwo yu maini? | Kion vi intencas? |
 
-### Ekzerco de tradukado 7
+----------
+
+***Ekzerco de tradukado 7:***
 
 | Esperanto                                                                            | Lidepla |
 | ------------------------------------------------------------------------------------ | ------- |
@@ -384,6 +410,7 @@ Se vi aŭdir, sed ne tute komprenas pri kio temas, vi povas demandi jene:
 | Mi deziras ke ŝi ne forgesu pri mi!                                                  |         |
 | Se nur ŝi komprenu, ke mi estas atendanta ŝin, ke mi volas vidi ŝin, ke mi amas ŝin! |         |
 
+----------
 
 ## Fokusa lingvo: La Araba
 
@@ -440,7 +467,7 @@ Lidepla vortoj, kiujj estas de araba origino:
     - Jawabi (Respondi)
     - Ahfi (Kaŝi)
     - Balbati (Murmuri)
-    - Raki (Veturi)
+    - Raki (Veturi per, Iri per)
     - Safari (Vojaĝi)
 
 - Adjektivoj:

@@ -150,7 +150,9 @@ formitaj per:
 | ----- | ------------------ |
 | Gun   | Gunsa (laboro)     |
 
-### Ekzerco de tradukado 1
+----------
+
+***Ekzerco de tradukado 1:***
 
 | Esperanto | Lidepla |
 | --------- | ------- |
@@ -164,6 +166,8 @@ formitaj per:
 | Veno      |         |
 | Kanto     |         |
 | Vojaĝo    |         |
+
+----------
 
 Gravas rimarki, ke en ĉiuj ĉi supraj kazoj, la substantivoj estas rilata al la
 verbo, sed portas iun kroman signifon. Tamen, estas ankaŭ eble formi puran
@@ -232,7 +236,9 @@ Adjektivoj kun la signifo **Kiu povas...** estas formitaj uzante la sufikson
 | Audibile.   | Aŭdebla.     |
 | Samajibile. | Komprenebla. |
 
-### Ekzerco de tradukado 2
+----------
+
+***Ekzerco de tradukado 2:***
 
 | Esperanto  | Lidepla |
 | ---------- | ------- |
@@ -242,6 +248,8 @@ Adjektivoj kun la signifo **Kiu povas...** estas formitaj uzante la sufikson
 | Esperebla. |         |
 | Amema.     |         |
 | Esperema.  |         |
+
+----------
 
 ## La verbo Bi/Es/Bin
 
@@ -273,7 +281,9 @@ En kompleksaj frazoj kun demanda korelativo, kiel regulo, ne ekzistas inversio:
 | ---------------- | ---------------------- |
 | Me jan wo yu es. | Mi scias kie vi estas. |
 
-### Ekzerco de tradukado 3
+----------
+
+***Ekzerco de tradukado 3:***
 
 | Esperanto                      | Lidepla |
 | ------------------------------ | ------- |
@@ -283,6 +293,8 @@ En kompleksaj frazoj kun demanda korelativo, kiel regulo, ne ekzistas inversio:
 | La floro estis sate bela.      |         |
 | Kiu (kwel) estos la domo?      |         |
 | La domo estos tre bona.        |         |
+
+----------
 
 Se le subjetko estas esprimita per la vorto **se** (to ĉi) aŭ la pronomo **ta**
 aŭ **it**, la subjekto povas esti ellasita, kaj en la demando kaj en la respondo
@@ -326,7 +338,9 @@ Demostrativaj korelativoj:
 | Toy kitaba es syao. | Tiu libro estas malgranda.    |
 | Me bu pri tal jen.  | Mi ne ŝatas tia(j)n homo(j)n. |
 
-### Ekzerco de tradukado 4
+----------
+
+***Ekzerco de tradukado 4:***
 
 | Esperanto                                                        | Lidepla |
 | ---------------------------------------------------------------- | ------- |
@@ -336,6 +350,8 @@ Demostrativaj korelativoj:
 | Ne necesas paroli al tia homo: Li/Ŝi ne estos bona amiko por vi. |         |
 | Tiu domo estas sufiĉe granda por ke ni povos loĝi en ĝi.         |         |
 | Tiu ĉi infano estas tro demandema.                               |         |
+
+----------
 
 ## Ĉeestaj verboj Ye kaj Yok. La verbo Hev
 
@@ -357,7 +373,9 @@ Por raporti, ke io apartenas al iu, uzu la verbon **hev** (havi):
 | ---------------------- | ---------------------- |
 | Me hev un jamile flor. | Mi havas belan floron. |
 
-### Ekzerco de tradukado 5
+----------
+
+***Ekzerco de tradukado 5:***
 
 | Esperanto                 | Lidepla |
 | ------------------------- | ------- |
@@ -365,6 +383,8 @@ Por raporti, ke io apartenas al iu, uzu la verbon **hev** (havi):
 | Tie ĉi ne ekzistas floro. |         |
 | Ni havos infano.          |         |
 | Li havis tian libron.     |         |
+
+----------
 
 ## Posedaj adjektivoj kaj pronomoj
 
@@ -401,7 +421,9 @@ ekzistas ankaŭ mallongaj formoj por ili: May (Mia), Yur (Via), Nuy (Nia), Ley
 El la refleksiva pronomo **swa**, oni povas formi la posedan pronomon
 **Swa-ney** (Sia).
 
-### Ekzerco de tradukado 6
+----------
+
+***Ekzerco de tradukado 6:***
 
 | Esperanto               | Lidepla |
 | ----------------------- | ------- |
@@ -412,6 +434,8 @@ El la refleksiva pronomo **swa**, oni povas formi la posedan pronomon
 | Amiko de nia infano.    |         |
 | Ilia tempo.             |         |
 | Lia floro.              |         |
+
+----------
 
 ## Partikloj Gro- kaj -Ki
 
@@ -450,7 +474,9 @@ Ankaŭ en la lingvo ekzistas derivaj sufiksoj **-kin** (-eta) kaj **-gron**
 | Dom.            | Domo.            |
 | Domkin.         | Dometo.          |
 
-### Ekzerco de tradukado 7
+----------
+
+***Ekzerco de tradukado 7:***
 
 | Esperanto | Lidepla |
 | --------- | ------- |
@@ -460,6 +486,8 @@ Ankaŭ en la lingvo ekzistas derivaj sufiksoj **-kin** (-eta) kaj **-gron**
 | Volegi.   |         |
 | Hometo.   |         |
 | Floreto.  |         |
+
+----------
 
 ## Novaj verboj
 
@@ -477,7 +505,9 @@ Ankaŭ en la lingvo ekzistas derivaj sufiksoj **-kin** (-eta) kaj **-gron**
 | Remembi | Memori    | Me bu remembi. Nu ve remembi. Yu bu remembi-te om me.  |
 | Fogeti  | Forgesi   | Ela fogeti. Ob yu bu fogeti-te? Me bu ve fogeti.       |
 
-### Ekzerco de tradukado 8
+----------
+
+***Ekzerco de tradukado 8:***
 
 | Esperanto                                                                                                 | Lidepla |
 | --------------------------------------------------------------------------------------------------------- | ------- |
@@ -497,6 +527,8 @@ Ankaŭ en la lingvo ekzistas derivaj sufiksoj **-kin** (-eta) kaj **-gron**
 | Li ne memoras sian nomon.                                                                                 |         |
 | Ŝi ne vidas kaj pro tio ne povas legi kaj skribi.                                                         |         |
 | Ŝi bezonas dormi.                                                                                         |         |
+
+----------
 
 ## Teksto
 

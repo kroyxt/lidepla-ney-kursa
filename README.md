@@ -85,7 +85,17 @@ vortoj pruntitaj el tiu ĉi lingvo.
 - Etiketo: Demando pri aĝo
 - Fokusa lingvo: La Hinda
 
-[Leciono 6 | Ankoraŭ ne tradukata]()
+[Leciono 6 | Adverboj kaj komparoj](./lecionoj/leciono-6.md)
+- Adverboj
+- Komparoj
+- Adjektivoj kaj verboj en substativa funkcio
+- Faranto, ilo kaj profesio
+- Kvalitaj Substantivoj
+- Maniero por esprimi priskribon
+- Novaj verboj
+- Teksto
+- Etikedo: Paroli pri la vetero
+- Fokusa lingvo: La Rusa
 
 [Leciono 7 | Ankoraŭ ne tradukata]()
 
