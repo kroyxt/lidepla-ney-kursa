@@ -245,13 +245,13 @@ Tamen en kelkaj okazoj oni necesas emfazi la foreston de la objekto
 | Ela fa-astoni.                       | Ŝi miriĝas.                             |
 | Oni mog audi musika. Musika fa-audi. | Oni povas aŭdi muzikon. Muziko aŭdiĝas. |
 
-Uzante la prefikson **mah-** (-ig) oni povas emfazi la Transitivecon aŭ formi
+Uzante la prefikson **mah-** (-ig) oni povas emfazi la transitivecon aŭ formi
 transitivajn verbojn:
 
 | Lidepla      | Esperanto   |
 | ------------ | ----------- |
 | Astoni.      | Mirigi.     |
-| Mah-astoni.  | Miriĝi.     |
+| Mah-astoni.  | Mirigi.     |
 | Remembi.     | Memori.     |
 | Mah-remembi. | Memorigi.   |
 | Chi.         | Manĝi.      |
