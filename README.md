@@ -97,9 +97,22 @@ vortoj pruntitaj el tiu ĉi lingvo.
 - Etikedo: Paroli pri la vetero
 - Fokusa lingvo: La Rusa
 
-[Leciono 7 | Ankoraŭ ne tradukata]()
+[Leciono 7 | Sistemo de korelativoj kaj prepozicio](./lecionoj/leciono-7.md)
+- La sistemo de kunmetitaj korelativoj kaj adverboj
+- Prepozicioj de loko
+- Novaj verboj
+- Teksta
+- Etiketo: Kiel iras ...?
+- Fokusa lingvo: La Japana
 
-[Leciono 8 | Ankoraŭ ne tradukata]()
+[Leciono 8 | Verbaj strukturoj](./lecionoj/leciono-8.md)
+- Specialaj verboj
+- Pasiva voĉo
+- Kombinaĵo de agoj
+- Prepozicioj de rilato
+- Novaj verboj
+- Teksto
+- Fokusa lingvo: La Germana
 
 [Leciono 9 | Ankoraŭ ne tradukata]()
 

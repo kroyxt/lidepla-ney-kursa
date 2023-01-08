@@ -89,18 +89,24 @@ Lidepla ankaŭ havas kelkaj kunmetajn adverbojn:
 - Por koy kausa (Ial)
 - Por nul kauza (Nenial)
 
-| Esperanto                                                                           | Lidepla |
-|-------------------------------------------------------------------------------------|---------|
-| Unu foje mi trovis leteron.                                                         |         |
-| En ĝi, iu skribas, ke ŝi/li ie renkonti unu knabino bela.                           |         |
-| Li rimarki (marki) ŝin kiam ŝi aĉetantas iun aĵon en butiko (shop).                 |         |
-| Ial li timas (fobi) komenci paroli kun ela tiam.                                    |         |
-| Li rimarki ela iu foje en urba (urba) parko (parka).                                |         |
-| Kaj ŝi foriĝas.                                                                     |         |
-| Li provas trovi ŝin, li serĉas ĉiu loke.                                            |         |
-| Li demandis al ĉiuj, ĉiu ulo, ĉu oni vidintas bela knabino kun karaj okuloj (okos). |         |
-| Sed neniu povas helpi lin.                                                          |         |
-| Li ankoraŭ serĉas. Li kredas, ke ŝi estas ie kaj eble eĉ legos tiu ĉi letero.       |         |
+----------
+
+***Ekzerco de tradukado 1:***
+
+| Esperanto                                                                              | Lidepla |
+|----------------------------------------------------------------------------------------|---------|
+| Unu foje mi trovis leteron.                                                            |         |
+| En ĝi, iu skribas, ke ŝi/li ie renkonti unu knabino bela.                              |         |
+| Li rimarki (marki) ŝin kiam ŝi aĉetantas iun aĵon en butiko (shop).                    |         |
+| Ial li timas (fobi) komenci paroli kun ela tiam.                                       |         |
+| Li rimarki ela iu foje en urba (urba) parko (parka).                                   |         |
+| Kaj ŝi foriĝas.                                                                        |         |
+| Li provas trovi ŝin, li serĉas ĉiu loke.                                               |         |
+| Li demandis al ĉiuj, ĉiu ulo, ĉu oni vidintas bela knabino kun bonkoraj okuloj (okos). |         |
+| Sed neniu povas helpi lin.                                                             |         |
+| Li ankoraŭ serĉas. Li kredas, ke ŝi estas ie kaj eble eĉ legos tiu ĉi letero.          |         |
+
+----------
 
 ## Prepozicioj de loko
 
@@ -133,6 +139,10 @@ Prepozicioj-adverboj de loko:
 - Leften (Maldekstre)
 - Desnen (Dekstre)
 - Flanken (Flanke, Flanke de)
+
+----------
+
+***Ekzerco de tradukado 2:***
 
 | Esperanto                                                                                                                       | Lidepla |
 |---------------------------------------------------------------------------------------------------------------------------------|---------|
