@@ -1,12 +1,12 @@
 # Leciono 8 | Verbaj strukturoj
 
-Se vi legis ĝis ĉi tiu leciono, vi jam regis la ĉefan parton dela gramatiko de
-la lingvo, kaj vi povas eklegi tekstojn (kun vortaro), kiel
+Se vi legis ĝis ĉi tiu leciono, vi jam regis la ĉefan parton de la gramatiko de
+Lidepla, kaj vi povas eklegi tekstojn (kun vortaro), kiel
 [fabeloj](http://www.lingwadeplaneta.info/en/texts.shtml), precipe
 [fabeloj](http://www.lingwadeplaneta.info/files/historia.pdf) de **Gianni
 Rodari**.
 
-Eta amuza teksto legia kaj komprenita plaĉas kaj inspiras. Tamen oni devas
+Eta amuza teksto legita kaj komprenita plaĉas kaj inspiras. Tamen oni devas
 rimarki, ke por alkutumiĝi al la lingvo kaj regi la vortprovizon, fakuloj
 konsilas legi longajn verkojn. Vi povas legi la fabelojn kiel la famaj
 [La Eta Princo](http://www.lingwadeplaneta.info/files/prin_fr.pdf) o
@@ -40,12 +40,12 @@ esti uzata kun substantivo, tiel ĝi alprenas la signifon "fari agon ligatan al"
 | Fai kitaba. | Legi libron. |
 | Fai kama.   | Dormi.       |
 
-Ĝenerale, la verbo fai povas esti uzata anstataŭ prekaŭ ajna verbo.
+Ĝenerale, la verbo fai povas esti uzata anstataŭ preskaŭ ajna verbo.
 
 > Plej parte en parollingva parolo, kompreneble.
 
-La verbo **geti** iĝi (En situacio; eniĝi en, aliĝi al, eliĝi el [dependante de
-la sekva vorto]):
+La verbo **geti** (En situacio; eniĝi en, aliĝi al, eliĝi el [dependante de
+la sekva vorto]) signifas eniri aŭ eliri en iun situacio:
 
 | Lidepla                      | Esperanto                    |
 |------------------------------|------------------------------|
@@ -58,10 +58,10 @@ Ia foje oni ripetas la verbon (kun streketo). Tiu ripeto esprimas, ke ago daŭra
 iom da tempo aŭ ripetiĝas multajn fojojn. Povas esti ankaŭ konotacio de certa
 facileco kaj manko de limigo:
 
-| Lidepla                  | Esperanto                                           |
-|--------------------------|-----------------------------------------------------|
-| Me yao shwo-shwo kun yu. | Mi volas paroli kun vi. (interŝanĝi kelkajn vortoj) |
-| Ta go-go bli elay dom.   | Li iras apud ŝia domo. (promeneti)                  |
+| Lidepla                  | Esperanto                                             |
+|--------------------------|-------------------------------------------------------|
+| Me yao shwo-shwo kun yu. | Mi volas paroleti kun vi. (interŝanĝi kelkajn vortoj) |
+| Ta go-go bli elay dom.   | Li iras apud ŝia domo. (promeneti)                    |
 
 Ripeti verbon kun nea partiklo **bu** estas (parollingva) maniero por demandi:
 
@@ -74,9 +74,9 @@ Ripeti verbon kun nea partiklo **bu** estas (parollingva) maniero por demandi:
 Por komuniki, ke ago estas farita sur io/iu, la partiklo **gei** (esti farata)
 estas uzata:
 
-| Lidepla        | Esperanto               |
-|----------------|-------------------------|
-| Boxa gei ofni. | La skatolo malfermatas. |
+| Lidepla        | Esperanto                                  |
+|----------------|--------------------------------------------|
+| Boxa gei ofni. | La skatolo malfermatas / estas malfermata. |
 
 Por aldoni tiun, kiun plenumas la agon, oni uzas la prepozicion **bay**:
 
@@ -91,17 +91,17 @@ estas farita de la persona kiu parolas, li mem. Por tio ekzistas la vorto
 | Lidepla                                 | Esperanto                                           |
 |-----------------------------------------|-----------------------------------------------------|
 | Mata selfa he skribi se.                | La patrino mem skribintas tion ĉi.                  |
-| Sey chapa gwo gei porti bay rega selfa. | Tiu ĉi ĉapelo iam estas portata de reĝo mem.        |
+| Sey chapa gwo gei porti bay rega selfa. | Tiu ĉi ĉapelo iam estis portata de reĝo mem.        |
 | Kinda he skribi se ol pa selfa.         | La infano skribintas tion ĉi, ĉio meme (sen helpo). |
 
 Se la ago jam okazis, jam estas farita, kaj ni parolas pri la rezulto, oni povas
-uzi la konantan partiklon **-ney** kaj la verbon **bi/es/bin**:
+uzi la konantan partiklon **-ney** (-ita) kaj la verbon **bi/es/bin**:
 
 | Lidepla           | Esperanto               |
 |-------------------|-------------------------|
 | Dwar es ofni-ney. | La pordo estas fermita. |
 
-Ofte vi devas diri la materialon el kiu io estas farita. La jam konata
+Ofte oni devas diri la materialon el kiu io estas farita. La jam konata
 prepozicio **aus** (el) estas uzata por transdoni ĉi tiun valoron:
 
 | Lidepla                 | Esperanto                     |
@@ -123,28 +123,28 @@ prepozicio **aus** (el) estas uzata por transdoni ĉi tiun valoron:
 
 ## Kombinaĵo de agoj
 
-Vi povar raporti, ke du agoj okazis samtempe uzante la prepozicio **al** (estas
+Oni povas esprimi, ke du agoj okazis samtempe uzante la prepozicio **al** (estas
 farante), enkondukante cirkonstancojn:
 
-| Lidepla           | Esperanto          |
-|-------------------|--------------------|
-| Me lenkti al chi. | Mi legas manĝante. |
+| Lidepla          | Esperanto          |
+|------------------|--------------------|
+| Me lekti al chi. | Mi legas manĝante. |
 
 La sama efiko povas esti atingita per la formado de gerundio el unu el la verboj
-uzante la partiklo **-yen** (-ante):
+uzante la partiklo **yen** (-ante):
 
 | Lidepla           | Esperanto          |
 |-------------------|--------------------|
 | Me chi lekti-yen. | Mi manĝas legante. |
 
-Se ago fariĝas en ia fono , tiel ke ĝi alproksimiĝas al kvalito, oni povas formi
-participon kun la partiklo **-she** (-anta):
+Se ago fariĝas en ia fono, tiel ke ĝi alproksimiĝas al kvalito, oni povas formi
+participon kun la partiklo **she** (-anta):
 
 | Lidepla                              | Esperanto                                            |
 |--------------------------------------|------------------------------------------------------|
 | Lubi-she jen yao sempre bi bli mutu. | Amantaj homoj volas ĉiam esti proksime unu la alian. |
 
-Aŭ adverba partiklo el verbo, uzante la partiklo **-shem**:
+Aŭ adverba partiklo el verbo, uzante la partiklo **shem**:
 
 | Lidepla          | Esperanto        |
 |------------------|------------------|
@@ -156,7 +156,7 @@ Se unu ago okazis post alia, uzu la prepozicion **afte** (post, -inte):
 |-----------------------------------|-----------------------------------|
 | Afte chi me sempre promeni idyen. | Manĝinte mi ĉiam promenas iomete. |
 
-Aŭ adverbo formita kun la partiklo **-nem** (-e, -ite):
+Aŭ adverbo formita kun la partiklo **nem** (-e, -ite):
 
 | Lidepla               | Esperanto             |
 |-----------------------|-----------------------|
