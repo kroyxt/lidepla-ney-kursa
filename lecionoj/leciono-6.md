@@ -87,7 +87,7 @@ La prepozicio **bay** (per) enkondukas rimedon, instrumenton:
 
 | Lidepla                               | Esperanto                               |
 | ------------------------------------- | --------------------------------------- |
-| Komo yu safari? - Me safari bay aŭto. | Kiel vi vojaĝas? - Mi vojaĝas per aŭto. |
+| Komo yu safari? - Me safari bay auto. | Kiel vi vojaĝas? - Mi vojaĝas per aŭto. |
 | Me bu yao jibi tak.                   | Mi ne volas vivi tiel.                  |
 
 ----------
@@ -103,7 +103,8 @@ La prepozicio **bay** (per) enkondukas rimedon, instrumenton:
 
 ----------
 
-Kiel regulo, adjektivoj estas uzatan kun ligaj verboj bi/es/bin, sta, bikam:
+Kiel regulo, adjektivoj estas uzata kun ligaj verboj **bi/es/bin**, **sta** kaj
+**bikam**:
 
 | Lidepla        | Esperanto          |
 | -------------- | ------------------ |
@@ -154,7 +155,7 @@ Por komparoj kun adjektivoj kaj adverboj, la vortoj uzataj estas:
 - Minim (Malplej)
 - Kem (ol)
 
-> En la vorto Minim, la akcento estas lur la unua silabo, tiu ĉi estas escepto
+> En la vorto Minim, la akcento estas sur la unua silabo, tiu ĉi estas escepto
 
 | Lidepla                         | Esperanto                               |
 | ------------------------------- | --------------------------------------- |
@@ -164,8 +165,7 @@ Por komparoj kun adjektivoj kaj adverboj, la vortoj uzataj estas:
 | Me es zyu gao fon may amigas.   | Mi estas la plej alta de miaj amikoj.   |
 | May avion flai zuy kway.        | Mia aviadilo flugas plej rapide.        |
 
-La vortoj **pyu**, **meno**, **zuy** kaj **minim** uzeblas ankaŭ memstare kun la
-signfigo "pli", "malpli", "plej", "malplej" respektive:
+La vortoj **pyu**, **meno**, **zuy** kaj **minim** uzeblas ankaŭ memstare:
 
 | Lidepla           | Esperanto                 |
 | ----------------- | ------------------------- |
@@ -205,7 +205,7 @@ Por esprimi "Ju... / Des..." uzu **Kem... Tem...**:
 
 ----------
 
-## Adjektivoj kaj verboj en substativa funkcio
+## Adjektivoj kaj verboj en substantiva funkcio
 
 Komparante, foje oni devas ripeti la saman substativon.
 
@@ -218,7 +218,7 @@ Por eviti tion, oni uzas substantivajn anstataŭaĵojn, la partikloj **la** kaj
 | Sey kindas es pyu syao kem toy-las. | Ĉi tiuj infanoj estas pli malgrandaj ol tiuj (infanoj). |
 
 Iafoje formoj kiel **otres** (aliaj) estas uzataj kiel substantivo (tio estas
-formo kreita el adjektivo laŭ la leĝo de formado de pluraloj de substantivoj).
+formo kreita el adjektivo laŭ la leĝo de formado de plurformoj de substantivoj).
 Sed tiaj formoj estas mallongigo por la gramatike ĝusta **otre-las**.
 
 Kiam oni parolas pri homoj, oni povas uzi la vorton **wan** (ulo):
@@ -287,7 +287,7 @@ Oni povas uzi la sufikson **-tul** (-ilo) por specifi la signifon de ilo.
 | Vinti.    | Ŝraŭbi.   |
 | Vintitul. | Ŝraŭbilo. |
 
-La nomoj de multaj profesioj estas formitaj uzante la sufikson **er** (-isto).
+La nomoj de multaj profesioj estas formitaj uzante la sufikson **-er** (-isto).
 
 > Kvankam ne ĉiam el verboj.
 
@@ -305,7 +305,7 @@ La nomoj de multaj profesioj estas formitaj uzante la sufikson **er** (-isto).
 
 Tamen, oni devas rekoni, ke la nomoj de iuj disvastigitaj profesioj estas
 formitaj uzante la sufikson **-ista** (-isto), same kiel la nomoj de adeptoj de
-aparta doktrino (-ismo):
+aparta doktrino:
 
 > En ambaŭ kazon, ĉi tiuj vortoj estas formitaj el substantivoj.
 
@@ -348,7 +348,7 @@ Por precize specifi la objekton de la ago, vi povas uzi la sufikson **-wat**
 | Sendi.    | Sendi.         |
 | Sendiwat. | Sendaĵo, Pako. |
 
-Por indiki specifan rezulton de ago, ekzistas la sufikso **--tura** (-aĵo):
+Por indiki specifan rezulton de ago, ekzistas la sufikso **-tura** (-aĵo):
 
 | Lidepla     | Esperanto         |
 | ----------- | ----------------- |
@@ -399,7 +399,7 @@ Substantivoj indikanta puran kvaliton povas esti formita uzante la sufikson
 | Gaotaa.    | Alteco.   |
 | Gaonesa.   | Alto.     |
 
-Anstataŭigante la finan **e** per **a**, en iuj kazoj, oni povas ricevi
+Anstataŭigante la finan **e** per **a**, en iuj kazoj, oni povas formi
 substantivon kun la signifo "Iu aŭ iu karakterizata de ĉi tiu kvalito":
 
 | Lidepla    | Esperanto     |
@@ -446,7 +446,7 @@ respondas la demandon "kies?" aŭ "kia?":
 | Kinda-ney kitaba.   | Infana libro.   |
 | Interes-ney kitaba. | Interesa libro. |
 
-Por establi pli ĝeneralan rilaton, substantivoj povas simple esti metitaj unu
+Por esprimi pli ĝeneralan rilaton, substantivoj povas simple esti metitaj unu
 apud la alia kaj, se necese, ligitaj per streketo por pli klareco:
 
 | Lidepla      | Esperanto   |
@@ -484,12 +484,12 @@ uzante la speciala partikloj **ti ... na ...**
 | Lidepla                               | Esperanto                                      |
 | ------------------------------------- | ---------------------------------------------- |
 | Ti yu vidi na kinda janmog dansi hao. | La infano, kiun vi vidas, scipovas danci bone. |
-| Yu vidi ti janmog dansi hao na kinta. | Vi vidis infanon, kiu scipovas danci bone.     |
+| Yu vidi ti janmog dansi hao na kinda. | Vi vidis infanon, kiu scipovas danci bone.     |
 
 Se la subfrazo estas post la priskribata vorto, oni enkondukas ĝin per la vorto
 **ke**. Kondiĉe ke la priskriba vorto ne estas parto de tiu ĉi subfrazo. Se la
 frazo daŭras post la priskribanta subfrazo, estas pli bone aŭ apartigi la
-subfrazo pero la partiklo **na**, aŭ aranĝi la vorton kun la priskribo kiel la
+subfrazo per la partiklo **na**, aŭ aranĝi la vorton kun la priskribo kiel la
 subjekto de la frazo:
 
 | Lidepla                                | Esperanto                                      |
@@ -609,7 +609,7 @@ Se vi bezonas raporti ajnajn ŝanĝojn, vi povas uzi esprimon kun **fa**:
 | Zai fa-lenge. | Malvarmiĝantas. |
 
 Por precipitaĵo, ekzistas specialaj verboj **pluvi** (pluvi) kaj **snegi**
-(neĝi), same kiel fengi (venti):
+(neĝi), same kiel **fengi** (venti):
 
 | Lidepla              | Esperanto             |
 |----------------------|-----------------------|
@@ -636,7 +636,7 @@ Vortoj necesaj por priskribi la staton de la ĉielo:
 | Skay es klare, badal yok.              | La ĉielo estas klara, ne estas nuboj.            |
 | Ye mucho tume badal. Shayad sal pluvi. | Estas multaj malhelaj nuboj. Verŝajne pluvontas. |
 
-En ĉi tiaj konversaciojn, la esprimoj **fa-dey** (tagiĝi), fa-nocha (noktiĝi) estas utilaj:
+En ĉi tiaj konversaciojn, la esprimoj **fa-dey** (tagiĝi), **fa-nocha** (noktiĝi) estas utilaj:
 
 | Lidepla | Esperanto                    |
 |---------|------------------------------|
