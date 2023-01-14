@@ -17,7 +17,7 @@ Entute 47 vortoj.
 
 ## Esprimo de mendoj, pentoj kaj deziroj
 
-La baza formo de la verbo sen subjekto, esprimas la imperativon:
+La ĉefa formo de la verbo sen subjekto, esprimas la imperativon:
 
 | Lidepla | Esperanto |
 | ------- | --------- |
@@ -33,7 +33,7 @@ afabla).
 > Se estas evidente nur unu rekta objekto kun la verbo, oni povas ellasi la
 > prepozicion: Helpi a me = Helpi me.
 
-Por eksplicite esprimi la imperativon, vi povas aldoni la partiklo **ba** (-u
+Por klare esprimi la imperativon, oni povas aldoni la partiklo **ba** (-u
 (imperativo)):
 
 | Lidepla                    | Esperanto                            |
@@ -69,7 +69,7 @@ de la frazo):
 | Magari ela shwo om me!    | Se nur ŝi parolu pri mi!         |
 | Nomagari li kwesti om se! | Se nur li ne demandu pri ĉi tio! |
 
-Post ĉi tiuj partikloj oni povas uzi ne nur la ĉefformon de la verbo.
+Post ĉi tiuj partikloj oni povas uzi ne nur la ĉefa formon de la verbo.
 
 | Lidepla                    | Esperanto                                |
 | -------------------------- | ---------------------------------------- |
@@ -95,13 +95,13 @@ Post ĉi tiuj partikloj oni povas uzi ne nur la ĉefformon de la verbo.
 
 ## Kondiĉo
 
-Kiom oni respondas al peto, foje oni bezonas la partiklon **wud** (-us):
+Kiam oni respondas al peto, kelkfoje oni bezonas la partiklon **wud** (-us):
 
 | Lidepla                                    | Esperanto                                     |
 | ------------------------------------------ | --------------------------------------------- |
 | Me wud helpi yu, bat me bu mog: me mus go. | Mi helpus vin, sed mi ne povas: mi devas iri. |
 
-Kaj la vorto **wud** estas proksime rilata al la vorto **si** (se) kaj **dan**
+La vorto **wud** estas proksime rilata al la vorto **si** (se) kaj **dan**
 (tiam):
 
 | Lidepla                                | Esperanto                         |
@@ -128,7 +128,7 @@ La konjunkcio **si** (se) povas, esti uzata sen **wud** (-us):
 
 ----------
 
-## Tempo de la agoj
+## Tempo de la ago
 
 Kiam oni respondas demandon aŭ klarigi ion en la respondo, foje oni necesas
 especife indiki, ke iu ago okazas ĝuste nun, okazos tre baldaŭ aŭ, male, jus
@@ -204,8 +204,8 @@ Ofte, precipe kiam oni rakontas historion, gravas kiel la agoj estas ligitaj unu
 al la alia, estas grave montri, ke la ago komeciĝis, aŭ ke ĝi estis abruta,
 mallonga, ununura. Por tio, ekzistas la sekvaj verbaj prefiksoj:
 
-- en- (ek-, Komenci agon)
-- ek- (ek-, subite, unufoja)
+- En (Ek-, Komenci agon)
+- Ek (Ek-, Subite, Unufoje)
 
 | Lidepla                    | Esperanto                                     |
 | -------------------------- | --------------------------------------------- |
@@ -245,12 +245,12 @@ Tamen en kelkaj okazoj oni necesas emfazi la foreston de la objekto
 | Ela fa-astoni.                       | Ŝi miriĝas.                             |
 | Oni mog audi musika. Musika fa-audi. | Oni povas aŭdi muzikon. Muziko aŭdiĝas. |
 
-Uzante la prefikson **mah-** (-ig) oni povas emfazi la transitivecon aŭ formi
+Uzante la prefikson **mah** (-ig) oni povas emfazi la transitivecon aŭ formi
 transitivajn verbojn:
 
 | Lidepla      | Esperanto   |
 | ------------ | ----------- |
-| Astoni.      | Mirigi.     |
+| Astoni.      | Miri.       |
 | Mah-astoni.  | Mirigi.     |
 | Remembi.     | Memori.     |
 | Mah-remembi. | Memorigi.   |
@@ -271,8 +271,8 @@ transitivajn verbojn:
 
 La samaj partikloj estas uzataj kun adjektivoj por raporti ŝanĝon en iu kvalito:
 
-- mah- (farigi aŭ farigi ion)
-- fa- (fariĝi aŭ fariĝi io)
+- Mah (-igi)
+- Fa (-iĝi)
 
 | Lidepla   | Esperanto           |
 | --------- | ------------------- |
@@ -299,7 +299,7 @@ Oni ankaŭ povas uzi sufiksojn por formi verbojn (el adjektivoj aŭ aliaj verboj
 | Klarifi. | Klarigi.  |
 | Klarisi. | Klariĝi.  |
 
-La prefikso **fa-** ankaŭ povas esti uzata kun substantivoj indikante, ekzemple,
+La partiklo **fa** ankaŭ povas esti uzata kun substantivoj indikante, ekzemple,
 la momenton de la tago:
 
 | Lidepla | Esperanto                                       |
