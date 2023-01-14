@@ -55,13 +55,14 @@ Nombroj necesas por kalkuli:
 - Nin (Naŭ)
 - Shi (Dek)
 
-Por formi dekojn, la vorto indikanta la nombron da dekoj estas metita antaŭ la
-vorto **Shi** [Dek] skribita kune:
+Por formi dekojn, la vorto, kiu indikas la nombron da dekoj estas metita antaŭ
+la vorto **shi** [Dek] skribita kune:
+
 - Dwashi (Dudek)
 - Trishi (Tridek)
 - Ninshi (Naŭdek)
 
-Por konti de 11 ĝis 19, la vorto por unuoj estas metita antaŭ la vorto **Shi**
+Por konti de 11 ĝis 19, la vorto por unuoj estas metita post la vorto **Shi**
 skribita per streketo:
 
 - Shi-un (Dek unu)
@@ -85,7 +86,7 @@ Por krei centoj la vorto **sto** esas uzata:
 | ------------------ | ------------------ |
 | Dwasto-trishi-nin. | Ducent tridek naŭ. |
 
-Por grandaj nomboj oni zuas la vortojn:
+Por grandaj nombroj oni uzas la vortojn:
 
 - Mil (Mil)
 - Milion (Miliono)
@@ -139,7 +140,7 @@ korelativo **tanto** (tiom):
 | May dwa kinda hev mucho kitaba.               | Mia du infanoj havas multajn librojn.               |
 | Me hev tanto mani ke me mob kupi un elefanta. | Mi havas tiom da mono, ke mi povas aĉeti elefanton. |
 
-Tamen ekzistas ankaŭ speciala multnombra formo de la substantivo.
+Tamen ekzistas ankaŭ speciala plura formo de la substantivo.
 
 Por formi ĝin, al la substantivoj oni aldonas **s** (se la vorto finiĝas per
 vokalo) aŭ **es** (se la vorto finiĝas per konsonanto):
@@ -153,8 +154,8 @@ vokalo) aŭ **es** (se la vorto finiĝas per konsonanto):
 
 > Kiam oni formas la multnombran formon, la loko de la akcento ne ŝanĝiĝas.
 
-La multnombra formo estas uzata kiam ial necesas indiki multnombrecon en foresto
-de vortoj indikantaj kvanton:
+La plura formo estas uzata kiam ial necesas indiki multnombrecon en foresto de
+vortoj indikantaj kvanton:
 
 | Lidepla                  | Esperanto                   |
 | ------------------------ | --------------------------- |
@@ -186,7 +187,7 @@ de vortoj indikantaj kvanton:
 
 ## Horloĝo
 
-Nombro estas gravaj kiam oni parolas pri tempo.
+Nombroj estas gravaj kiam oni parolas pri tempo.
 
 por raporti la ĝustan tempon, la vorto **klok** estas uzata:
 
@@ -325,13 +326,13 @@ Por komuiki, ke io okazas regule, uzu la vorton **kada** (Ĉiu):
 ## Tempodaŭroj
 
 Por komuniki kiom antaŭ longe io okazis, uzu la vorton **bak** (posten,
-malantauxen, retroe; re-; antaux (pri tempo)):
+malantauxen, retroe; re-; antaux [pri tempo]):
 
 | Lidepla                                                      | Esperanto                                                                           |
 | ------------------------------------------------------------ | ----------------------------------------------------------------------------------- |
 | 3 sekunda / minuta / ora / dey / wik / mes / yar / sekla bak | Antaŭ 3 sekundoj / minutoj / horoj / tagoj / semajnoj / monatoj / jaroj / jarcentoj |
 
-Por diri post kioma tempo io okazos, uzu la vorton **afte** (post):
+Por diri post kiom da tempo io okazos, uzu la vorton **afte** (post):
 
 | Lidepla                                                       | Esperanto                                                                          |
 | ------------------------------------------------------------- | ---------------------------------------------------------------------------------- |
@@ -346,8 +347,8 @@ Por diri post kioma tempo io okazos, uzu la vorton **afte** (post):
 | Me pren sey kitaba fo dwa ora. | Mi prenis tiun ĉi libron por du horoj. |
 | Me ve lekti it duran dwa ora.  | Mi legis ĝin dum du horoj.             |
 
-Por raporti la komencon kaj fintempojn de periodo, uzu la vortojn **fon** (de)
-(de (deirpunkto, origino)) kaj **til** (ĝis):
+Por raporti la komencon kaj fintempojn de periodo, uzu la vortojn **fon** (de
+[deirpunkto, origino]) kaj **til** (ĝis):
 
 | Lidepla                                  | Esperanto                                         |
 | ---------------------------------------- | ------------------------------------------------- |
@@ -432,7 +433,7 @@ Aliaj utilaj vortoj:
 - Ranem (frue)
 - Tardem (Malfrue)
 
-    ---
+----------
 
 ***Ekzerco de tradukado 6:***
 
@@ -465,20 +466,21 @@ Unuoj:
 - Kilogram / Kilo (Kilogramo)
 
 Se informo pri la kvanto estas en la frazo antaŭ la nomo de la substanco, la
-prepozicio de estas uzata:
+prepozicio ne estas uzata:
 
-| Lidepla | Esperanto |
-| ------- | --------- |
-| Dwa kilo masu. | Du kilogramoj da viando. |
-| Pet litra akwa. | Kvin litroj da akvo. |
+| Lidepla            | Esperanto                |
+| ------------------ | ------------------------ |
+| Dwa kilo masu.     | Du kilogramoj da viando. |
+| Pet litra akwa. | Kvin litroj da akvo.     |
 
 Kun vortoj kiel **Pes** (Peco), **Pak** (Pako, Pakaĵo) kaj **Botela** (Botelo),
 la prepozicio **de** (da) povas esti ellasita:
 
 | Lidepla         | Esperanto                |
 | --------------- | ------------------------ |
-| Dwa kilo masu.  | Du kilogramoj da viando. |
-| Pet litra akwa. | Kvin litroj da akvo.     |
+| Pes pan.        | Peco da pano.            |
+| Pak nayu.       | Pako da butero.          |
+| Botela milka.   | Botelo da lakto.         |
 
 Por paroli pri prezoj:
 
