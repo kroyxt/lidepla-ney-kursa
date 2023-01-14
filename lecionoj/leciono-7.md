@@ -42,7 +42,7 @@ Pri objektoj:
 - Olo (Ĉio)
 
 Kelkfoje oni devas paroli pri iu karakterizaĵo de persono, aĵo aŭ afero. Pro
-tio, la prepozicio **do** (distinga signi, destino) estas uzata:
+tio, la prepozicio **do** (distinga signo, destino) estas uzata:
 
 | Lidepla                      | Esperanto                      |
 |------------------------------|--------------------------------|
@@ -124,7 +124,7 @@ Simpla prepozicioj de loko:
 - Sub (Sub)
 - Bifoo (Antaŭ)
 
-Prepozicioj-adverboj de loko:
+Prepozicioj/adverboj de loko:
 
 > Povas esti uzata kun substantivoj kiel prepozicioj kaj sendepende kiel
 > adverboj:
@@ -152,9 +152,11 @@ Prepozicioj-adverboj de loko:
 | Speciale somere, kiam estas varma.                                                                                              |         |
 | Kiam ekstere estas pluvo (pluva), mi ŝatas pli esti ene de la domo kaj rigardi kiel pluvas trans la fenestro (winda).           |         |
 | Supre la domo estas subtegmento (rufshamba).                                                                                    |         |
-| Kiam mi estis malgranda, me iam ŝatis veni en ĝi kaj ludi kvazaŭ (kwasi) ĝi estis mia propra (prope) sekreta (sekret-ney) domo. |         |
+| Kiam mi estis malgranda, mi iam ŝatis veni en ĝi kaj ludi kvazaŭ (kwasi) ĝi estis mia propra (prope) sekreta (sekret-ney) domo. |         |
 | Tie mi iam havis malgrandan tablon (tabla) meze, multaj libroj sur la tabla kaj mapoj (mapas).                                  |         |
-| Super la tablo iam estis lampo (lampa) kaj sub la tablo kutime mia kato (kota) iam sidas.                                       |         |
+| Super la tablo iam estis lampo (lampa) kaj sub la tablo kutime mia kato (kota) iam sidis.                                       |         |
+
+----------
 
 La prepozicio estas kutime metita antaŭ la vorto, al kiu ĝi rilatas:
 
