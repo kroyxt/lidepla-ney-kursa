@@ -22,8 +22,8 @@ entute 70 vortoj
 
 ## Substantivoj
 
-Substativoj estas vortoj, kiuj respondas la demandon **kio?** (kwo?) aŭ **kiu?**
-(hu?).
+La substativoj estas vortoj, kiuj respondas la demandon **kio?** (kwo?) aŭ
+**kiu?** (hu?).
 
 Substantivoj povas esti simplaj kaj derivitaj.
 
@@ -39,23 +39,23 @@ Ekzemploj de simplaj substantivoj:
 
 Gravas rimarki, ke la substantivoj mem ne portas la signifon de kvanto.
 
-Do, la vorto **flor**, ekzemple, depende de la kunteksto, povas signifi kaj
-**floro** kaj **floroj**. Por klarigi la unikecon, vi povas meti la vorton **un**
-(unu) antaŭ la vorto:
+Do, la vorto **flor**, ekzemple, depende de la kunteksto, povas signifi
+**floro** kaj **floroj**. Por klarigi la unikecon, vi povas meti la vorton
+**un** (unu) antaŭ la vorto:
 
 | Lidepla | Esperanto |
 | ------- | --------- |
 | Un flor | Unu floro |
 
-Alia maniero klarigi unikecon (unu peco): partiklo **ge** (metita post la vorto
-kun strekto):
+Alia maniero klarigi unikecon estas uziante la partiklon **ge** (unu peco):
+> metita post la vorto kun streketo
 
 | Lidepla | Esperanto         |
 | ------- | ----------------- |
 | Flor-ge | Floro, Unu floro. |
 
 Por klarigi plurecon, oni uzas aŭ vortojn indikantajn kvanton (ekzemple,
-**mucho** (multe)) aŭ la pluralan formon (por pliaj detaloj, vidu la [leciono
+**mucho** (multe)) aŭ la pluran formon (por pliaj detaloj, vidu la [leciono
 5](./leciono-5.md)).
 
 | Lidepla    | Esperanto                       |
@@ -85,14 +85,14 @@ Se necese, specifu la sekson en aliaj kazoj uzante:
 | Gin-kota.       | Katino.         |
 | Man-kota.       | Virkato.        |
 
-Anstataŭigante la finaĵon **a** per **-ina** (-ino) / **-o** (viro):
+Aŭ anstataŭigante la finaĵon **a** per **-ina** (-ino) / **-o** (viro):
 
 | Lidepla         | Esperanto       |
 | --------------- | --------------- |
 | Amigina         | Amikino.        |
 | Amigo           | Viramiko.       |
 
-La substantivo en Lidepla ne havas kasojn. Tamen ekzistas 2 malsamaj
+La substantivo en Lidepla ne havas kazojn. Tamen ekzistas 2 malsamaj
 kazformoj de substantivoj laŭ ĝia funkcio en la frazo (la samaj 2 kazoj
 ankaŭ rilatas por personaj pronomoj):
 
@@ -116,7 +116,7 @@ partiklojn **da** por nominativo kaj **den** por akuzativa kazo:
 
 | Lidepla                                              | Esperanto                                 |
 | ---------------------------------------------------- | ----------------------------------------- |
-| Me vidi amiga. **Den** amiga me vidi                 | Mi vidis amikon.                          |
+| Me vidi amiga. / **Den** amiga me vidi               | Mi vidis amikon.                          |
 | Om hu yu shwo? **Den** amiga om.                     | Pri kiu vi parolas. Pri amiko.            |
 | Ob lu samaji ela? Non, samaji **da** ela **den** lu. | Ĉu li komprenis ŝin? Ne, ŝi komrenis lin. |
 
@@ -131,7 +131,7 @@ Substantivoj povas esti formataj el verboj.
 formitaj per:
 
 - Anstatatŭigante la finaĵon **i** per **a** (se la verbo finiĝas per konsonanto
-  \+ i):
+  -i):
 
 | Verbo | Substantivo |
 | ----- | ----------- |
@@ -144,7 +144,8 @@ formitaj per:
 | ----- | ------------------ |
 | Pri   | Pria (ŝato, plaĉo) |
 
-- Aldonante **sa** (se la verbo finiĝas per io alia ol **i**, aŭ diptongo):
+- Aldonante **sa** (se la verbo finiĝas per io alia ol **i**, aŭ finiĝas per
+  diptongo):
 
 | Verbo | Substantivo        |
 | ----- | ------------------ |
@@ -257,7 +258,7 @@ En Lidepla la verboj ne ŝanĝas sian formon, krom la unurura verbo **Esti**: la
 escepta verbo **bi** havas la formon **es** (estas) en la nuna tempo kaj **bin**
 (estis) en la estinteco.
 
-La verbo **bi/es/bin** estas kutime antaŭita de substantivo, sekvata de
+La verbo **bi/es/bin** estas kutime uzata antaŭ substantivoj, sekvata de
 adjektivo.
 
 La verbo **bi/es/bin** neniam estas ellasita.
@@ -297,8 +298,8 @@ En kompleksaj frazoj kun demanda korelativo, kiel regulo, ne ekzistas inversio:
 ----------
 
 Se le subjetko estas esprimita per la vorto **se** (to ĉi) aŭ la pronomo **ta**
-aŭ **it**, la subjekto povas esti ellasita, kaj en la demando kaj en la respondo
-al ĝi (se la signifo estas klara en la kunteksto):
+aŭ **it**, la subjekto povas esti ellasita en la demando kaj en la respondo al
+ĝi (se la signifo estas klara en la kunteksto):
 
 | Lidepla                      | Esperanto                |
 | ---------------------------- | ------------------------ |
@@ -353,7 +354,7 @@ Demostrativaj korelativoj:
 
 ----------
 
-## Ĉeestaj verboj Ye kaj Yok. La verbo Hev
+## Ĉeestaj verboj Ye kaj Yok, kaj la verbo Hev
 
 Kelkfoje oni devas diri **Estas** ne en la senco de kvalito, sed en la senco de
 ĉeesto aŭ foresto de io.
@@ -439,7 +440,7 @@ El la refleksiva pronomo **swa**, oni povas formi la posedan pronomon
 
 ## Partikloj Gro- kaj -Ki
 
-La sekvaj partikloj estas vaste uzataj en Lidepla lingvo:
+La sekvaj partikloj estas vaste uzataj en Lidepla:
 
 - Pligrandiganta prefikso **Gro-** (-ega, ega, granda):
 - Malpligrandiganta sufikso **-Ki** (-eta, eta, malgranda):
@@ -464,7 +465,7 @@ tiu metodo ne ĉiam aplikeblas):
 | Dimitri.      | Dimi.                         |
 | Konstantin.   | Konsti.                       |
 
-Ankaŭ en la lingvo ekzistas derivaj sufiksoj **-kin** (-eta) kaj **-gron**
+Ankaŭ en la Lidepla ekzistas derivaj sufiksoj **-kin** (-eta) kaj **-gron**
 (-ega), kiuj servas por formi substantivojn kun ia nova kvalito:
 
 | Lidepla         | Esperanto        |
@@ -553,7 +554,7 @@ Provu rerakonti ĉi tiun tekston aŭ elpensi vian propran tekston.
 
 ## Etiketo: Saluton, Kiel vi fartas?
 
-Kiam oni salutas en malsamaj tempoj de la tago, oni povas uzi la jenajn
+Kiam oni salutas en diversaj tempoj de la tago, oni povas uzi la jenajn
 esprimojn:
 
 - Hao sabah! (Bonan matenon!)
