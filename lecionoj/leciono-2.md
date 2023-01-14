@@ -79,8 +79,11 @@ Por respondi la demandon "Pri kio? Pri kiu?" oni necesas la prepozicion **om**
 | ----------------- | ----------------- |
 | Me ve dumi om yu. | Mi pensos pri vi. |
 
-Aliaj gravaj Prepozicioj: **fo** (por), **por** (pro), **kun** (kun), **sin**
-(sen).
+Aliaj gravaj prepozicioj:
+- **fo** (por)
+- **por** (pro)
+- **kun** (kun)
+- **sin** (sen)
 
 | Lidepla             | Esperanto            |
 | ------------------- | -------------------- |
@@ -193,8 +196,9 @@ Gravas ne konfuzi la vortojn **kwo** kaj **ke**:
 | Me jan kwo yu lubi.    | Mi scias kion (precize) vi amas. |
 | Me jan, ke yu lubi me. | Mi scias, ke vi amas min.        |
 
-Notu, ke ne ekzistas tia aĵo kiel streĉa akordo en gvidloko: en la subfrazo, la
-partikloj indikas la tempon de la ago relative al la ago en la ĉefa frazo.
+Rimarku, ke ne ekzistas tia aĵo kiel streĉa tempa akordo en Lidepla: en la
+subfrazo, la partikloj indikas la tempon de la ago relative al la ago en la ĉefa
+frazo.
 
 | Lidepla                       | Esperanto                  |
 | ----------------------------- | -------------------------- |
@@ -219,7 +223,8 @@ partikloj indikas la tempon de la ago relative al la ago en la ĉefa frazo.
 
 ----------
 
-Alia maniero por konstrui Kompleksan frazon estas: prepozicio + partiklo **ke**:
+Alia maniero por konstrui Kompleksanj frazojn estas: prepozicio + partiklo
+**ke**:
 
 | Lidepla                                           | Esperanto                                              |
 | ------------------------------------------------- | ------------------------------------------------------ |
@@ -261,12 +266,12 @@ Kelkfoje ne gravas kiu faras kion. Por tia okazo ekzistas pronomo **oni** (oni).
 ## Modalaj verboj
 
 Specialaj verboj, kiuj esprimas sintenon al ago kutime estas nomataj "modalaj".
-Kaj kun ilia helpo, vi povas komponi verbsekvenvojn:
+Kaj kun ilia helpo, vi povas komponi verbsekvencojn:
 
 - Mog (Povi)
 - Janmog (Scipovi)
 - Darfi (Rajti)
-- Treba (Necesas; Igi necesa)
+- Treba (Estas necesa, Necesas; Igi necesa)
 - Mus (Devi)
 - Gai (Devus)
 - Majbur (Devigatas, esti devigata)
@@ -308,7 +313,7 @@ frazo alprenas nepersonan signifon:
 
 ## Emfazaj vortoj
 
-Por rimarki, emfazi la signifon de la tuta frazo (tio estas, antaŭ ĉio ĝia
+Por rimarki/emfazi la signifon de la tuta frazo (tio estas, antaŭ ĉio ĝia
 predikato), kiel ni jam scias, oni uzas la partiklon **ya**. Sed en Lidepla
 ekzistas ankaŭ la partiklo de pli direkta emfazo: Ĝi enfazas ĝuste la vorton,
 post kiu ĝi troviĝas. Jen la partiklo **hi**:
@@ -321,9 +326,9 @@ post kiu ĝi troviĝas. Jen la partiklo **hi**:
 | Mi hi ga bu yao go.    | "Mi" tute ne volas iri.    |
 | Me yao go hi, bu lopi. | Mi volas "marŝi", ne kuri. |
 
-Por rimarki vorton en demando, ekzistas partiklo **ku**. Per ĝi, oni povas
-facile demandi (ĝeneralan) demandon pri specifa vorto en la frazo (la partiklo
-estas metita post la vorto):
+Por rimarki/emfazi vorton en demando, ekzistas partiklo **ku**. Per ĝi, oni
+povas facile demandi (ĝeneralan) demandon pri specifa vorto en la frazo (la
+partiklo estas metita post la vorto):
 
 > La uzo de citiloj en la esperanta traduko estas nur por montri al vi kiu parto
 > de la frazo estas emfazita per la partiklo.
@@ -357,20 +362,20 @@ mallonga frazo:
 ## Utilaj vortoj por rakontoj
 
 Por rakonto, ekzemple, pri vi mem, pri viaj kapabloj, la vorto **yoshi**
-(ankoraux (plie), ankaux (kaj plie)) povas esti utila:
+(ankoraux [plie], ankaux [kaj plie]) povas esti utila:
 
 | Lidepla                                | Esperanto                                     |
 | -------------------------------------- | --------------------------------------------- |
 | Me janmog gani. Yoshi me janmog rasmi. | Mi scipovas kanti, ankaŭ mi scipovas desegni. |
 
-En dialogo, la vorto **toshi** (ankaux (same, egale kiel aliaj)) povas esti
+En dialogo, la vorto **toshi** (ankaux [same, egale kiel aliaj]) povas esti
 utila:
 
 | Lidepla                     | Esperanto                   |
 | --------------------------- | --------------------------- |
 | Me janmog gani. - Me toshi. | Mi povas kanti. - Ankaŭ mi. |
 
-Vortoj necesaj por komuniki la ordon kaj tempon de eventoj:
+Ĉi tiuj vortoj estas necesaj por komuniki la ordon kaj tempon de eventoj:
 
 - Poy (Poste, Pli malfrue)
 - Snova (Denove, Ree)
@@ -488,7 +493,7 @@ La respondo bezonos la prepozicion **in** (en):
 | ---------------------------- | ----------------------------- |
 | Me jivi in Sankt-Petersburg. | Mi loĝas en Sankt-Peterburgo. |
 
-Vi ankaŭ povas demandi **Fon wo yu lai** (De kie vi venas?)
+Vi ankaŭ povas demandi **Fon wo yu lai?** (De kie vi venas?)
 
 La respondo bezonos la prepozicion **fon** (de).
 
