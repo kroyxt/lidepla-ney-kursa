@@ -33,8 +33,15 @@ En Lidepla la verba formo neniam ŝanĝiĝas. Por klarigi, kiu agas, oni uzas
 personajn pronomojn, pro klarigi la agon (ekzemple la tempo) specialaj partikloj
 estas uzataj.
 
-Personaj pronomoj: Me (Mi), Nu (Ni); Yu (Vi); Ta (Ŝi, Li, Ĝi), Lu (Li), Ela
-(Ŝi), Li(Ili).
+Personaj pronomoj:
+
+- Me (Mi)
+- Nu (Ni)
+- Yu (Vi)
+- Ta (Ŝi, Li, Ĝi)
+- Lu (Li)
+- Ela (Ŝi)
+- Li(Ili)
 
 |            | Ununombra   | Multnombra |
 | ---------- | ----------- | ---------- |
@@ -51,9 +58,9 @@ Personaj pronomoj: Me (Mi), Nu (Ni); Yu (Vi); Ta (Ŝi, Li, Ĝi), Lu (Li), Ela
   **lu** (li) kaj **ela** (ŝi)
 
 - **yu** estas ĝenerala pronomo, kiu indikas tiun/tiujn, kiujn oni alparolas. Se
-  necese, oni povas uzi la kombinaĵojn: yu oli (vi ĉiuj), yu ambi (vi ambaŭ), yu
-  un (kiam rilatas al unu el la grupo). Ne ekzistas speciala vorto por precipe
-  ĝentila aŭ formala formo en Lidepla.
+  estas necesa, oni povas uzi la kombinaĵojn: **yu oli** (vi ĉiuj), **yu ambi**
+  (vi ambaŭ), **yu un** (kiam rilatas al unu el la grupo). Ne ekzistas speciala
+  vorto por precipe ĝentila aŭ formala formo en Lidepla.
 
 Tiu, kiu agas (la subjekto) estas kutime metita antaŭ la verbo.
 
@@ -63,11 +70,11 @@ Tiu, kiu agas (la subjekto) estas kutime metita antaŭ la verbo.
 | Yu lubi | Vi amas   |
 | Nu lubi | Ni amas   |
 
-La baza formo de la verbo mem ne enhavas indikon pri la tempo de la ago.
+La ĉefa formo de la verbo ne enhavas indikon pri la tempo de la ago.
 
-La tempo de la ago estas determinata de la kunteksto (ekzemple, la vorto
+La tempo de la ago estas determinata de la kunteksto. Ekzemple: la vorto
 **yeri** (hieraŭ) malambigue indikas la estintecon, la vorto **manya** (morgaŭ)
-la estontecon, kaj **nau** (nun), **sedey** (ĉi tiu tago) la estantecon). Se ne
+la estontecon, kaj **nau** (nun), **sedey** (ĉi tiu tago) la estantecon. Se ne
 ekzistas kunteksto, oni supozas la estantecon.
 
 | Lidepla         | Espera              |
@@ -159,7 +166,8 @@ emfazi ĝian signifon:
 
 ## Partikloj de estinta kaj estonta tempo, konjunkcioj
 
-Por klarigi la daŭron de la ago (se estas necese), partikloj estas uzataj:
+Por klarigi la daŭron de la ago (se estas necese), la sekvaj partikloj estas
+uzataj:
 
 - ve [Antaŭ la verbo] - Estonta tempo (-os).
 - -te [Post la verbo kun streketo] - Pasinta tempo (-is).
@@ -186,7 +194,7 @@ Por klarigi la daŭron de la ago (se estas necese), partikloj estas uzataj:
 
 ----------
 
-Konjunkcioj estas utila por kombini vortojn kaj frazojn:
+La konjunkcioj estas utila por kombini vortojn kaj frazojn:
 
 - E (Kaj)
 - O (Aŭ)
@@ -267,7 +275,7 @@ Ekzistas universala vorto en lingvo Lidepla, kiu povas esti prononcata
 kiel saluto, aŭ kiel adiaŭo, aŭ simple kiel bondeziro. Ĉi tiu vorto estas
 **Swasti**! Laŭvorte, ĝi signifas "Estu feliĉo! Estu paco!"
 
-Krome, kiam vi salutas, vi povas diri: **Salam**! (Saluton), **Namastee**!
+Krome, kiam oni salutas, oni povas diri: **Salam**! (Saluton), **Namastee**!
 (Saluton). Kaj ĉe disiĝo: **Chao**! (Adiaŭ), **Adyoo**! (Adiaŭ).
 
 > Duobligi la vokalon indikas, ke ĉi tiu vokalo estas emfazita.
@@ -298,10 +306,10 @@ komencos kun ĝi nian revizion.
 Ĉiu lingvo, iel aŭ alimaniere, portas la tutan historion de sia popolo.
 
 La 5-a jarcento p.K povas esti konsiderata la tempo de la naskiĝo de la angla
-lingvo: En tiu tempo, la ĝermanaj triboj de la Anguloj kaj Saksoj penetris la
-teritorion de la Britaj insuloj, loĝata de la keltoj. Estis multe pli da ili ol
-la keltoj, kaj la anglosaksa dialekto iom post iom tute anstataŭigis la keltan de
-uzo.
+lingvo: En tiu tempo, la ĝermanaj triboj de la Anguloj kaj Saksoj eniris en la
+teritorio de la Britaj insuloj, loĝata de la keltoj. Estis multe pli da ili ol
+la keltoj, kaj la anglosaksa dialekto iom post iom tute anstataŭigis la keltan
+de uzo.
 
 En la 6-a kaj la 7-a jarcento p.K la roma eklezio efektivigis ĝeneralan
 kristanigon de Britio, kaj dum tiu ĉi periodo aperis en la angla lingvo granda
