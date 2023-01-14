@@ -4,10 +4,10 @@
 
 Kiel devus esti lingvo de internacia komunikado?
 
-Verŝajne neŭtrala. Tio signifas, ke ne apartenante al iu aparta popolo (kiel la
+Verŝajne neŭtrala. Tio signifas, ke ne apartenas al iu aparta popolo (kiel la
 angla).
 
-Verŝajne simpla gramatike. Tio signifas, ke ne enhavante grandegan nombron da
+Verŝajne simpla gramatike. Tio signifas, ke ne enhavas grandegan nombron da
 malsamaj formoj, kiujn oni devas lerni (kiel ekzemple la rusa).
 
 Verŝajne simpla fonetike. Tio signifas, ke ĉiuj sonoj povus esti facile
@@ -165,8 +165,8 @@ videon](https://translate.google.com/website?sl=ru&tl=eo&hl=en-US&client=webapp&
 
 En vortfarado, la akcento de la origina vorto ne ŝanĝiĝas kiam:
 
-1. Pluralaj substantivoj (-(e)s): ki**ta**bas (libroj), su**o**las (ŝuaj
-   plandoj), kordias (koroj), manes (viroj).
+1. Pluraj substantivoj (-(e)s): ki**ta**bas (libroj), su**o**las (ŝuaj plandoj),
+   kordias (koroj), manes (viroj).
 
 2. Formado de adverboj el adjektivoj (-em): natu**ra**lem (nature) el
    natu**ra**le (natura).
