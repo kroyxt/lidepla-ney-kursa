@@ -114,7 +114,13 @@ vortoj pruntitaj el tiu ĉi lingvo.
 - Teksto
 - Fokusa lingvo: La Germana
 
-[Leciono 9 | Ankoraŭ ne tradukata]()
+[Leciono 9 | Vortfarado](./lecionoj/leciono-9.md)
+- Afiksoj
+- Partikloj
+- Vortkunmetado
+- Kombinoj de ĉiuj vortfaraj metodoj
+- Novaj verboj
+- Fokusa lingvo: La Franca
 
 [Leciono 10 | Ankoraŭ ne tradukata]()
 
