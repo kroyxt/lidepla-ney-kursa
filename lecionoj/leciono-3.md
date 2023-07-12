@@ -29,33 +29,35 @@ Substantivoj povas esti simplaj kaj derivitaj.
 
 Ekzemploj de simplaj substantivoj:
 
-- Jen (Persono, Homo).
-- Kinda (Infano).
-- Flor (Floro).
-- Kitaba (Libro).
-- Dom (Domo).
-- Amiga (Amiko).
-- Taim (Tempo).
+| Lidepla | Esperanto     |
+|---------|---------------|
+| Jen     | Persono, Homo |
+| Kinda   | Infano        |
+| Flor    | Floro         |
+| Kitaba  | Libro         |
+| Dom     | Domo          |
+| Amiga   | Amiko         |
+| Taim    | Tempo         |
 
 Gravas rimarki, ke la substantivoj mem ne portas la signifon de kvanto.
 
 Do, la vorto **flor**, ekzemple, depende de la kunteksto, povas signifi
-**floro** kaj **floroj**. Por klarigi la unikecon, vi povas meti la vorton
+**floro** kaj **floroj**. Por klarigi la singularon, vi povas meti la vorton
 **un** (unu) antaŭ la vorto:
 
 | Lidepla | Esperanto |
 | ------- | --------- |
 | Un flor | Unu floro |
 
-Alia maniero klarigi unikecon estas uziante la partiklon **ge** (unu peco):
+Alia maniero klarigi singularon estas uzante la partiklon **ge** (unu peco):
 > metita post la vorto kun streketo
 
 | Lidepla | Esperanto         |
 | ------- | ----------------- |
 | Flor-ge | Floro, Unu floro. |
 
-Por klarigi plurecon, oni uzas aŭ vortojn indikantajn kvanton (ekzemple,
-**mucho** (multe)) aŭ la pluran formon (por pliaj detaloj, vidu la [leciono
+Por klarigi pluralon, oni uzas aŭ vortojn indikantajn kvanton (ekzemple,
+**mucho** (multe)) aŭ la pluralan formon (por pliaj detaloj, vidu la [leciono
 5](./leciono-5.md)).
 
 | Lidepla    | Esperanto                       |
@@ -65,14 +67,24 @@ Por klarigi plurecon, oni uzas aŭ vortojn indikantajn kvanton (ekzemple,
 La ideo de sekso (pli precize, genro) estas implicite enigita nur en kelkaj
 substantivoj, kiuj indikas homojn:
 
-- Gina (Ino) / Man (Viro).
-- Gela (Knabino) / Boy (Knabo).
-- Mata (Patrino) / Patra (Patro).
-- Docha (Filino) / Son (Filo).
-- Sista (Fratino) / Brata (Frato).
-- Tia (Onklino) / Onkla (Onklo).
-- Oma (Avino) / Opa (Avo)
-- Kindocha (Nepino) / Kinson (Nepo).
+| Lidepla  | Esperanto |
+|----------|-----------|
+| Gina     | Ino       |
+| Man      | Viro      |
+| Gela     | Knabino   |
+| Boy      | Knabo     |
+| Mata     | Patrino   |
+| Patra    | Patro     |
+| Docha    | Filino    |
+| Son      | Filo      |
+| Sista    | Fratino   |
+| Brata    | Frato     |
+| Tia      | Onklino   |
+| Onkla    | Onklo     |
+| Oma      | Avino     |
+| Opa      | Avo       |
+| Kindocha | Nepino    |
+| Kinson   | Nepo      |
 
 Se necese, specifu la sekson en aliaj kazoj uzante:
 
@@ -155,18 +167,16 @@ formitaj per:
 
 ***Ekzerco de tradukado 1:***
 
-| Esperanto | Lidepla |
-| --------- | ------- |
-| Espero    |         |
-| Scio      |         |
-| Helpo     |         |
-| Peto      |         |
-| Ĝojo      |         |
-| Demando   |         |
-| Respondo  |         |
-| Veno      |         |
-| Kanto     |         |
-| Vojaĝo    |         |
+- Espero.
+- Scio.
+- Helpo.
+- Peto.
+- Ĝojo.
+- Demando.
+- Respondo.
+- Veno.
+- Kanto.
+- Vojaĝo.
 
 ----------
 
@@ -187,11 +197,13 @@ Adjektivoj respondas al demando **Kia?/Kiu?** (Kwel?)
 
 Ekzemploj de adjektivoj:
 
-- Hao (Bona).
-- Buhao (Malbona).
-- Gran (Granda).
-- Syao (Malgranda).
-- Jamile (Bela).
+| Lidepla | Esperanto |
+|---------|-----------|
+| Hao     | Bona      |
+| Buhao   | Malbona   |
+| Gran    | Granda    |
+| Syao    | Malgranda |
+| Jamile  | Bela      |
 
 > Kiam oni kombinas la literojn **ao** la litero **a** estas akcentita.
 
@@ -199,12 +211,16 @@ Ekzemploj de adjektivoj:
 
 Kune kun adjektivoj, adverboj de kvanto estas uzataj:
 
-- Muy (Tre).
-- Idyen (Iomete).
-- Aika (Sate).
-- Basta (Sufiĉe (da)).
-- Tro (Tro).
-- Ga (Tute).
+| Lidepla | Esperanto |
+|---------|-----------|
+| Muy     | Tre       |
+| Idyen   | Iomete    |
+| Aika    | Sate      |
+| Basta   | Sufiĉe da |
+| Tro     | Tro       |
+| Ga      | Tute      |
+
+----------
 
 | Lidepla     | Esperanto       |
 | ----------- | --------------- |
@@ -241,14 +257,12 @@ Adjektivoj kun la signifo **Kiu povas...** estas formitaj uzante la sufikson
 
 ***Ekzerco de tradukado 2:***
 
-| Esperanto  | Lidepla |
-| ---------- | ------- |
-| Vojaĝema.  |         |
-| Demandema. |         |
-| Kredebla.  |         |
-| Esperebla. |         |
-| Amema.     |         |
-| Esperema.  |         |
+- Vojaĝema.
+- Demandema.
+- Kredebla.
+- Esperebla.
+- Amema.
+- Esperema.
 
 ----------
 
@@ -286,18 +300,16 @@ En kompleksaj frazoj kun demanda korelativo, kiel regulo, ne ekzistas inversio:
 
 ***Ekzerco de tradukado 3:***
 
-| Esperanto                      | Lidepla |
-| ------------------------------ | ------- |
-| La libro estas sufiĉe granda.  |         |
-| La infano estas tro malgranda. |         |
-| Kie estas la floro?            |         |
-| La floro estis sate bela.      |         |
-| Kiu (kwel) estos la domo?      |         |
-| La domo estos tre bona.        |         |
+- La libro estas sufiĉe granda.
+- La infano estas tro malgranda.
+- Kie estas la floro?
+- La floro estis sate bela.
+- Kiu (kwel) estos la domo?
+- La domo estos tre bona.
 
 ----------
 
-Se le subjetko estas esprimita per la vorto **se** (to ĉi) aŭ la pronomo **ta**
+Se le subjetko estas esprimita per la vorto **se** (tio ĉi) aŭ la pronomo **ta**
 aŭ **it**, la subjekto povas esti ellasita en la demando kaj en la respondo al
 ĝi (se la signifo estas klara en la kunteksto):
 
@@ -329,9 +341,15 @@ La adjektivo estas kutime metita antaŭ la priskribata vorto.
 
 Demostrativaj korelativoj:
 
-- Sey (Tiu ĉi)
-- Toy (Tiu)
-- Tal (Tia)
+| Lidepla | Esperanto |
+|---------|-----------|
+| Sey     | Tiu ĉi    |
+| Toy     | Tiu       |
+| Tal     | Tia       |
+
+> Sey kaj Toy estas uzataj kiel adjektivoj.
+
+----------
 
 | Lidepla             | Esperanto                     |
 | ------------------- | ----------------------------- |
@@ -343,14 +361,12 @@ Demostrativaj korelativoj:
 
 ***Ekzerco de tradukado 4:***
 
-| Esperanto                                                        | Lidepla |
-| ---------------------------------------------------------------- | ------- |
-| Tiu ĉi infano estas malgranda, sed sate Komprenema.              |         |
-| Tiu homo estis tre bona.                                         |         |
-| Mi ne ŝatas tiun ĉi domon: ĝi es tro malgranda.                  |         |
-| Ne necesas paroli al tia homo: Li/Ŝi ne estos bona amiko por vi. |         |
-| Tiu domo estas sufiĉe granda por ke ni povos loĝi en ĝi.         |         |
-| Tiu ĉi infano estas tro demandema.                               |         |
+- Tiu ĉi infano estas malgranda, sed sate komprenema.
+- Tiu homo estis tre bona.
+- Mi ne ŝatas tiun ĉi domon: ĝi es tro malgranda.
+- Ne necesas paroli al tia homo: Li/Ŝi ne estos bona amiko por vi.
+- Tiu domo estas sufiĉe granda por ke ni povos loĝi en ĝi.
+- Tiu ĉi infano estas tro demandema.
 
 ----------
 
@@ -359,7 +375,7 @@ Demostrativaj korelativoj:
 Kelkfoje oni devas diri **Estas** ne en la senco de kvalito, sed en la senco de
 ĉeesto aŭ foresto de io.
 
-En ĉi tiu kazo oni devas uzi, anstataŭ la verbo **bi**, la vortoj **ye**
+En ĉi tiu kazo oni devas uzi, anstataŭ la verbo **bi**, la vortojn **ye**
 (estas, ĉeesti, ekzisti) kaj **yok** (ne estas, malĉeesti, foresti, ne ekzisti):
 
 | Lidepla          | Esperanto                         |
@@ -378,12 +394,10 @@ Por raporti, ke io apartenas al iu, uzu la verbon **hev** (havi):
 
 ***Ekzerco de tradukado 5:***
 
-| Esperanto                 | Lidepla |
-| ------------------------- | ------- |
-| Tie estas malgranda domo. |         |
-| Tie ĉi ne ekzistas floro. |         |
-| Ni havos infano.          |         |
-| Li havis tian libron.     |         |
+- Tie estas malgranda domo.
+- Tie ĉi ne ekzistas floro.
+- Ni havos infano.
+- Li havis tian libron.
 
 ----------
 
@@ -410,8 +424,19 @@ La sama signifo povas esti esprimita per la prepozicio **de**:
 
 Helpe de la sama partiklo **-ney**, oni povas formi posedajn pronomoj: Me-ney,
 Yu-ney, Ta-ney, ktp. Sed posedaj pronomoj estas uzataj tre ofte en parolado, do
-ekzistas ankaŭ mallongaj formoj por ili: May (Mia), Yur (Via), Nuy (Nia), Ley
-(ilia), Suy (Lia, Ŝia, Sia), Luy (Lia), Elay (Ŝia).
+ekzistas ankaŭ mallongaj formoj por ili:
+
+| Lidepla | Esperanto     |
+|---------|---------------|
+| May     | Mia           |
+| Yur     | Via           |
+| Nuy     | Nia           |
+| Ley     | ilia          |
+| Suy     | Lia, Ŝia, Sia |
+| Luy     | Lia           |
+| Elay    | Ŝia           |
+
+----------
 
 |            | Ununombro      | Multnombro |
 | ---------- | -------------- | ---------- |
@@ -426,15 +451,13 @@ El la refleksiva pronomo **swa**, oni povas formi la posedan pronomon
 
 ***Ekzerco de tradukado 6:***
 
-| Esperanto               | Lidepla |
-| ----------------------- | ------- |
-| Mia infano.             |         |
-| La libro de mia infano. |         |
-| Via libro.              |         |
-| Mia domo.               |         |
-| Amiko de nia infano.    |         |
-| Ilia tempo.             |         |
-| Lia floro.              |         |
+- Mia infano.
+- La libro de mia infano.
+- Via libro.
+- Mia domo.
+- Amiko de nia infano.
+- Ilia tempo.
+- Lia floro.
 
 ----------
 
@@ -479,14 +502,12 @@ Ankaŭ en la Lidepla ekzistas derivaj sufiksoj **-kin** (-eta) kaj **-gron**
 
 ***Ekzerco de tradukado 7:***
 
-| Esperanto | Lidepla |
-| --------- | ------- |
-| Grandega. |         |
-| Belega.   |         |
-| Bezonegi. |         |
-| Volegi.   |         |
-| Hometo.   |         |
-| Floreto.  |         |
+- Grandega.
+- Belega.
+- Bezonegi.
+- Volegi.
+- Hometo.
+- Floreto.
 
 ----------
 
@@ -510,24 +531,22 @@ Ankaŭ en la Lidepla ekzistas derivaj sufiksoj **-kin** (-eta) kaj **-gron**
 
 ***Ekzerco de tradukado 8:***
 
-| Esperanto                                                                                                 | Lidepla |
-| --------------------------------------------------------------------------------------------------------- | ------- |
-| Mi havas (unu) amiko.                                                                                     |         |
-| Ŝi es bonega persono.                                                                                     |         |
-| Li estas tre laborema kaj komprenema.                                                                     |         |
-| Ŝi havas (unu) malgrandan infanon.                                                                        |         |
-| Mia amiko volas esti kun infano, volas vidi kiel lia infano vivas.                                        |         |
-| Sed li ne povas, ĉar li devas labori.                                                                     |         |
-| Li ne havas tempon por ludi kun sia infano.                                                               |         |
-| Kiam li alvenas, la infano dormas.                                                                        |         |
-| Mia amiko esperas, ke kiam la infano estos granda, li povos legi libron por li kaj paroli pri ili kun li. |         |
-| La infano de mia amiko ne povas kompreni kial sia patro ne povas ludi kun li.                             |         |
-| La infano ne povas sidi sen ludi. Li volas kuri, kanti, danci.                                            |         |
-| Mia amiko ankaŭ havas patron.                                                                             |         |
-| Li estas tre maljuna (lao).                                                                               |         |
-| Li ne memoras sian nomon.                                                                                 |         |
-| Ŝi ne vidas kaj pro tio ne povas legi kaj skribi.                                                         |         |
-| Ŝi bezonas dormi.                                                                                         |         |
+- Mi havas (unu) amiko.
+- Ŝi es bonega persono.
+- Li estas tre laborema kaj komprenema.
+- Ŝi havas (unu) malgrandan infanon.
+- Mia amiko volas esti kun infano, volas vidi kiel lia infano vivas.
+- Sed li ne povas, ĉar li devas labori.
+- Li ne havas tempon por ludi kun sia infano.
+- Kiam li alvenas, la infano dormas.
+- Mia amiko esperas, ke kiam la infano estos granda, li povos legi libron por li kaj paroli pri ili kun li.
+- La infano de mia amiko ne povas kompreni kial sia patro ne povas ludi kun li.
+- La infano ne povas sidi sen ludi. Li volas kuri, kanti, danci.
+- Mia amiko ankaŭ havas patron.
+- Li estas tre maljuna (lao).
+- Li ne memoras sian nomon.
+- Ŝi ne vidas kaj pro tio ne povas legi kaj skribi.
+- Ŝi bezonas dormi.
 
 ----------
 
@@ -545,22 +564,26 @@ Provu rerakonti ĉi tiun tekston aŭ elpensi vian propran tekston.
     - Fon wo yu lai? Wo es yur dom? A wo yu yao pren may yan?
     (Afte Antuan de Sent Exuperi)
 
-- Avion (Aviadilo, Flugilo)
-- Kosa (Aĵo, io)
-- Skay (Ĉielo)
-- Drole (Amuza)
-- Planeta (Planedo)
-- Yan (Ŝafido)
+| Lidepla | Esperanto         |
+|---------|-------------------|
+| Avion   | Aviadilo, Flugilo |
+| Kosa    | Aĵo, io           |
+| Skay    | Ĉielo             |
+| Drole   | Amuza             |
+| Planeta | Planedo           |
+| Yan     | Ŝafido            |
 
 ## Etiketo: Saluton, Kiel vi fartas?
 
 Kiam oni salutas en diversaj tempoj de la tago, oni povas uzi la jenajn
 esprimojn:
 
-- Hao sabah! (Bonan matenon!)
-- Hao dey! (Bonan tagon!)
-- Hao Aksham! (Bonan vesperon!)
-- Hao nocha (Bonan nokton!)
+| Lidepla     | Esperanto       |
+|-------------|-----------------|
+| Hao sabah!  | Bonan matenon!  |
+| Hao dey!    | Bonan tagon!    |
+| Hao Aksham! | Bonan vesperon! |
+| Hao nocha   | Bonan nokton!   |
 
 Per si mem, la vortoj **Sabah**, **Dey**, **Aksham**, **Nocha** signifas
 **Mateno**, **Tago**, **Vespero** kaj **Nokto**, respektive.
@@ -652,60 +675,72 @@ vortoj kiuj konsistigas la plimulton de vortprovizo de Lidepla.
 La plej oftaj vortoj pruntitaj el la hispana:
 
 - Funkciaj vortoj:
-    - A (Al)
-    - Kada (Ĉiuj)
-    - Kwanto (Kiom da)
-    - Es (Estas)
-    - Ela (Ŝi)
-    - Mil (Mil)
-    - Mucho (Multe)
-    - Komo (Kiel)
-    - Sol (Nur)
-    - Sin (Sen)
-    - I... i... (Kaj... kaj..)
-    - Muy (Tre)
-    - Basta (Sufiĉe)
-    - Ambi (Ambaŭ)
-    - Segun (Laŭ)
+
+| Lidepla   | Esperanto    |
+|-----------|--------------|
+| A         | Al           |
+| Kada      | Ĉiuj         |
+| Kwanto    | Kiom da      |
+| Es        | Estas        |
+| Ela       | Ŝi           |
+| Mil       | Mil          |
+| Mucho     | Multe        |
+| Komo      | Kiel         |
+| Sol       | Nur          |
+| Sin       | Sen          |
+| I... i... | Kaj... kaj.. |
+| Muy       | Tre          |
+| Basta     | Sufiĉe       |
+| Ambi      | Ambaŭ        |
+| Segun     | Laŭ          |
 
 - Substantivoj:
-    - Kosa (Aĵo Io)
-    - Flor (Floro)
-    - Tasa (Taso)
-    - Kamina (Vojo)
-    - Tren (Trajno)
-    - Avion (Aviadilo Flugilo)
-    - Amiga (Amiko)
-    - Vos (Voĉo)
-    - Munda (Mondo)
-    - Oton (Aŭtuno)
-    - Mes (Monato)
-    - Isla (Insulo)
-    - Mar (Maro)
+
+| Lidepla | Esperanto        |
+|---------|------------------|
+| Kosa    | Aĵo Io           |
+| Flor    | Floro            |
+| Tasa    | Taso             |
+| Kamina  | Vojo             |
+| Tren    | Trajno           |
+| Avion   | Aviadilo Flugilo |
+| Amiga   | Amiko            |
+| Vos     | Voĉo             |
+| Munda   | Mondo            |
+| Oton    | Aŭtuno           |
+| Mes     | Monato           |
+| Isla    | Insulo           |
+| Mar     | Maro             |
 
 - Verboj:
-    - Skribi (Skribi)
-    - Fumi (Fumi)
-    - Inviti (Inviti)
-    - Visiti (Viziti)
-    - Resolvi (Solvi (taskon))
-    - Regi (Regi Reĝi)
-    - Kresi (Kreski)
-    - Konsenti (Konsenti)
-    - Doni (Doni)
+
+| Lidepla  | Esperanto      |
+|----------|----------------|
+| Skribi   | Skribi         |
+| Fumi     | Fumi           |
+| Inviti   | Inviti         |
+| Visiti   | Viziti         |
+| Resolvi  | Solvi (taskon) |
+| Regi     | Regi Reĝi      |
+| Kresi    | Kreski         |
+| Konsenti | Konsenti       |
+| Doni     | Doni           |
 
 - Adjektivoj:
-    - Gran (Granda)
-    - Blan (Blanka)
-    - Lente (Malrapida)
-    - Otre (Alia)
-    - Alegre (Gaja)
-    - Agude (Akuta)
-    - Vere (Reala Vera)
-    - Tarde (Malfrua)
-    - Kare (Multekosta)
-    - Libre (Libera)
-    - Sane (Sana)
+
+| Lidepla | Esperanto  |
+|---------|------------|
+| Gran    | Granda     |
+| Blan    | Blanka     |
+| Lente   | Malrapida  |
+| Otre    | Alia       |
+| Alegre  | Gaja       |
+| Agude   | Akuta      |
+| Vere    | Reala Vera |
+| Tarde   | Malfrua    |
+| Kare    | Multekosta |
+| Libre   | Libera     |
+| Sane    | Sana       |
 
 [Respondoj de la Ekzercoj de tradukado](./respondoj/l-3.md)
 

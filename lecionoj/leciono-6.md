@@ -80,26 +80,26 @@ formita per aldonado de la **em**
 
 Korelativoj:
 
-- Komo (Kiel)
-- Tak (Tiel)
+| Lidepla | Esperanto |
+|---------|-----------|
+| Komo    | Kiel      |
+| Tak     | Tiel      |
 
 La prepozicio **bay** (per) enkondukas rimedon, instrumenton:
 
 | Lidepla                               | Esperanto                               |
 | ------------------------------------- | --------------------------------------- |
 | Komo yu safari? - Me safari bay auto. | Kiel vi vojaĝas? - Mi vojaĝas per aŭto. |
-| Me bu yao jibi tak.                   | Mi ne volas vivi tiel.                  |
+| Me bu yao jivi tak.                   | Mi ne volas vivi tiel.                  |
 
 ----------
 
 ***Ekzerco de tradukado 1:***
 
-| Esperanto                                                             | Lidepla |
-| --------------------------------------------------------------------- | ------- |
-| Ĉi tiu aŭto estas malrapida (lente). Ĝi moviĝas lente.                |         |
-| Tiu ĉi trajno estas rapida. Ni veturantas per (raki) ĝin tre rapide.  |         |
-| Estas bonkora (karim) homo. Li rigardas min bonkore, kiel bona amiko. |         |
-| Ne rigardu min tiel! - Kiel?                                          |         |
+- Ĉi tiu aŭto estas malrapida (lente). Ĝi moviĝas lente.
+- Tiu ĉi trajno estas rapida. Ni veturantas (raki) per ĝin tre rapide.
+- Estas bonkora (karim) homo. Li rigardas min bonkore, kiel bona amiko.
+- Ne rigardu min tiel! - Kiel?
 
 ----------
 
@@ -113,30 +113,38 @@ Kiel regulo, adjektivoj estas uzata kun ligaj verboj **bi/es/bin**, **sta** kaj
 
 Adverboj de ofteco:
 
-- Sempre (Ĉiam)
-- Oftem (Ofte)
-- Rarem (Malofte)
-- Pinchanem (Kutime)
-- Neva (Neniam)
+| Lidepla   | Esperanto        |
+|-----------|------------------|
+| Sempre    | Ĉiam             |
+| Oftem     | Ofte             |
+| Rarem     | Malofte          |
+| Pinchanem | Ordinare, Kutime |
+| Neva      | Neniam           |
 
-| Lidepla                             | Esperanto                             |
-| ----------------------------------- | ------------------------------------- |
-| Me sempre majbur weiti yu!          | Mi ĉiam devigatas atendi vin!         |
-| Nu oftem miti.                      | Ni ofte renkontiĝas.                  |
-| Li rarem vidi mutu.                 | Ili malofte vidas unu la alian.       |
-| Pinchanem me lai a dom pa klok sit. | Kutime mi venas a la domo je la sesa. |
-| Ta bu danki neva.                   | Li ne dankas neniam.                  |
+----------
+
+| Lidepla                             | Esperanto                               |
+| ----------------------------------- | -------------------------------------   |
+| Me sempre majbur weiti yu!          | Mi ĉiam devigatas atendi vin!           |
+| Nu oftem miti.                      | Ni ofte renkontiĝas.                    |
+| Li rarem vidi mutu.                 | Ili malofte vidas unu la alian.         |
+| Pinchanem me lai a dom pa klok sit. | Ordinare mi venas a la domo je la sesa. |
+| Ta bu danki neva.                   | Li ne dankas neniam.                    |
 
 > Duobla neado ne ŝanĝas la signifon de la frazo.
 
 Diversaj adverboj:
 
-- Sertem (Certe)
-- Semblem (Ŝajne)
-- Gro (Ege)
-- For (Plu)
-- Wek (For)
-- Sun (Baldaŭ)
+| Lidepla | Esperanto |
+|---------|-----------|
+| Sertem  | Certe     |
+| Semblem | Ŝajne     |
+| Gro     | Ege       |
+| For     | Plu       |
+| Wek     | For       |
+| Sun     | Baldaŭ    |
+
+----------
 
 | Lidepla                    | Esperanto                     |
 | -------------------------- | ----------------------------- |
@@ -149,11 +157,13 @@ Diversaj adverboj:
 
 Por komparoj kun adjektivoj kaj adverboj, la vortoj uzataj estas:
 
-- Pyu (Pli)
-- Meno (Malpli)
-- Zuy (Plej)
-- Minim (Malplej)
-- Kem (ol)
+| Lidepla | Esperanto |
+|---------|-----------|
+| Pyu     | Pli       |
+| Meno    | Malpli    |
+| Zuy     | Plej      |
+| Minim   | Malplej   |
+| Kem     | ol        |
 
 > En la vorto Minim, la akcento estas sur la unua silabo, tiu ĉi estas escepto
 
@@ -195,13 +205,11 @@ Por esprimi "Ju... / Des..." uzu **Kem... Tem...**:
 
 ***Ekzerco de tradukado 2:***
 
-| Esperanto                                                   | Lidepla |
-| ----------------------------------------------------------- | ------- |
-| Mia fratino (sista) estas pli alta ol mia frato (brata).    |         |
-| Tiu ĉi domo estas la plej malgranda en nia urbo (urba).     |         |
-| Mia patro estas la plej bona.                               |         |
-| La plej parto de la homoj ĉi tie volas helpi tiu ĉi infano. |         |
-| Ju pli alta estas la domo, des pli homoj loĝas en ĝi.       |         |
+- Mia fratino (sista) estas pli alta ol mia frato (brata).
+- Tiu ĉi domo estas la plej malgranda en nia urbo (urba).
+- Mia patro estas la plej bona.
+- La plej multe de la homoj ĉi tie volas helpi tiu ĉi infano.
+- Ju pli alta estas la domo, des pli homoj loĝas en ĝi.
 
 ----------
 
@@ -254,14 +262,12 @@ verbo bi/es/bin:
 
 ***Ekzerco de tradukado 3:***
 
-| Esperanto                                                                                                                                       | Lidepla |
-| ----------------------------------------------------------------------------------------------------------------------------------------------- | ------- |
-| Mi volus loĝi en urbo (urba) kaj studi (studi) tie en universitato (universitet).                                                               |         |
-| Mi pensas ke je la universitato oni instruas (talimi) pli bone ol je la lernejo (skola), kaj ke lerni en urbo estas pli interesa (interes-ney). |         |
-| Mi loĝas en vilaĝo (vilaja), por veturi al urbo necesas longe iri per (go bay) unue buso (bus), poste treno (tren).                             |         |
-| Mi ne ŝatas veturi, mi ŝatas promeni pli, kvankam veturi es pli rapida.                                                                         |         |
-| Veturi estas plej malrapida, sed plej interesa.                                                                                                 |         |
-| Grava aĵo estas ne forgesi vidi bela aĵo.                                                                                                       |         |
+- Mi volus loĝi en urbo (urba) kaj studi (studi) tie pa universitato (universitet).
+- Mi pensas ke je la universitato oni instruas (talimi) pli bone ol je la lernejo (skola), kaj ke lerni en urbo estas pli interesa (interes-ney).
+- Mi loĝas en vilaĝo (vilaja), por veturi al urbo necesas longe iri per (go bay) unue buso (bus), poste treno (tren).
+- Mi ne ŝatas veturi, mi ŝatas promeni pli, kvankam veturi es pli rapida.
+- Veturi estas plej malrapida, sed plej interesa.
+- Grava aĵo estas ne forgesi vidi bela aĵo.
 
 ----------
 
@@ -357,24 +363,29 @@ Por indiki specifan rezulton de ago, ekzistas la sufikso **-tura** (-aĵo):
 | Shwo.       | Paroli, Diri.     |
 | Shwotura.   | Parolaĵo, Diraĵo. |
 
+Oni povas forigi la finaĵon **-i** de la verbo kiam oni uzas la sufikson
+**-tura** se tiu ne kaŭzas problemon de komprenado:
+
+- Traduktitura => Traduktura
+- Mixitura => Mixtura
+- Skribitura => Skribtura
+
 ----------
 
 ***Ekzerco de tradukado 4:***
 
-| Esperanto       | Lidepla |
-| --------------- | ------- |
-| Vendisto.       |         |
-| Manĝaĵo.        |         |
-| Leganto.        |         |
-| Miksaĵo (Mixi). |         |
+- Vendisto.
+- Manĝaĵo.
+- Leganto.
+- Miksaĵo (Mixi).
 
 ----------
 
-## Kvalitaj Substantivoj
+## Abstraktaj/Kvalitaj Substantivoj
 
-Por formi substativon el adjektivoj oni uzas la sufikson **-(i)taa** (-eco):
+Por formi substativojn el adjektivoj oni uzas la sufikson **-(i)taa** (-eco):
 
-> La fine **e** antaŭ la vorto estas anstatŭigita per **i**.
+> La finaĵo **-e** de la adjektivo estas anstatŭigita per **i**.
 
 | Lidepla  | Esperanto |
 | -------- | --------- |
@@ -399,6 +410,18 @@ Substantivoj indikanta puran kvaliton povas esti formita uzante la sufikson
 | Gaotaa.    | Alteco.   |
 | Gaonesa.   | Alto.     |
 
+La sufikson **-nesa** ankaŭ kreas substantivojn el verboj kun la signifo de la
+stato, kiu rezultas el la ago aŭ estas ligata al la ago:
+
+| Lidepla     | Esperanto |
+| ----------  | --------- |
+| Adapti.     | Adapti.   |
+| Adaptinesa. | Adepteco. |
+| Koni.       | Koni.     |
+| Koninesa.   | Koneco.   |
+| Godi.       | Taŭgi.    |
+| Godinesa.   | Taŭgeco.  |
+
 Anstataŭigante la finan **e** per **a**, en iuj kazoj, oni povas formi
 substantivon kun la signifo "Iu aŭ iu karakterizata de ĉi tiu kvalito":
 
@@ -419,16 +442,25 @@ La jam konata sufikso **-ka** (-aĵo) formas substantivon kun la signifo
 | Syao.   | Malgranda.   |
 | Syaoka. | Malgrandaĵo. |
 
+Por adjektivoj kiuj havas pli ol du silabojn kaj finas per **-ente** aŭ
+**-ante**, la abstrakta/kvalita substantivo estas kreata anstatuigante
+**-ensia** aŭ **-ensie** respektive:
+
+| Lidepla     | Esperanto    |
+| -------     | ------------ |
+| Presente.   | Estanta.     |
+| Presensia.  | Estanteco.   |
+| Abundante.  | Abunda.      |
+| Abundansia. | Abundeco.    |
+
 ----------
 
 ***Ekzerco de tradukado 5:***
 
-| Esperanto | Lidepla |
-| --------- | ------- |
-| Beleco.   |         |
-| Longeco.  |         |
-| Pezeco.   |         |
-| Belo.     |         |
+- Beleco.
+- Longeco.
+- Pezeco.
+- Belo.
 
 ----------
 
@@ -464,9 +496,13 @@ kiu necesas nova vorto, la komponantoj estas skribitaj kune:
 Ekzistas kelkaj vortoj, kiuj regule partoprenas en la formado de tiaj novaj
 vortoj, ekzemple:
 
-- Jen (Persono, Homo)
-- Yuan (Membro, Funkciulo, Laboristo, Ano)
-- Guan (Institucio, Ejo)
+| Lidepla | Esperanto                         |
+|---------|-----------------------------------|
+| Jen     | Persono, Homo                     |
+| Yuan    | Membro, Funkciulo, Laboristo, Ano |
+| Guan    | Institucio, Ejo                   |
+
+----------
 
 | Lidepla     | Esperanto                                    |
 | ----------- | -------------------------------------------- |
@@ -505,8 +541,8 @@ Priskriba enkonduko per **ke**:
 | Me jan ke yu he zwo mucho.             | Mi scias, ke vi farantis multon.                |
 | Bat me bu yao shwo om to ke yu he zwo. | Sed mi ne volas paroli pri tio, ke vi farantis. |
 
-Se la vorto priskribata estas la subjekto de la subfrazo, la vorto **kel**
-(kiu [Relativa pronomo pri personoj aŭ aĵoj]):
+Se la vorto priskribata estas la subjekto de la subfrazo, la partiklo **kel**
+(kiu [Relativa pronomo pri personoj aŭ aĵoj]) estas uzata:
 
 | Lidepla                             | Esperanto                                     |
 | ----------------------------------- | --------------------------------------------- |
@@ -523,14 +559,12 @@ Ankaŭ **kel** estas uzata kun prepozicioj:
 
 ***Ekzerco de tradukado 6:***
 
-| Esperanto                                                                                           | Lidepla |
-| --------------------------------------------------------------------------------------------------- | ------- |
-| Mi volus fariĝi (bikam) profesoro (profesor) je universitato.                                       |         |
-| Mi instruus matematikon (matematika) al studento (studenta).                                        |         |
-| Mi zorgus (kuydi) pri ke studento, kiu mi instruas (ti... na...), komprenas bone tion, ke mi diras. |         |
-| Ili memorus bone tion, ke ili audas dum (duran) mia leciono (leson).                                |         |
-| Mi ŝatus demandi al studento, kiu lernas bone.                                                      |         |
-| Post mia leciono ili iĝus (fa) pli pensemaj.                                                        |         |
+- Mi volus fariĝi (bikam) profesoro (profesor) je universitato.
+- Mi instruus matematikon (matematika) al studento (studenta).
+- Mi zorgus (kuydi) pri ke studento, kiu mi instruas (ti... na...), komprenas bone tion, ke mi diras.
+- Ili memorus bone tion, ke ili audas dum (duran) mia leciono (leson).
+- Mi ŝatus demandi al studento, kiu lernas bone.
+- Post mia leciono ili iĝus (fa) pli pensemaj.
 
 ----------
 
@@ -564,34 +598,42 @@ Provu rerakonti ĉi tiun tekston aŭ elpensi vian propran tekston.
     To ke ta zwo hev sensu. Wen ta lumisi suy fanus, es kwasi yoshi un stara o
     yoshi un flor janmi. Es verem utile por ke es jamile."
 
-- Kuriose (Kurioza)
-- Plasa (Loko)
-- Fanus (Lanterno)
-- Absurde (Sensenca, Absurda)
-- Rego (Reĝo)
-- Bisnes (Komerco)
-- Sensu (Senco)
-- Luma (Lumo)
-- Kwasi (Kvazaŭ)
-- Stara (Stelo)
-- Janmi (Naski, Naskiĝi)
-- Utile (Utila)
+| Lidepla | Esperanto         |
+|---------|-------------------|
+| Kuriose | Kurioza           |
+| Plasa   | Loko              |
+| Fanus   | Lanterno          |
+| Absurde | Sensenca, Absurda |
+| Rego    | Reĝo              |
+| Bisnes  | Komerco           |
+| Sensu   | Senco             |
+| Luma    | Lumo              |
+| Kwasi   | Kvazaŭ            |
+| Stara   | Stelo             |
+| Janmi   | Naski, Naskiĝi    |
+| Utile   | Utila             |
 
 ## Etikedo: Paroli pri la vetero
 
 Kiel vi scias, la plej taŭga temo por babilado estas vetero (Meteo).
 
-- Ausen (Ekstere, Ekster de)
+| Lidepla | Esperanto          |
+|---------|--------------------|
+| Ausen   | Ekstere, Ekster de |
 
 Temperaturo povas esti priskribita per adjektivoj:
 
-- Lenge (Malvarma)
-- Warme (Varma)
-- Garme (Varmega)
-
 | Lidepla | Esperanto |
-| ------- | --------- |
-| Es aika lenge ausen. | Estas sate malvarma ektere.  |
+|---------|-----------|
+| Lenge   | Malvarma  |
+| Warme   | Varma     |
+| Garme   | Varmega   |
+
+----------
+
+| Lidepla              | Esperanto                   |
+|----------------------|-----------------------------|
+| Es aika lenge ausen. | Estas sate malvarma ektere. |
 
 En babilado, rekta demando kun **ob** estas pli malpli malofta. Vi povas fari
 demandon alimaniere, uzante la vorton **ver** [mallongigo de **Vere**] (vera,
@@ -625,11 +667,15 @@ Ankaŭ oni povas uzi la verboj **ye** kaj **yok**:
 
 Vortoj necesaj por priskribi la staton de la ĉielo:
 
-- Skay (Ĉielo)
-- Klare (Klara)
-- Tume (Malluma, Malhela)
-- Surya (Suno)
-- Badal (Nubo)
+| Lidepla | Esperanto        |
+|---------|------------------|
+| Skay    | Ĉielo            |
+| Klare   | Klara            |
+| Tume    | Malluma, Malhela |
+| Surya   | Suno             |
+| Badal   | Nubo             |
+
+----------
 
 | Lidepla                                | Esperanto                                        |
 |----------------------------------------|--------------------------------------------------|
@@ -711,69 +757,81 @@ Vortoj pruntitaj el la rusa:
 > de radiko.
 
 - Gramatikaj vortoj:
-    - Koy (Ia)
-    - Sey (Ĉi tiu)
-    - Dabe (Por ke)
-    - Dwa (Du)
-    - Sem (Sep)
-    - Sto (Cent)
-    - Krome (krom [plie al, aldone al])
-    - Po (Po [Disdivido])
-    - Tem (Des)
-    - Snova (Denove)
-    - Toshi (Ankaŭ [same, egale kiel aliaj])
-    - Yoshi (Ankaŭ, Ankoraŭ [Pli, Kaj Plie])
+
+| Lidepla | Esperanto                      |
+|---------|--------------------------------|
+| Koy     | Ia                             |
+| Sey     | Ĉi tiu                         |
+| Dabe    | Por ke                         |
+| Dwa     | Du                             |
+| Sem     | Sep                            |
+| Sto     | Cent                           |
+| Krome   | krom [plie al, aldone al]      |
+| Po      | Po [Disdivido]                 |
+| Tem     | Des                            |
+| Snova   | Denove                         |
+| Toshi   | Ankaŭ [same, egale kiel aliaj] |
+| Yoshi   | Ankaŭ, Ankoraŭ [Pli, Kaj Plie] |
 
 - Verboj:
-    - Ye (Esti, Ĉeesti)
-    - Treba (Esti devigata)
-    - Dai (Doni)
-    - Dumi (Pensi)
-    - Lubi (Ami)
-    - Nadi (Esperi)
-    - Gloti (Gluti)
-    - Goni (stiri [kaŭzi moviĝi; ĉasi])
-    - Kupi (Aĉeti)
-    - Sidi (Sidi)
-    - Krushi (Kraŝi)
-    - Tuki (Frapi, Frapadi [batante produkti sonon])
-    - Leki (Kuraci)
-    - Chihi (Terni)
-    - Kuti (Envolvi)
-    - Lisi (Leki)
-    - Plaki (Plori)
-    - Shuki (Serĉi)
+
+| Lidepla | Esperanto                               |
+|---------|-----------------------------------------|
+| Ye      | Esti, Ĉeesti                            |
+| Treba   | Esti necesa                             |
+| Dai     | Doni                                    |
+| Dumi    | Pensi                                   |
+| Lubi    | Ami                                     |
+| Nadi    | Esperi                                  |
+| Gloti   | Gluti                                   |
+| Goni    | stiri [kaŭzi moviĝi; ĉasi]              |
+| Kupi    | Aĉeti                                   |
+| Sidi    | Sidi                                    |
+| Krushi  | Kraŝi                                   |
+| Tuki    | Frapi, Frapadi [batante produkti sonon] |
+| Leki    | Kuraci                                  |
+| Chihi   | Terni                                   |
+| Kuti    | Envolvi                                 |
+| Lisi    | Leki                                    |
+| Plaki   | Plori                                   |
+| Shuki   | Serĉi                                   |
 
 - Substantivoj:
-    - Boh (Dio)
-    - Brata (Frato)
-    - Gorba (Ĝibo)
-    - Lada (Bona kondiĉo, Harmonio, Ordo, Paco)
-    - Juk (Koleoptero, Skarabo)
-    - Kasha (Kaĉo)
-    - Kota (Kato)
-    - Masu (Viando)
-    - Nocha (Nokto)
-    - Docha (Filino)
-    - Oko (Okulo)
-    - Poklon (Klinsaluto)
-    - Shapa (Ĉapelo)
-    - Snega (Neĝo)
-    - Slama (Pajlo)
-    - Vesna (Printempo)
-    - Yama (Kavo [en tero])
-    - Shum (Bruo)
+
+| Lidepla | Esperanto                          |
+|---------|------------------------------------|
+| Boh     | Dio                                |
+| Brata   | Frato                              |
+| Gorba   | Ĝibo                               |
+| Lada    | Bona kondiĉo, Harmonio, Ordo, Paco |
+| Juk     | Koleoptero, Skarabo                |
+| Kasha   | Kaĉo                               |
+| Kota    | Kato                               |
+| Masu    | Viando                             |
+| Nocha   | Nokto                              |
+| Docha   | Filino                             |
+| Oko     | Okulo                              |
+| Poklon  | Klinsaluto                         |
+| Shapa   | Ĉapelo                             |
+| Snega   | Neĝo                               |
+| Slama   | Pajlo                              |
+| Vesna   | Printempo                          |
+| Yama    | Kavo [en tero]                     |
+| Shum    | Bruo                               |
 
 - Adjektivoj:
-    - Dale (Malproksima)
-    - Blise (Proksima)
-    - Glube (Profunda)
-    - Mokre (Malseka)
-    - Suhe (Seka)
-    - Osobe (Speciala, Aparta)
-    - Pyan (Ebria)
-    - Rane (Frua)
-    - Yarke (Hela)
+
+| Lidepla | Esperanto        |
+|---------|------------------|
+| Dale    | Malproksima      |
+| Blise   | Proksima         |
+| Glube   | Profunda         |
+| Mokre   | Malseka          |
+| Suhe    | Seka             |
+| Osobe   | Speciala, Aparta |
+| Pyan    | Ebria            |
+| Rane    | Frua             |
+| Yarke   | Hela             |
 
 [Respondoj de la Ekzercoj de tradukado](./respondoj/l-6.md)
 

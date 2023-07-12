@@ -15,7 +15,7 @@ Entute 47 vortoj.
 
 > + 167 el lecionoj 1-3 = 214 vortoj.
 
-## Esprimo de mendoj, pentoj kaj deziroj
+## Esprimo de mendoj, petoj kaj deziroj
 
 La ĉefa formo de la verbo sen subjekto, esprimas la imperativon:
 
@@ -26,9 +26,9 @@ La ĉefa formo de la verbo sen subjekto, esprimas la imperativon:
 Por esprimi peton oni kutime aldonas **plis** (bonvolu) aŭ **bi karim** (estu
 afabla).
 
-| Lidepla            | Esperanto          |
-| ------------------ | ------------------ |
-| Heli (a) me, plis. | Bonvolu helpi min. |
+| Lidepla             | Esperanto          |
+| ------------------  | ------------------ |
+| Helpi (a) me, plis. | Bonvolu helpi min. |
 
 > Se estas evidente nur unu rekta objekto kun la verbo, oni povas ellasi la
 > prepozicion: Helpi a me = Helpi me.
@@ -63,11 +63,11 @@ de la frazo):
 - Magari (Mi deziras/volas ke..., Se nur...).
 - Nomagari (Mi ne deziras/volas ke..., Se nur... ne...).
 
-| Lidepla                   | Esperanto                        |
-| ------------------------- | -------------------------------- |
-| Hay ta lai!               | Ŝi venu!                         |
-| Magari ela shwo om me!    | Se nur ŝi parolu pri mi!         |
-| Nomagari li kwesti om se! | Se nur li ne demandu pri ĉi tio! |
+| Lidepla                   | Esperanto                               |
+| ------------------------- | --------------------------------        |
+| Hay ta lai!               | Ŝi venu!                                |
+| Magari ela shwo om me!    | Se nur ŝi parolu pri mi!                |
+| Nomagari li kwesti om se! | Mi deziras ke li ne demandu pri ĉi tio! |
 
 Post ĉi tiuj partikloj oni povas uzi ne nur la ĉefa formon de la verbo.
 
@@ -81,15 +81,13 @@ Post ĉi tiuj partikloj oni povas uzi ne nur la ĉefa formon de la verbo.
 
 ***Ekzerco de tradukado 1:***
 
-| Esperanto                                                          | Lidepla |
-| ------------------------------------------------------------------ | ------- |
-| Bonvolu, ne kuru: mi ne povas kompreni kion vi diras al mi.        |         |
-| Donu al mi mian floron, bonvolu. Ĝi estas tie.                     |         |
-| Legu, bonvolu, tiun ĉi libron por mi. Mi volas aŭdi kiel vi legas. |         |
-| Se nur li komprenu min.                                            |         |
-| Mi ne deziras, ke ŝi kredu ilin.                                   |         |
-| Atendu min tie ĉi, bonvolu.                                        |         |
-| Ŝi parolu al li pri mi.                                            |         |
+- Bonvolu, ne kuru: mi ne povas kompreni kion vi diras al mi.
+- Donu al mi mian floron, bonvolu. Ĝi estas tie.
+- Legu, bonvolu, tiun ĉi libron por mi. Mi volas aŭdi kiel vi legas.
+- Se nur li komprenu min.
+- Mi ne deziras, ke ŝi kredu ilin.
+- Atendu min tie ĉi, bonvolu.
+- Ŝi parolu al li pri mi.
 
 ----------
 
@@ -101,13 +99,17 @@ Kiam oni respondas al peto, kelkfoje oni bezonas la partiklon **wud** (-us):
 | ------------------------------------------ | --------------------------------------------- |
 | Me wud helpi yu, bat me bu mog: me mus go. | Mi helpus vin, sed mi ne povas: mi devas iri. |
 
+La partiklo **wud** povas esti mallongigata al **'d**:
+
+- Me wud yao = Me'd yao.
+
 La vorto **wud** estas proksime rilata al la vorto **si** (se) kaj **dan**
 (tiam):
 
 | Lidepla                                | Esperanto                         |
 | -------------------------------------- | --------------------------------- |
 | Me wud mog helpi yu, si yu wud pregi.  | Mi povus helpi vin, se vi petus.  |
-| Si yu wud pregi, dan me wud mog helpi. | Se vi petus, tiam me povus helpi. |
+| Si yu'd pregi, dan me'd mog helpi.     | Se vi petus, tiam me povus helpi. |
 
 La konjunkcio **si** (se) povas, esti uzata sen **wud** (-us):
 
@@ -119,12 +121,10 @@ La konjunkcio **si** (se) povas, esti uzata sen **wud** (-us):
 
 ***Ekzerco de tradukado 2:***
 
-| Esperanto                                                    | Lidepla |
-| ------------------------------------------------------------ | ------- |
-| Se vi ne kredas min, mi ne venos.                            |         |
-| Se vi volas ludi kaj ne labori, ne venu.                     |         |
-| Ĉu vi povus dormi, se ni kantus kaj dancus ĉi tie?           |         |
-| Mi respondus al vi, sed mi ne komprenas pri kio vi demandas. |         |
+- Se vi ne kredas min, mi ne venos.
+- Se vi volas ludi kaj ne labori, ne venu.
+- Ĉu vi povus dormi, se ni kantus kaj dancus ĉi tie?
+- Mi respondus al vi, sed mi ne komprenas pri kio vi demandas.
 
 ----------
 
@@ -136,11 +136,15 @@ finiĝis.
 
 Ekzistas specialaj partikloj en Lidepla por tio:
 
-- Zai (Esti faranta).
-- Sal (Esti faronta, Plani/voli fari ion).
-- He (Esti farinta, jam farita agado).
-- Yus he(Ĵus jam farita agado).
-- Yus (Ĵus, Ĝuste).
+| Lidepla | Esperanto                                 |
+|---------|-------------------------------------------|
+| Zai     | Esti faranta                              |
+| Sal     | Esti faronta, Plani/voli/intenci fari ion |
+| He      | Esti farinta, Jam farita agado            |
+| Yus he  | Ĵus jam farita agado                      |
+| Yus     | Ĵus, Ĝuste                                |
+
+----------
 
 | Lidepla                           | Esperanto                                                    |
 | --------------------------------- | ------------------------------------------------------------ |
@@ -167,12 +171,10 @@ pri supozo pri la pasinteco:
 
 ***Ekzerco de tradukado 3:***
 
-| Esperanto                                         | Lidepla |
-| ------------------------------------------------- | ------- |
-| Mi jam venis, mi estas manĝanta kaj mi enlitiĝos. |         |
-| Li ĵus jam finis danci.                           |         |
-| Ŝi ekludontas.                                    |         |
-| Mi jam parolus al vi, sed vi ne jam venis.        |         |
+- Mi estas veninta, mi estas manĝanta kaj mi enlitiĝos.
+- Li ĵus finintas danci.
+- Ŝi ekludontas.
+- Mi parolintus al vi, sed vi ne venintas.
 
 ----------
 
@@ -182,19 +184,19 @@ neniam okazis. La partiklo **gwo** (iam ...-is) estas por ĉi tio:
 | Lidepla                                      | Esperanto                                        |
 | -------------------------------------------- | ------------------------------------------------ |
 | Me gwo visiti ela. Me bu yao go adar denove. | Mi iam vizitis ŝin. Mi ne volas iri tien denove. |
-| Me bu gwo shwo kun ela.                      | Mi ne parolis iam kun ŝi.                        |
+| Me bu gwo shwo kun ela.                      | Mi ne iam parolis kun ŝi.                        |
 
 ----------
 
 ***Ekzerco de tradukado 4:***
 
-| Esperanto                                                                                                                                                                                      | Lidepla |
-| ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------- |
-| Li diras, ke li jus jam venis kaj pro tio ĉi li ne povas legi la leteron tuj.                                                                                                                  |         |
-| Li ne komprenis, ke ŝi ne iam vidis lin kaj ne venos sen ke mi parolos kun ŝi.                                                                                                                 |         |
-| Me estas devigata labori hodiaŭ, pro to ĉi mi ĵus jam venis al domo, mi estas manĝanta kaj parolanta kun infano pri ke mi ne scias kial en ameriko (Amerika) ne ekzistas krokodilo (Krokodil). |
-| Mi ne malfermos la pordon de mia domo, kiu ajn venas kaj kio ajn (ŝi) diras.                                                                                                                   |         |
-| Mi ne venos pro ke ŝi ne volas malfermi la pordon por mi.                                                                                                                                      |         |
+- Li diras, ke li jus venintas kaj pro tio ĉi li ne povas legi la leteron tuj.
+- Li ne komprenis, ke ŝi ne iam vidis lin kaj ne venos sen ke mi parolos kun ŝi.
+- Me estas devigata labori hodiaŭ, pro tio ĉi mi ĵus venintas al la domo, mi
+  estas manĝanta kaj parolanta kun infano pri ke mi ne scias kial en ameriko
+  (Amerika) ne ekzistas krokodilo (Krokodil).
+- Mi ne malfermos la pordon de mia domo, kiu ajn venas kaj kio ajn (ŝi) diras.
+- Mi ne venos pro ke ŝi ne volas malfermi la pordon por mi.
 
 ----------
 
@@ -204,8 +206,12 @@ Ofte, precipe kiam oni rakontas historion, gravas kiel la agoj estas ligitaj unu
 al la alia, estas grave montri, ke la ago komeciĝis, aŭ ke ĝi estis abruta,
 mallonga, ununura. Por tio, ekzistas la sekvaj verbaj prefiksoj:
 
-- En (Ek-, Komenci agon)
-- Ek (Ek-, Subite, Unufoje)
+| Lidepla | Esperanto            |
+|---------|----------------------|
+| En      | Ek-, Komenci agon    |
+| Ek      | Ek-, Subite, Unufoje |
+
+----------
 
 | Lidepla                    | Esperanto                                     |
 | -------------------------- | --------------------------------------------- |
@@ -217,13 +223,11 @@ mallonga, ununura. Por tio, ekzistas la sekvaj verbaj prefiksoj:
 
 ***Ekzerco de tradukado 5:***
 
-| Esperanto               | Lidepla |
-| ----------------------- | ------- |
-| Ekvoli. (komenci agon)  |         |
-| Ekstari. (komenci agon) |         |
-| Ekmemori. (subita ago)  |         |
-| Ekmovi. (subita ago)    |         |
-| Ekdomir. (komenci agon) |         |
+- Ekvoli. (komenci agon)
+- Ekstari. (komenci agon)
+- Ekmemori. (subita ago)
+- Ekmovi. (subita ago)
+- Ekdomi. (komenci agon)
 
 ----------
 
@@ -290,8 +294,12 @@ starigon de nova kvalito, ekzistas ankaŭ la verbon **bikam** (fariĝi):
 
 Oni ankaŭ povas uzi sufiksojn por formi verbojn (el adjektivoj aŭ aliaj verboj):
 
-- -fi (sinonimo por fa-)
-- -si (sinonimo por mah-)
+| Lidepla | Esperanto         |
+|---------|-------------------|
+| -fi     | sinonimo por fa-  |
+| -si     | sinonimo por mah- |
+
+----------
 
 | Lidepla  | Esperanto |
 | -------- | --------- |
@@ -329,7 +337,7 @@ momento)) povas esti utilaj:
 | Lidepla                                 | Esperanto                                       |
 | --------------------------------------- | ----------------------------------------------- |
 | Shayad yur kinda haishi bu janmog shwo. | Verŝajne via infano ankoraŭ ne scipovas paroli. |
-| Mogbi yur kinda janmog gani yo?.        | Eble via infano jam scipovas kanti?             |
+| Mogbi yur kinda janmog gani yo?         | Eble via infano jam scipovas kanti?             |
 
 ## Novaj verboj
 
@@ -360,12 +368,14 @@ Provu rerakonti ĉi tiun tekston aŭ elpensi vian propran tekston.
     - Ob ta toshi janmog shwo?
     - Non, bat ta janmog yusi Morse-alfabet
 
-- Animal-shop (Bestobutiko)
-- Papagay (Papago)
-- Kupi (Aĉeti)
-- Pelatuk (Pegedo)
-- Yusi (Uzi)
-- Morse-alfabet (Morsa kodo)
+| Lidepla       | Esperanto   |
+|---------------|-------------|
+| Animal-shop   | Bestobutiko |
+| Papagay       | Papago      |
+| Kupi          | Aĉeti       |
+| Pelatuk       | Pegedo      |
+| Yusi          | Uzi         |
+| Morse-alfabet | Morsa kodo  |
 
 ## Etiketo: Dankon! Pardonu, kion vi diris?
 
@@ -377,11 +387,11 @@ syao dela** (Ĝi estas malgranda afero. Nedankinde).
 
 Se vi ne aŭdis, kion diris la interparolanto, vi povas demandi denove:
 
-| Lidepla   | Esperanto    |
-|--------------- | --------------- |
-| Skusi?   | Pardonu?   |
+| Lidepla         | Esperanto         |
+|-----------------|-------------------|
+| Skusi?          | Pardonu?          |
 | Kwo yu he shwo? | Kion vi dirintas? |
-| Repeti ba, plis | Ripetu, Bonvolu. |
+| Repeti ba, plis | Ripetu, Bonvolu.  |
 
 Se vi aŭdir, sed ne tute komprenas pri kio temas, vi povas demandi jene:
 
@@ -393,22 +403,20 @@ Se vi aŭdir, sed ne tute komprenas pri kio temas, vi povas demandi jene:
 
 ***Ekzerco de tradukado 7:***
 
-| Esperanto                                                                            | Lidepla |
-| ------------------------------------------------------------------------------------ | ------- |
-| Mi estas atendanta ŝin. Kial ŝi ankoraŭ ne estas veninta?                            |         |
-| Eble ŝi ne memoras pri ke ni devis renkontiĝi hodiaŭ.                                |         |
-| Verŝajne ŝi ne scias ke mi estas atendanta ŝin.                                      |         |
-| Mi povus telefoni ŝin. Sed mi atendos.                                               |         |
-| Ŝi telefonu min!                                                                     |         |
-| Se nur ŝi venu!                                                                      |         |
-| Ni irus al kafejo (kafee), manĝus glaciajxon (aiskrem) kaj drinkus teon (chay).      |         |
-| Aŭ eble ne teo, sed vino (vino)?                                                     |         |
-| Mi iam venis al ŝia domo.                                                            |         |
-| Ŝi iam malfermis la pordon por mi, kaj mi iam povis rigardi ŝin, paroli kun ŝi...    |         |
-| Poste mi iam desegnis ŝin, legis por ŝi, dancis kun ŝi, kantis pri ŝi...             |         |
-| Mi iam skribis leteron (leta) kun verso (versa) por ŝi. Ŝi iam ŝatis mian verson.    |         |
-| Mi deziras ke ŝi ne forgesu pri mi!                                                  |         |
-| Se nur ŝi komprenu, ke mi estas atendanta ŝin, ke mi volas vidi ŝin, ke mi amas ŝin! |         |
+- Mi estas atendanta ŝin. Kial ŝi ankoraŭ ne estas veninta?
+- Eble ŝi ne memoras pri ke ni devis renkontiĝi hodiaŭ.
+- Verŝajne ŝi ne scias ke mi estas atendanta ŝin.
+- Mi povus telefoni ŝin. Sed mi atendos.
+- Ŝi telefonu min!
+- Se nur ŝi venu!
+- Ni irus al kafejo (kafee), manĝus glaciajxon (aiskrem) kaj drinkus teon (chay).
+- Aŭ eble ne teo, sed vino (vino)?
+- Mi iam venis al ŝia domo.
+- Ŝi iam malfermis la pordon por mi, kaj mi iam povis rigardi ŝin, paroli kun ŝi...
+- Poste mi iam desegnis ŝin, legis por ŝi, dancis kun ŝi, kantis pri ŝi...
+- Mi iam skribis leteron (leta) kun verso (versa) por ŝi. Ŝi iam ŝatis mian verson.
+- Mi deziras ke ŝi ne forgesu pri mi!
+- Se nur ŝi komprenu, ke mi estas atendanta ŝin, ke mi volas vidi ŝin, ke mi amas ŝin!
 
 ----------
 
@@ -448,37 +456,46 @@ proksumume; La araba estas skribita de dekstre al maldekstre):
 Lidepla vortoj, kiujj estas de araba origino:
 
 - Substantivoj:
-    - Salam (Paco Saluton)
-    - Talim (Klerigo Instruado)
-    - Kitaba (Libro)
-    - Dafta (Kajero)
-    - Kalam (Krajono Skribilo)
-    - Taraf (Flanko)
-    - Arda (Tero)
-    - Sabah (Mateno)
-    - Bulbul (Najtingalo)
-    - Ramla (Sablo)
-    - Sahil (Bordo)
-    - Fauha (Odoro)
-    - Hamsa (Flustro)
+
+| Lidepla | Esperanto         |
+|---------|-------------------|
+| Salam   | Paco Saluton      |
+| Talim   | Klerigo Instruado |
+| Kitaba  | Libro             |
+| Dafta   | Kajero            |
+| Kalam   | Krajono Skribilo  |
+| Taraf   | Flanko            |
+| Arda    | Tero              |
+| Sabah   | Mateno            |
+| Bulbul  | Najtingalo        |
+| Ramla   | Sablo             |
+| Sahil   | Bordo             |
+| Fauha   | Odoro             |
+| Hamsa   | Flustro           |
 
 - Verboj:
-    - Shakwi (Plendi)
-    - Jawabi (Respondi)
-    - Ahfi (Kaŝi)
-    - Balbati (Murmuri)
-    - Raki (Veturi per, Iri per)
-    - Safari (Vojaĝi)
+
+| Lidepla | Esperanto           |
+|---------|---------------------|
+| Shakwi  | Plendi              |
+| Jawabi  | Respondi            |
+| Ahfi    | Kaŝi                |
+| Balbati | Murmuri             |
+| Raki    | Veturi per, Iri per |
+| Safari  | Vojaĝi              |
 
 - Adjektivoj:
-    - Karim (Bonkora)
-    - Rahim (Korfavora)
-    - Salim (Sekura)
-    - Muhim (Grava Konsiderinda)
-    - Jamile (Bela)
-    - Garibe (Fremda)
-    - Swate (Nigra)
-    - Jatile (Kompleksa)
+
+| Lidepla | Esperanto          |
+|---------|--------------------|
+| Karim   | Bonkora            |
+| Rahim   | Korfavora          |
+| Salim   | Sekura             |
+| Muhim   | Grava Konsiderinda |
+| Jamile  | Bela               |
+| Garibe  | Fremda             |
+| Swate   | Nigra              |
+| Jatile  | Kompleksa          |
 
 [Respondoj de la Ekzercoj de tradukado](./respondoj/l-4.md)
 

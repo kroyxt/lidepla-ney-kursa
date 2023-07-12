@@ -7,39 +7,47 @@ anstataŭ aliaj vortparto)
 
 Maldekstra flanko de la korelativo:
 
-- Koy (Ia)
-- Kada (Ĉiu)
-- Eni (Ia, Ia Ajn)
-- Otre (Alia)
-- Nul (Nenia)
-- Ol (Tuta)
+| Lidepla | Esperanto  |
+|---------|------------|
+| Koy     | Ia         |
+| Kada    | Ĉiu        |
+| Eni     | Ia, Ia Ajn |
+| Otre    | Alia       |
+| Nul     | Nenia      |
+| Ol      | Tuta       |
 
 > Ĉiuj ĉi tiuj vortoj povas esti uzataj kiel adjektivoj memstare.
 
-Dekstra flanko de la pronomo:
+Dekstra flanko de la korelativo:
 
-- Wan (Ulo)
-- Sa (Aĵo [Mallongigo de kosa])
-- Lok (Loko)
-- Ves (Fojo)
-- Grad (Grado)
-- Komo (Kiel)
+| Lidepla | Esperanto                |
+|---------|--------------------------|
+| Wan     | Ulo                      |
+| Sa      | Aĵo [Mallongigo de kosa] |
+| Lok     | Loko                     |
+| Ves     | Fojo                     |
+| Grad    | Grado                    |
+| Komo    | Kiel                     |
 
 Pri homoj:
 
-- Koywan (Iu)
-- Kadawan (Ĉiu ulo)
-- Eniwan (Iu ajn)
-- Nulwan (Neniu)
-- Oli (Ĉiu)
+| Lidepla | Esperanto |
+|---------|-----------|
+| Koywan  | Iu        |
+| Kadawan | Ĉiu ulo   |
+| Eniwan  | Iu ajn    |
+| Nulwan  | Neniu     |
+| Oli     | Ĉiu       |
 
 Pri objektoj:
 
-- Koysa (Io)
-- Kada kosa (Ĉiu aĵo/afero [Ne mallongigita])
-- Enisa (Io ajn)
-- Nixa (Nenio)
-- Olo (Ĉio)
+| Lidepla   | Esperanto                       |
+|-----------|---------------------------------|
+| Koysa     | Io, Iu aĵo                      |
+| Kada kosa | Ĉiu aĵo/afero [Ne mallongigita] |
+| Enisa     | Io ajn                          |
+| Nixa      | Nenio                           |
+| Olo       | Ĉio                             |
 
 Kelkfoje oni devas paroli pri iu karakterizaĵo de persono, aĵo aŭ afero. Pro
 tio, la prepozicio **do** (distinga signo, destino) estas uzata:
@@ -50,25 +58,36 @@ tio, la prepozicio **do** (distinga signo, destino) estas uzata:
 
 Pri spaco:
 
-- Koylok (Ie)
-- Kadalok (Ĉiu loke)
-- Enilok (Ie ajn)
-- Nullok (Nenie)
+| Lidepla | Esperanto |
+|---------|-----------|
+| Koylok  | Ie        |
+| Kadalok | Ĉiu loke  |
+| Enilok  | Ie ajn    |
+| Nullok  | Nenie     |
 
 Pri tempo:
 
-- Koytaim (Iam)
-- Enitaim (Iam ajn)
-- Oltaim (Ĉiam)
-- Koyves (Iu foje)
-- Kadaves (Ĉiu foje)
-> Ankaŭ oni povas uzi:
-- Semper (Ĉiam)
-- Neva (Neniam)
+| Lidepla | Esperanto |
+|---------|-----------|
+| Koytaim | Iam       |
+| Enitaim | Iam ajn   |
+| Oltaim  | Ĉiam      |
+| Koyves  | Iu foje   |
+| Kadaves | Ĉiu foje  |
+| Nulves  | Neniam    |
 
-| Lidepla                       | Esperanto                   |
-|-------------------------------|-----------------------------|
-| Yu mog kwesti eniwan, enilok. | Vi demandus iu ajn, ie ajn. |
+Ankaŭ oni povas uzi:
+
+| Lidepla | Esperanto |
+|---------|-----------|
+| Semper  | Ĉiam      |
+| Neva    | Neniam    |
+
+----------
+
+| Lidepla                       | Esperanto                        |
+|-------------------------------|----------------------------------|
+| Yu mog kwesti eniwan, enilok. | Vi povas demandi iu ajn, ie ajn. |
 
 En la frazo, ĉiu nea vorto donas nea signifon al la tuta frazo. Se estas pluraj
 neaj vortoj, la nea signifo nur intensiĝas:
@@ -79,32 +98,34 @@ neaj vortoj, la nea signifo nur intensiĝas:
 
 Lidepla ankaŭ havas kelkaj kunmetajn adverbojn:
 
-- Enikas (Iuokaze)
-- Otrekas (Aliokaze)
-- Olosam (Ĉiuokaze)
-- Unvez (Unu foje)
+| Lidepla | Esperanto |
+|---------|-----------|
+| Enikas  | Iuokaze   |
+| Otrekas | Aliokaze  |
+| Olosam  | Ĉiuokaze  |
+| Unvez   | Unu foje  |
 
-> Por paroli pri la kaŭzo, oni ne uzas kunmetajn vortojn
+Por paroli pri la kaŭzo, oni ne uzas kunmetajn vortojn:
 
-- Por koy kausa (Ial)
-- Por nul kauza (Nenial)
+| Lidepla       | Esperanto |
+|---------------|-----------|
+| Por koy kausa | Ial       |
+| Por nul kauza | Nenial    |
 
 ----------
 
 ***Ekzerco de tradukado 1:***
 
-| Esperanto                                                                              | Lidepla |
-|----------------------------------------------------------------------------------------|---------|
-| Unu foje mi trovis leteron.                                                            |         |
-| En ĝi, iu skribas, ke ŝi/li ie renkonti unu knabino bela.                              |         |
-| Li rimarki (marki) ŝin kiam ŝi aĉetantas iun aĵon en butiko (shop).                    |         |
-| Ial li timas (fobi) komenci paroli kun ela tiam.                                       |         |
-| Li rimarki ela iu foje en urba (urba) parko (parka).                                   |         |
-| Kaj ŝi foriĝas.                                                                        |         |
-| Li provas trovi ŝin, li serĉas ĉiu loke.                                               |         |
-| Li demandis al ĉiuj, ĉiu ulo, ĉu oni vidintas bela knabino kun bonkoraj okuloj (okos). |         |
-| Sed neniu povas helpi lin.                                                             |         |
-| Li ankoraŭ serĉas. Li kredas, ke ŝi estas ie kaj eble eĉ legos tiu ĉi letero.          |         |
+- Unu foje mi trovis leteron.
+- En ĝi, iu skribas, ke ŝi/li ie renkonti unu knabino bela.
+- Li rimarki (marki) ŝin kiam ŝi aĉetantas iun aĵon en butiko (shop).
+- Ial li timas (fobi) komenci paroli kun ŝi tiam.
+- Li rimarki ela iu foje en urba (urba) parko (parka).
+- Kaj ŝi foriĝas.
+- Li provas trovi ŝin, li serĉas ĉiu loke.
+- Li demandis al ĉiuj, ĉiu ulo, ĉu oni vidintas bela knabino kun bonkoraj okuloj (okos).
+- Sed neniu povas helpi lin.
+- Li ankoraŭ serĉas. Li kredas, ke ŝi estas ie kaj eble eĉ legos tiu ĉi letero.
 
 ----------
 
@@ -115,46 +136,48 @@ prepoziciojn, multaj el ili ankaŭ povas esti uzataj sendepende kiel adverboj.
 
 Simpla prepozicioj de loko:
 
-- In (En)
-- On (Sur)
-- Bli (Apud, Apude)
-- Inter (Inter)
-- Miden (Meze de)
-- Sobre (Super)
-- Sub (Sub)
-- Bifoo (Antaŭ)
+| Lidepla | Esperanto   |
+|---------|-------------|
+| In      | En          |
+| On      | Sur         |
+| Bli     | Apud, Apude |
+| Inter   | Inter       |
+| Miden   | Meze de     |
+| Sobre   | Super       |
+| Sub     | Sub         |
+| Bifoo   | Antaŭ       |
 
 Prepozicioj/adverboj de loko:
 
 > Povas esti uzata kun substantivoj kiel prepozicioj kaj sendepende kiel
 > adverboj:
 
-- Inen (Ene, Interne, Interne de)
-- Ausen (Ekster, Ekstere)
-- Traen (Trans)
-- Uuparen (Supre)
-- Nichen (Malsupre, Ĉe malsupro de)
-- Avane (Antaŭe)
-- Baken (Malantaŭ, Malantaŭe)
-- Leften (Maldekstre)
-- Desnen (Dekstre)
-- Flanken (Flanke, Flanke de)
+| Lidepla | Esperanto                |
+|---------|--------------------------|
+| Inen    | Ene, Interne, Interne de |
+| Ausen   | Ekster, Ekstere          |
+| Traen   | Trans                    |
+| Uuparen | Supre                    |
+| Nichen  | Malsupre, Ĉe malsupro de |
+| Avane   | Antaŭe                   |
+| Baken   | Malantaŭ, Malantaŭe      |
+| Leften  | Maldekstre               |
+| Desnen  | Dekstre                  |
+| Flanken | Flanke, Flanke de        |
 
 ----------
 
 ***Ekzerco de tradukado 2:***
 
-| Esperanto                                                                                                                       | Lidepla |
-|---------------------------------------------------------------------------------------------------------------------------------|---------|
-| Mi loĝas en domo en vilaĝo. Apud mia domo estas ĝardeno (garden).                                                               |         |
-| Inter la domo kaj la ĝardeno estas malgranda lageto (chitan).                                                                   |         |
-| Estas agrabla (priate) sidi lekti meze de arboj (baum) en la ĝardeno.                                                           |         |
-| Speciale somere, kiam estas varma.                                                                                              |         |
-| Kiam ekstere estas pluvo (pluva), mi ŝatas pli esti ene de la domo kaj rigardi kiel pluvas trans la fenestro (winda).           |         |
-| Supre la domo estas subtegmento (rufshamba).                                                                                    |         |
-| Kiam mi estis malgranda, mi iam ŝatis veni en ĝi kaj ludi kvazaŭ (kwasi) ĝi estis mia propra (prope) sekreta (sekret-ney) domo. |         |
-| Tie mi iam havis malgrandan tablon (tabla) meze, multaj libroj sur la tabla kaj mapoj (mapas).                                  |         |
-| Super la tablo iam estis lampo (lampa) kaj sub la tablo kutime mia kato (kota) iam sidis.                                       |         |
+- Mi loĝas en domo en vilaĝo. Apud mia domo estas ĝardeno (garden)..
+- Inter la domo kaj la ĝardeno estas malgranda lageto (chitan)..
+- Estas agrabla (priate) sidi kaj legi meze de arboj (baum) en la ĝardeno..
+- Speciale (osobem) somere, kiam estas varma..
+- Kiam ekstere estas pluvo (pluva), mi ŝatas pli esti ene de la domo kaj rigardi kiel pluvas trans la fenestro (winda)..
+- Supre la domo estas subtegmento (rufshamba)..
+- Kiam mi estis malgranda, mi iam ŝatis veni en ĝi kaj ludi kvazaŭ (kwasi) ĝi estis mia propra (prope) sekreta (sekret-ney) domo..
+- Tie mi iam havis malgrandan tablon (tabla) meze, multaj libroj sur la tabla kaj mapoj (mapas)..
+- Super la tablo iam estis lampo (lampa) kaj sub la tablo kutime mia kato (kota) iam sidis..
 
 ----------
 
@@ -214,27 +237,28 @@ Provu rerakonti ĉi tiun tekston aŭ elpensi vian propran tekston.
 
     (afte Yan Ulichanski)
 
-- Kama (Lito)
-- Landa (Lando)
-- Extendi (Etendi)
-- Gamba (Gambo, Kruro)
-- Kolina (Monteto)
-- Plana (Ebeno)
-- Agra (Plugokampo)
-- Riva (Rivero)
-- Jenta ([Certa grupo de] Homoj)
-- Muhim (Grava, Konsiderinda)
-- Ferdao (Fervojo)
-- Existi (Ekzisti)
-- Melidom (Muelejo)
-- Flori (Flori)
-- Sereal (Cerealo)
-- Mature (Matura)
-- Yabla (Pomo)
-- Yel (Piceo)
-- Tunel (Tunelo)
-- Kuti-ney (Envolva)
->
+| Lidepla  | Esperanto              |
+|----------|------------------------|
+| Kama     | Lito                   |
+| Landa    | Lando                  |
+| Extendi  | Etendi                 |
+| Gamba    | Gambo, Kruro           |
+| Kolina   | Monteto                |
+| Plana    | Ebeno                  |
+| Agra     | Plugokampo             |
+| Riva     | Rivero                 |
+| Jenta    | [Certa grupo de] Homoj |
+| Muhim    | Grava, Konsiderinda    |
+| Ferdao   | Fervojo                |
+| Existi   | Ekzisti                |
+| Melidom  | Muelejo                |
+| Flori    | Flori                  |
+| Sereal   | Cerealo                |
+| Mature   | Matura                 |
+| Yabla    | Pomo                   |
+| Yel      | Piceo                  |
+| Tunel    | Tunelo                 |
+| Kuti-ney | Envolva                |
 
     Madu es zuy hao dona, ya, zuy.
     Iven un asla samaji se tuy.
@@ -248,17 +272,19 @@ Provu rerakonti ĉi tiun tekston aŭ elpensi vian propran tekston.
     Si madu ye,
     dan ya madu tuy yok!
 
-- Madu (Mielo)
-- Dona (Donaco)
-- Iven (Eĉ)
-- Asla (Azeno)
-- Chiza (Kulero)
-- Wel (Nu)
-- Fule (Plena)
-- Pot (Hejma mezmezura vazo: Poto, Kaserolo, Marmito)
-- Kausi (Kaŭzi)
-- Shok (Ŝoko)
-- Desapari (Malaperi)
+| Lidepla  | Esperanto                                     |
+|----------|-----------------------------------------------|
+| Madu     | Mielo                                         |
+| Dona     | Donaco                                        |
+| Iven     | Eĉ                                            |
+| Asla     | Azeno                                         |
+| Chiza    | Kulero                                        |
+| Wel      | Nu                                            |
+| Fule     | Plena                                         |
+| Pot      | Hejma mezmezura vazo: Poto, Kaserolo, Marmito |
+| Kausi    | Kaŭzi                                         |
+| Shok     | Ŝoko                                          |
+| Desapari | Malaperi                                      |
 
 ## Etiketo: Kiel iras ...?
 
@@ -314,12 +340,14 @@ Estas malmultaj vortoj pruntitaj de la japana en Lidepla (Tamen, la gramatiko de
 ĉi tiu lingvo estis enkalkulita en la procezo de evoluigado de la gramatiko de
 Lidepla):
 
-- Arigatoo (Dankon (Laŭvola))
-- Fuki (Blovi)
-- Kiba (Kojnodento)
-- Tana (Breto)
-- Tawa (Turo)
-- Yuma (Humuro)
+| Lidepla  | Esperanto        |
+|----------|------------------|
+| Arigatoo | Dankon (Laŭvola) |
+| Fuki     | Blovi            |
+| Kiba     | Kojnodento       |
+| Tana     | Breto            |
+| Tawa     | Turo             |
+| Yuma     | Humuro           |
 
 [Respondoj de la Ekzercoj de tradukado](./respondoj/l-7.md)
 

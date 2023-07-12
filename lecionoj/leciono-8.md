@@ -71,7 +71,7 @@ Ripeti verbon kun nea partiklo **bu** estas (parollingva) maniero por demandi:
 
 ## Pasiva voĉo
 
-Por komuniki, ke ago estas farita sur io/iu, la partiklo **gei** (esti farata)
+Por komuniki, ke ago estas farata sur io/iu, la partiklo **gei** (esti farata)
 estas uzata:
 
 | Lidepla        | Esperanto                                  |
@@ -85,14 +85,14 @@ Por aldoni tiun, kiun plenumas la agon, oni uzas la prepozicion **bay**:
 | Sey leta gei skribi bay may mata. | Tiu ĉi letero estas skribata de mia patrino. |
 
 Kelkfoje gravas diri, ke iu faras agon memstare, sen ies helpo. Aŭ ke la ago
-estas farita de la persona kiu parolas, li mem. Por tio ekzistas la vorto
+estas farita de la persono kiu parolas, si mem. Por tio ekzistas la vorto
 **selfa** (mem):
 
-| Lidepla                                 | Esperanto                                           |
-|-----------------------------------------|-----------------------------------------------------|
-| Mata selfa he skribi se.                | La patrino mem skribintas tion ĉi.                  |
-| Sey chapa gwo gei porti bay rega selfa. | Tiu ĉi ĉapelo iam estis portata de reĝo mem.        |
-| Kinda he skribi se ol pa selfa.         | La infano skribintas tion ĉi, ĉio meme (sen helpo). |
+| Lidepla                                 | Esperanto                                             |
+|-----------------------------------------|-------------------------------------------------------|
+| Mata selfa he skribi se.                | La patrino mem skribintas tion ĉi.                    |
+| Sey chapa gwo gei porti bay rega selfa. | Tiu ĉi ĉapelo iam estis portata de reĝo mem.          |
+| Kinda he skribi se ol pa selfa.         | La infano skribintas tion ĉi, ĉio si mem (sen helpo). |
 
 Se la ago jam okazis, jam estas farita, kaj ni parolas pri la rezulto, oni povas
 uzi la konantan partiklon **-ney** (-ita) kaj la verbon **bi/es/bin**:
@@ -112,12 +112,10 @@ prepozicio **aus** (el) estas uzata por transdoni ĉi tiun valoron:
 
 ***Ekzerco de tradukado 1:***
 
-| Esperanto                                                                                                                                              | Lidepla |
-|--------------------------------------------------------------------------------------------------------------------------------------------------------|---------|
-| En la infanaĝo (kinda-yash) mi neniam iam sukcese konstruis (bildi) kastelon (kastela) el sablo (ramlo), pro ke kutime mia frato venis kaj rompis ĝin. |         |
-| Efektive (pa fakta), Li ne iam volis rompi, li simple (sim [mallongigo de simplem]) estis malgranda kaj ne komprenas tion, ke mi faris.                |         |
-| Do, kastelo iam multaj fojoj konstruantas per miaj manoj (handas) kaj rompantas per la piedeto (peda-ki) de mia frato.                                 |         |
-| Post vidi ke la kastelo estas rompita, frateto (brata-ki) ofte enfali plori, pro ke li volis simple ludi kun mi.                                       |         |
+- En la infanaĝo (kinda-yash) mi neniam iam sukcese konstruis (bildi) kastelon (kastela) el sablo (ramlo), pro ke kutime mia frato venis kaj rompis ĝin.
+- Efektive (pa fakta), Li ne iam volis rompi it, li simple (sim [mallongigo de simplem]) estis malgranda kaj ne komprenas tion, ke mi faris.
+- Do, kastelo iam multaj fojoj konstruantas per miaj manoj (handas) kaj rompantas per la piedeto (peda-ki) de mia frato.
+- Post vidi ke la kastelo estas rompita, frateto (brata-ki) ofte enfali plori, pro ke li volis simple ludi kun mi.
 
 ----------
 
@@ -130,7 +128,7 @@ farante), enkondukante cirkonstancojn:
 |------------------|--------------------|
 | Me lekti al chi. | Mi legas manĝante. |
 
-La sama efiko povas esti atingita per la formado de gerundio el unu el la verboj
+La sama efiko povas esti atingita per la formado de gerundio el unu de la verboj
 uzante la partiklo **yen** (-ante):
 
 | Lidepla           | Esperanto          |
@@ -166,13 +164,11 @@ Aŭ adverbo formita kun la partiklo **nem** (-e, -ite):
 
 ***Ekzerco de tradukado 2:***
 
-| Esperanto                                                                                   | Lidepla |
-|---------------------------------------------------------------------------------------------|---------|
-| Rigardu, Tiu ĉi knabino estas vere amanta patrino.                                          |         |
-| Ŝi ridetis tiom (tanto) tenere (dulem) vidante, ke ŝia infano ridetas al ŝi.                |         |
-| Ŝi ĉiam parolas, rakontas (rakonti) pri iu aĵo, promenante kun li.                          |         |
-| Kaj li ne ploras falinte.                                                                   |         |
-| Li simple veni al la patrino, kiu scipovas konsoli tiom bone ke ĉiu malbono forgesiĝas tuj. |         |
+- Rigardu, Tiu ĉi knabino estas vere amanta patrino.
+- Ŝi ridetis tiom (tanto) tenere (dulem) vidante, ke ŝia infano ridetas al ŝi.
+- Ŝi ĉiam parolas, rakontas (rakonti) pri iu aĵo, promenante kun li.
+- Kaj li ne ploras falinte.
+- Li simple veni al la patrino, kiu scipovas konsoli tiom bone ke ĉiu malbono forgesiĝas tuj.
 
 ## Prepozicioj de rilato
 
@@ -276,22 +272,24 @@ Provu rerakonti ĉi tiun tekston aŭ elpensi vian propran tekston.
     swan he he geti a koy-otrelok e suy nam resti sin gunsa. Also kristofer
     Robin desidi doni it a syu berna-ki.
 
-- Walaa (Jen)
-- Desendi (Malsupreniri)
-- Sulam (Ŝtuparo)
-- Kapa (Kapo)
-- Nuka (Nuko)
-- Dao (Vojo)
-- Pa fin (Fine)
-- Tayar (Preta)
-- Koni (Koni)
-- En-koni (Ekkoni)
-- Surprisi (Surprizi)
-- Nopinchan (Malordinara, Eksterordinara)
-- Hansa (Cigno)
-- Lak (Lago)
-- Gunsa (Laboro)
-- Berna (Urso)
+| Lidepla   | Esperanto                   |
+|-----------|-----------------------------|
+| Walaa     | Jen                         |
+| Desendi   | Malsupreniri                |
+| Sulam     | Ŝtuparo                     |
+| Kapa      | Kapo                        |
+| Nuka      | Nuko                        |
+| Dao       | Vojo                        |
+| Pa fin    | Fine                        |
+| Tayar     | Preta                       |
+| Koni      | Koni                        |
+| En-koni   | Ekkoni                      |
+| Surprisi  | Surprizi                    |
+| Nopinchan | Malordinara, Eksterordinara |
+| Hansa     | Cigno                       |
+| Lak       | Lago                        |
+| Gunsa     | Laboro                      |
+| Berna     | Urso                        |
 
 ## Fokusa lingvo: La Germana
 
@@ -326,39 +324,51 @@ Fonetike:
 Lidepla vortoj pruntitaj el la germana:
 
 - Nesignifaj vortoj:
-    - Also (Do)
-    - Aus (El)
-    - Ausen (Ele, Ekster, Ekstere)
-    - Inen (Ene, Interne, Interne de)
-    - Hir (Ĉi tie)
-    - Fon (De [Deirpunkto, origino])
-    - Ob (Ĉu)
-    - Obwol (Kvankam)
-    - Wek (For)
-    - Wo (Kie)
-    - Ya (Jes)
-    - Yedoh (Tamen)
-    - Ga (Devus)
+
+| Lidepla | Esperanto                |
+|---------|--------------------------|
+| Also    | Do                       |
+| Aus     | El                       |
+| Ausen   | Ele, Ekster, Ekstere     |
+| Inen    | Ene, Interne, Interne de |
+| Hir     | Ĉi tie                   |
+| Fon     | De [Deirpunkto, origino] |
+| Ob      | Ĉu                       |
+| Obwol   | Kvankam                  |
+| Wek     | For                      |
+| Wo      | Kie                      |
+| Ya      | Jes                      |
+| Yedoh   | Tamen                    |
+| Ga      | Devus                    |
 
 - Substantivoj:
-    - Baum (Arbo)
-    - Man (Viro)
-    - Fet (Graso)
-    - Kinda (Infano)
-    - Glok (Sonorilo)
-    - Kol (Brasiko)
+
+| Lidepla | Esperanto |
+|---------|-----------|
+| Baum    | Arbo      |
+| Man     | Viro      |
+| Fet     | Graso     |
+| Kinda   | Infano    |
+| Glok    | Sonorilo  |
+| Kol     | Brasiko   |
 
 - Verboj:
-    - Darfi (Rajti)
-    - Mus (Devi)
-    - Mah (igi)
-    - Glimi (Brili [elsendi aŭ reflekti malheligan, intermitan lumon])
-    - Haili (Sanigi, Kuraci)
+
+| Lidepla | Esperanto                                                |
+|---------|----------------------------------------------------------|
+| Darfi   | Rajti                                                    |
+| Mus     | Devi                                                     |
+| Mah     | igi                                                      |
+| Glimi   | Brili [elsendi aŭ reflekti malheligan, intermitan lumon] |
+| Haili   | Sanigi, Kuraci                                           |
 
 - Adjektivoj:
-    - Abrupte (Malmilda, Abrupta)
-    - Bunte (Varieca, Multkolora)
-    - Glate (Glata)
+
+| Lidepla | Esperanto           |
+|---------|---------------------|
+| Abrupte | Malmilda, Abrupta   |
+| Bunte   | Varieca, Multkolora |
+| Glate   | Glata               |
 
 [Respondoj de la Ekzercoj de tradukado](./respondoj/l-8.md)
 

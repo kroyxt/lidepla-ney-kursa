@@ -18,12 +18,14 @@ konstruitaj ĉirkaŭ ĝi:
 
 Ekzemploj de verboj:
 
-- jivi (vivi, loĝi)
-- lubi (ami)
-- nadi (esperi)
-- jan (scii)
-- samaji (kompreni)
-- shwo (paroli, diri)
+| Lidepla | Esperanto    |
+|---------|--------------|
+| Jivi    | vivi, loĝi   |
+| Lubi    | ami          |
+| Nadi    | esperi       |
+| Jan     | scii         |
+| Samaji  | kompreni     |
+| Shwo    | paroli, diri |
 
 > la litero **j** estas prononcata kiel **ĝ**.
 
@@ -35,13 +37,17 @@ estas uzataj.
 
 Personaj pronomoj:
 
-- Me (Mi)
-- Nu (Ni)
-- Yu (Vi)
-- Ta (Ŝi, Li, Ĝi)
-- Lu (Li)
-- Ela (Ŝi)
-- Li(Ili)
+| Lidepla | Esperanto  |
+|---------|------------|
+| Me      | Mi         |
+| Nu      | Ni         |
+| Yu      | Vi         |
+| Ta      | Ŝi, Li, Ĝi |
+| Lu      | Li         |
+| Ela     | Ŝi         |
+| Li      | Ili        |
+
+----------
 
 |            | Ununombra   | Multnombra |
 | ---------- | ----------- | ---------- |
@@ -79,24 +85,22 @@ ekzistas kunteksto, oni supozas la estantecon.
 
 | Lidepla         | Espera              |
 | --------------- | ------------------- |
-| Yeri yu         | Hieraŭ vi diris     |
+| Yeri yu shwo    | Hieraŭ vi diris     |
 | Manya nu samaji | Morgaŭ ni komprenos |
 
 ----------
 
 ***Ekzerco de tradukado 1:***
 
-| Esperanto        | Lidela |
-| ---------------  | ------ |
-| Ni vivas.        |        |
-| Ili vivas.       |        |
-| Li esperas.      |        |
-| Ŝi esperas.      |        |
-| Ili scias.       |        |
-| Me scias.        |        |
-| Vi parolas.      |        |
-| Vi ĉiuj parolas. |        |
-| Me parolas.      |        |
+- Ni vivas.
+- Ili vivas.
+- Li esperas.
+- Ŝi esperas.
+- Ili scias.
+- Me scias.
+- Vi parolas.
+- Vi ĉiuj parolas.
+- Mi parolas.
 
 ----------
 
@@ -120,27 +124,28 @@ Por fari demandon, necesas meti la partiklon **ob** (ĉu) antaŭ la tuta frazo.
 
 ***Ekzerco de tradukado 2:***
 
-| Esperanto                  | Lidepla |
-| -------------------------- | ------- |
-| Ĉu vi amas?                |         |
-| Mi ne amas.                |         |
-| Ĉu ŝi ne amas?             |         |
-| Ŝi ne scias.               |         |
-| Ĉu li ne esperas?          |         |
-| Li vivas.                  |         |
-| Ĉu vi (ĉiuj) ne komprenas? |         |
-| Ni esperas.                |         |
-| Ĉu ili parolas?            |         |
-| Ili ne scias.              |         |
+- Ĉu vi amas?
+- Mi ne amas.
+- Ĉu ŝi ne amas?
+- Ŝi ne scias.
+- Ĉu li ne esperas?
+- Li vivas.
+- Ĉu vi (ĉiuj) ne komprenas?
+- Ni esperas.
+- Ĉu ili parolas?
+- Ili ne scias.
 
 ----------
 
 Oni povas respondi ĝeneralan demandon uzante la vortojn:
 
-- Ya (Jes, Ja)
-- Non (Ne)
-- Doh (Jes; Ho jes; Ne; Male, Tute male.) [en respondo al negativa demando aŭ
-  deklaro.]
+| Lidepla | Esperanto                         |
+|---------|-----------------------------------|
+| Ya      | Jes, Ja                           |
+| Non     | Ne                                |
+| Doh     | Jes; Ho jes; Ne; Male, Tute male. |
+
+> Do estas uzata en respondo al negativa demando aŭ deklaro.
 
 Ob yu samaji?
 
@@ -182,25 +187,27 @@ uzataj:
 
 ***Ekzerco de tradukado 3:***
 
-| Esperanto        | Lidepla |
-| ---------------- | ------- |
-| Ĉu vi amis?      |         |
-| Mi amos.         |         |
-| Ĉu li komprenos? |         |
-| Ĉu ŝi esperas?   |         |
-| Ŝi esperis.      |         |
-| Ŝi ne esperos.   |         |
-| Ni vivos.        |         |
+- Ĉu vi amis?
+- Mi amos.
+- Ĉu li komprenos?
+- Ĉu ŝi esperas?
+- Ŝi esperis.
+- Ŝi ne esperos.
+- Ni vivos.
 
 ----------
 
 La konjunkcioj estas utila por kombini vortojn kaj frazojn:
 
-- E (Kaj)
-- O (Aŭ)
-- Bat (Sed)
-- Dabe (Por ke)
-- Bikos (Ĉar)
+| Lidepla | Esperanto |
+|---------|-----------|
+| E       | Kaj       |
+| O       | Aŭ        |
+| Bat     | Sed       |
+| Dabe    | Por ke    |
+| Bikos   | Ĉar       |
+
+----------
 
 | Lidepla                  | Esperanto                      |
 | -----------------------  | ------------------------------ |
@@ -241,17 +248,15 @@ de gramatikaj partikloj.
 
 ***Ekzerco de tradukado 4:***
 
-| Esperanto                                | Lidepla |
-| ---------------------------------------- | ------- |
-| Mi ne sciis. Sed vi diris. Nun mi scias. |         |
-| Ŝi kredas kaj esperas.                   |         |
-| Ili ne vidas kaj ne aŭdas, sed parolas.  |         |
-| Li ne komprenas, sed laboras.            |         |
-| Mi parolas por ke vi komprenos.          |         |
-| Ŝi esperas, ĉar ŝi amas.                 |         |
-| Vi ne scias aŭ ne komprenas.             |         |
-| Ŝi ne pensis, ŝi ja sciis.               |         |
-| Ĉu vi ne kredas? ne, mi ja kredas.       |         |
+- Mi ne sciis. Sed vi diris. Nun mi scias.
+- Ŝi kredas kaj esperas.
+- Ili ne vidas kaj ne aŭdas, sed parolas.
+- Li ne komprenas, sed laboras.
+- Mi parolas por ke vi komprenos.
+- Ŝi esperas, ĉar ŝi amas.
+- Vi ne scias aŭ ne komprenas.
+- Ŝi ne pensis, ŝi ja sciis.
+- Ĉu vi ne kredas? ne, mi ja kredas.
 
 ----------
 
@@ -381,50 +386,75 @@ adjektivo **e** ).
 Ĝuste el la angla lingvo multaj gramatikaj vortoj venis al lidepla:
 
 - Konjukcioj:
-    - O (Aŭ)
-    - Bat (Sed)
-    - Bikos (Ĉar)
+
+| Lidepla | Esperanto |
+|---------|-----------|
+| O       | Aŭ        |
+| Bat     | Sed       |
+| Bikos   | Ĉar       |
 
 - Prepozicioj:
-    - Fo (Por)
-    - Bay (Per de (iu))
-    - Bifoo (Antaŭe)
-    - Afte (Post)
+
+| Lidepla | Esperanto   |
+|---------|-------------|
+| Fo      | Por         |
+| Bay     | Per de [iu] |
+| Bifoo   | Antaŭe      |
+| Afte    | Post        |
 
 - Adverboj:
-    - Nau (Nun)
-    - Iven (Eĉ)
+
+| Lidepla | Esperanto |
+|---------|-----------|
+| Nau     | Nun       |
+| Iven    | Eĉ        |
 
 - Relativaj kaj Demandaj korelativoj:
-    - Hu (Kiu)
-    - Wen (Kiam)
+
+| Lidepla | Esperanto |
+|---------|-----------|
+| Hu      | Kiu       |
+| Wen     | Kiam      |
 
 Ekzemplo de la plej ofte uzataj vortoj pruntitaj el la angla:
 
 - Subtantivoj:
-    - Dey (Tago)
-    - Wik (Semajno)
-    - Taim (Tempo)
-    - Boy (Knabo)
-    - Mani (Mono)
-    - Shop (Butiko)
-    - Riva (Rivero)
-    - Skay (Ĉielo)
-    - Leta (Letero)
+
+| Lidepla | Esperanto |
+|---------|-----------|
+| Dey     | Tago      |
+| Wik     | Semajno   |
+| Taim    | Tempo     |
+| Boy     | Knabo     |
+| Mani    | Mono      |
+| Shop    | Butiko    |
+| Riva    | Rivero    |
+| Skay    | Ĉielo     |
+| Leta    | Letero    |
 
 - Verboj:
-    - Bi (Esti)
-    - Bikam (Iĝi)
-    - Hev (Havi)
-    - Weiti (Atendi)
-    - Miti (Renkonti)
-    - Smaili (Rideti)
-    - Bildi (Konstrui)
-    - Krai (Krii)
-    - Tachi (Tuŝi)
-    - Helpi (Helpi)
 
-- Adjektivoj: blu (blua), grin (verda), klin (pura), longe (longa)
+| Lidepla | Esperanto |
+|---------|-----------|
+| Bi      | Esti      |
+| Bikam   | Iĝi       |
+| Hev     | Havi      |
+| Weiti   | Atendi    |
+| Miti    | Renkonti  |
+| Smaili  | Rideti    |
+| Bildi   | Konstrui  |
+| Krai    | Krii      |
+| Tachi   | Tuŝi      |
+| Helpi   | Helpi     |
+
+- Adjektivoj:
+
+| Lidepla | Esperanto |
+|---------|-----------|
+| blu     | blua      |
+| grin    | verda     |
+| klin    | pura      |
+| longe   | longa     |
 
 [Respondoj de la Ekzercoj de tradukado](./respondoj/l-1.md)
 

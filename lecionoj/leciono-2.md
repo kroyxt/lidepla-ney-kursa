@@ -49,17 +49,15 @@ Senvivaj objektoj povas estis anstataŭgitaj per la pronomo **it** (ĝi).
 
 ***Ekzerco de tradukado 1:***
 
-| Esperanto                  | Lidepla |
-| -------------------------- | ------- |
-| Mi vidas vin.              |         |
-| Vi komprenas min.          |         |
-| Ŝi ne komprenis vin.       |         |
-| Ni amas lin.               |         |
-| Ili ne aŭdos lin.          |         |
-| Ŝi ne scias sin.           |         |
-| Vi ne aŭdos unu la alian.  |         |
-| Vi ne aŭdas vin.           |         |
-| Ni komprenis unu la alian. |         |
+- Mi vidas vin.
+- Vi komprenas min.
+- Ŝi ne komprenis vin.
+- Ni amas lin.
+- Ili ne aŭdos lin.
+- Ŝi ne scias sin.
+- Vi ne aŭdos unu la alian.
+- Vi ne aŭdas vin.
+- Ni komprenis unu la alian.
 
 ----------
 
@@ -80,10 +78,15 @@ Por respondi la demandon "Pri kio? Pri kiu?" oni necesas la prepozicion **om**
 | Me ve dumi om yu. | Mi pensos pri vi. |
 
 Aliaj gravaj prepozicioj:
-- **fo** (por)
-- **por** (pro)
-- **kun** (kun)
-- **sin** (sen)
+
+| Lidepla | Esperanto |
+|---------|-----------|
+| **fo**  | por       |
+| **por** | pro       |
+| **kun** | kun       |
+| **sin** | sen       |
+
+----------
 
 | Lidepla             | Esperanto            |
 | ------------------- | -------------------- |
@@ -95,15 +98,13 @@ Aliaj gravaj prepozicioj:
 
 ***Ekzerco de tradukado 2:***
 
-| Esperanto | Lidepla |
-| --------- | ------- |
-| Por mi.   |         |
-| Pri vi.   |         |
-| Pro ni.   |         |
-| Por vi.   |         |
-| Kun vi.   |         |
-| Sen ŝi.   |         |
-| Pro vi.   |         |
+- Por mi.
+- Pri vi.
+- Pro ni.
+- Por vi.
+- Kun vi.
+- Sen ŝi.
+- Pro vi.
 
 ----------
 
@@ -117,14 +118,16 @@ Prepozicio ankaŭ povas sekvi verbon:
 
 Demandaj korelativoj:
 
-- Hu (Kiu)
-- Kwo (Kio)
-- Wo (Kie)
-- A wo (Kien)
-- Fon wo (De kie, Kies)
-- Wen (Kiam)
-- Way (Kial)
-- Komo (Kiel)
+| Lidepla | Esperanto    |
+|---------|--------------|
+| Hu      | Kiu          |
+| Kwo     | Kio          |
+| Wo      | Kie          |
+| A wo    | Kien         |
+| Fon wo  | De kie, Kies |
+| Wen     | Kiam         |
+| Way     | Kial         |
+| Komo    | Kiel         |
 
 Demandaj korelativoj estas metitaj, kiel regulo, komence de la frazo, la
 vortordo en la frazo ne ŝanĝiĝas.
@@ -137,31 +140,33 @@ vortordo en la frazo ne ŝanĝiĝas.
 
 ***Ekzerco de tradukado 3:***
 
-| Esperanto                | Lidepla |
-| ------------------------ | ------- |
-| Kiu komprenas?           |         |
-| Kiu sciis?               |         |
-| Kion vi sciis?           |         |
-| Kion li komprenos?       |         |
-| Kie vi laboris?          |         |
-| Kie ni vivos?            |         |
-| Kien kaj de kie vi iras? |         |
-| kiam li venis?           |         |
-| Kial vi ne komprenas?    |         |
-| Kiel vi diras?           |         |
+- Kiu komprenas?
+- Kiu sciis?
+- Kion vi sciis?
+- Kion li komprenos?
+- Kie vi laboris?
+- Kie ni vivos?
+- kiam li venis?
+- Kien kaj de kie vi iras?
+- Kial vi ne komprenas?
+- Kiel vi diras?
 
 ----------
 
 Vi povas respondi demandaj korelativoj uzante Demostrativaj korelativoj:
 
-- Se (Ĉi tio)
-- To (Tio)
-- Hir (Ĉi tie)
-- Dar (Tie)
-- Ahir (Ĉi tien)
-- Adar (Tien)
-- Dan (Tiam)
-- Tak (Tiel)
+| Lidepla | Esperanto |
+|---------|-----------|
+| Se      | Ĉi tio    |
+| To      | Tio       |
+| Hir     | Ĉi tie    |
+| Dar     | Tie       |
+| Ahir    | Ĉi tien   |
+| Adar    | Tien      |
+| Dan     | Tiam      |
+| Tak     | Tiel      |
+
+----------
 
 | Lidepla               | Esperanto                      |
 | --------------------- | ------------------------------ |
@@ -209,17 +214,15 @@ frazo.
 
 ***Ekzerco de tradukado 4:***
 
-| Esperanto                                  | Lidepla |
-| ------------------------------------------ | ------- |
-| Vi scias kie mi loĝis.                     |         |
-| Li vidas kiel mi esperas.                  |         |
-| Mi ne komprenas, kion vi volas (yao).      |         |
-| Ni diris, ke ili vojaĝos (safari).         |         |
-| Ŝi ne kredas, ke vi venos (lai).           |         |
-| Ili ne scias kien mi iras (go).            |         |
-| Mi ne komprenas pri kio vi kantas (gani).  |         |
-| Vi ne scias kun kiu ŝi dancas (dansi).     |         |
-| Mi ne komprenas kiel vi parolas sen pensi. |         |
+- Vi scias kie mi loĝis.
+- Li vidas kiel mi esperas.
+- Mi ne komprenas, kion vi volas (yao).
+- Ni diris, ke ili vojaĝos (safari).
+- Ŝi ne kredas, ke vi venos (lai).
+- Ili ne scias kien mi iras (go).
+- Mi ne komprenas pri kio vi kantas (gani).
+- Vi ne scias kun kiu ŝi dancas (dansi).
+- Mi ne komprenas kiel vi parolas sen pensi.
 
 ----------
 
@@ -268,16 +271,18 @@ Kelkfoje ne gravas kiu faras kion. Por tia okazo ekzistas pronomo **oni** (oni).
 Specialaj verboj, kiuj esprimas sintenon al ago kutime estas nomataj "modalaj".
 Kaj kun ilia helpo, vi povas komponi verbsekvencojn:
 
-- Mog (Povi)
-- Janmog (Scipovi)
-- Darfi (Rajti)
-- Treba (Estas necesa, Necesas; Igi necesa)
-- Mus (Devi)
-- Gai (Devus)
-- Majbur (Devigatas, esti devigata)
-- Nidi (Malhavi ion necesan, bezoni)
-- Yao (Voli)
-- Pri (Ŝati, Plaĉi)
+| Lidepla | Esperanto                                  |
+|---------|--------------------------------------------|
+| Mog     | Povi                                       |
+| Janmog  | Scipovi                                    |
+| Darfi   | Rajti                                      |
+| Treba   | Estas necesa, Necesas. (Priskribas staton) |
+| Mus     | Devi                                       |
+| Gai     | Devus                                      |
+| Majbur  | Devigatas, esti devigata                   |
+| Nidi    | Malhavi ion necesan, bezoni                |
+| Yao     | Voli                                       |
+| Pri     | Ŝati, Plaĉi                                |
 
 Specialaj verboj mem povas alligi partiklojn kiuj precizigas tempon. Semantikaj
 verboj post specialaj verboj estas en la ĉefa formo.
@@ -298,16 +303,14 @@ frazo alprenas nepersonan signifon:
 
 ***Ekzerco de tradukado 6:***
 
-| Esperanto                                           | Lidepla |
-| --------------------------------------------------- | ------- |
-| Ŝi volos demandi vin.                               |         |
-| Ni ŝatas labori.                                    |         |
-| Ni devigatis peti (Pregi).                          |         |
-| Vi necesas ja esperi.                               |         |
-| Mi scipovas ami.                                    |         |
-| Hir oni bu darfi dansi.                             |         |
-| Devus respondi kiam oni demandi vin.                |         |
-| Li/Ŝi ne venis (lai), ĉar mi ne volis vidi lin/ŝin. |         |
+- Ŝi volos demandi vin.
+- Ni ŝatas labori.
+- Ni devigatis peti (Pregi).
+- Vi necesas ja esperi.
+- Mi scipovas ami.
+- Hir oni bu darfi dansi.
+- Devus respondi kiam oni demandi vin.
+- Li/Ŝi ne venis (lai), ĉar mi ne volis vidi lin/ŝin.
 
 ----------
 
@@ -377,10 +380,14 @@ utila:
 
 Ĉi tiuj vortoj estas necesaj por komuniki la ordon kaj tempon de eventoj:
 
-- Poy (Poste, Pli malfrue)
-- Snova (Denove, Ree)
-- Turan (Subite)
-- Tuy (Tuj)
+| Lidepla | Esperanto          |
+|---------|--------------------|
+| Poy     | Poste, Pli malfrue |
+| Snova   | Denove, Ree        |
+| Turan   | Subite             |
+| Tuy     | Tuj                |
+
+----------
 
 | Lidepla                  | Esperanto                           |
 | ------------------------ | ----------------------------------- |
@@ -390,9 +397,13 @@ utila:
 
 Utilaj konjunkcioj:
 
-- Sikom (Ĉar (ĉe la  komenco de frazo))
-- Obwol (Kvankam)
-- Yedoh (Tamen)
+| Lidepla | Esperanto                       |
+|---------|---------------------------------|
+| Sikom   | Ĉar ( ĉe la  komenco de frazo ) |
+| Obwol   | Kvankam                         |
+| Yedoh   | Tamen                           |
+
+----------
 
 | Lidepla                         | Esperanto                             |
 | ------------------------------- | ------------------------------------- |
@@ -404,17 +415,15 @@ Utilaj konjunkcioj:
 
 ***Ekzerco de tradukado 8:***
 
-| Esperanto                                               | Lidepla |
-| ------------------------------------------------------- | ------- |
-| Mi ankaŭ kredas ilin.                                   |         |
-| Mi ne laboras. Ankaŭ mi ne amas vin.                    |         |
-| Mi necesas kompreni tuj.                                |         |
-| Mi ne povas kompreni, kvankam devas labori.             |         |
-| Li povas veni subite.                                   |         |
-| Ŝi ne volas esperi, tamen li amas ŝin.                  |         |
-| Ni ne volas vidi ŝin denove.                            |         |
-| Ĉar mi ne volas vivi sen vi, mi kredas.                 |         |
-| Poste mi respondos (jawabi) al (a) vi.                  |         |
+- Mi ankaŭ kredas ilin.
+- Mi ne laboras. Ankaŭ mi ne amas vin.
+- Mi necesas kompreni tuj.
+- Mi ne povas kompreni, kvankam devas labori.
+- Li povas veni subite.
+- Ŝi ne volas esperi, tamen li amas ŝin.
+- Ni ne volas vidi ŝin denove.
+- Ĉar mi ne volas vivi sen vi, mi kredas.
+- Poste mi respondos (jawabi) al (a) vi.
 
 ----------
 
@@ -441,29 +450,48 @@ Utilaj konjunkcioj:
 
 ***Ekzerco de tradukado 9:***
 
-| Esperanto                                                                               | Lidepla                              |
-| --------------------------------------------------------------------------------------- | ------------------------------------ |
-| Mi ne sciis. Sed vi diris. Nun mi scias.                                                | Me... Bat yu... Nau me...            |
-| Mi ŝatas vojaĝi.                                                                        | Me...                                |
-| Mi volas iri al Ĉinio.                                                                  | Me... go a Jungwo.                   |
-| Ĉu vi venos kun mi? Mi petas vin.                                                       | Ob yu... kun me? Me...               |
-| Kion ni devas preni kun ni?                                                             | Kwo nu... kun swa?                   |
-| Ni povas preni kion ajn vi volas.                                                       | Nu... kwo unkwe yu...                |
-| Kion vi volas vidi tie?                                                                 | Kwo yu... dar?                       |
-| Ĉu vi ne scias kion diri?                                                               | Ob yu... kwo...                      |
-| Vi povas demandi min, mi respondos al vi.                                               | Yu..., me... a yu.                   |
-| Ĉu vi feliĉas? Ankaŭ mi ĝojas.                                                          | Ob yu...? Me toshi...                |
-| Oni povas kanti, poste danci, poste denove kanti pro ĝojo.                              | Oni.., poy..., poy snova... por joi. |
-| Kial vi subite diras, ke vi ne komprenas por kio vojaĝi?                                | Way yu turan..., ke yu... fo kwo...? |
-| Ĉu vi demandos min pri tio?                                                             | Ob yu... om to?                      |
-| Sed, ĉar mi ne komprenas kion vi volas aŭdi, mi ne povas respondi al vi.                | Bat sikom me... kwo yu... me...      |
-| Kvankam mi komprenis vin.                                                               | Obwol me... yu.                      |
-| Kaj mi esperas, ke mi komprenos.                                                        | E me..., ke me...                    |
-| Pri kio vi pensas?                                                                      | Om kwo yu...?                        |
-| Kiam vi helpos min?                                                                     | Wen yu...?                           |
-| Vi devus labori, tamen vi kantas kaj dancas.                                            | Yu..., yedoh yu...                   |
-| Mi necesos diri al li pri vi.                                                           | Me... ta... yu.                      |
-| Kvankam mi amas vin. Mi amis kaj amos.                                                  | Obwol me... Mi... e...               |
+- Mi ne sciis. Sed vi diris.
+> Nun mi scias. Me... Bat yu... Nau me...
+- Mi ŝatas vojaĝi.
+> Me...
+- Mi volas iri al Ĉinio.
+> Me... go a Jungwo.
+- Ĉu vi venos kun mi? Mi petas vin.
+> Ob yu... kun me? Me...
+- Kion ni devas preni kun ni?
+> Kwo nu... kun swa?
+- Ni povas preni kion ajn vi volas.
+> Nu... kwo unkwe yu...
+- Kion vi volas vidi tie?
+> Kwo yu... dar?
+- Ĉu vi ne scias kion diri?
+> Ob yu... kwo...
+- Vi povas demandi min, mi respondos al vi.
+> Yu..., me... a yu.
+- Ĉu vi feliĉas? Ankaŭ mi ĝojas.
+> Ob yu...? Me toshi...
+- Oni povas kanti, poste danci, poste denove kanti pro ĝojo.
+> Oni.., poy..., poy snova... por joi.
+- Ĉu vi demandos min pri tio?
+> Ob yu... om to?
+- Kial vi subite diras, ke vi ne komprenas por kio vojaĝi?
+> Way yu turan..., ke yu... fo kwo...?
+- Sed, ĉar mi ne komprenas kion vi volas aŭdi, mi ne povas respondi al vi.
+> Bat sikom me... kwo yu... me...
+- Kvankam mi komprenis vin.
+> Obwol me... yu.
+- Kaj mi esperas, ke mi komprenos.
+> E me..., ke me...
+- Pri kio vi pensas?
+> Om kwo yu...?
+- Kiam vi helpos min?
+> Wen yu...?
+- Vi devus labori, tamen vi kantas kaj dancas.
+> Yu..., yedoh yu...
+- Mi necesos diri al li pri vi.
+> Me... ta... yu.
+- Kvankam mi amas vin. Mi amis kaj amos.
+> Obwol me... Mi... e...
 
 ----------
 
@@ -500,13 +528,17 @@ La respondo bezonos la prepozicion **fon** (de).
 La nomoj de landoj en Lidepla sonas kiel eble plej proksime al kie ili estas
 pronocitaj en la lingvo de ĉi tiuj landoj:
 
-- Rusia (Rusio)
-- Ingland (Anglio)
-- Frans (Francio)
-- Doichland (Germanio)
-- Espania (Hispanio)
-- Nipon (Japanio)
-- Jungwo (Ĉinio)
+| Lidepla   | Esperanto |
+|-----------|-----------|
+| Rusia     | Rusio     |
+| Ingland   | Anglio    |
+| Frans     | Francio   |
+| Doichland | Germanio  |
+| Espania   | Hispanio  |
+| Nipon     | Japanio   |
+| Jungwo    | Ĉinio     |
+
+----------
 
 | Lidepla           | Esperanto          |
 | ----------------- | ------------------ |
@@ -568,58 +600,70 @@ silabo, aŭ falas, aŭ restas je la sama tono.
 Inter la plej oftaj vortoj en Lidepla, estas multaj vortoj pruntitaj el la ĉina.
 
 - Funkciaj vortoj kaj adverboj:
-    - Bu (Ne)
-    - Ba (Imperativa partiklo)
-    - Gwo (Nedefinita pasinta tempo)
-    - Zai (Aktuala ago)
-    - Zyu (Plej)
-    - Fen (Formas frakciojn)
-    - Shi (Dek)
-    - Idyen (Iomete)
-    - Haishi (Ankoraŭ)
-    - Shao (Malmulte, Iom)
-    - Turam (Subite)
+
+| Lidepla | Esperanto                |
+|---------|--------------------------|
+| Bu      | Ne                       |
+| Ba      | Imperativa partiklo      |
+| Gwo     | Nedefinita pasinta tempo |
+| Zai     | Aktuala ago              |
+| Zyu     | Plej                     |
+| Fen     | Formas frakciojn         |
+| Shi     | Dek                      |
+| Idyen   | Iomete                   |
+| Haishi  | Ankoraŭ                  |
+| Shao    | Malmulte, Iom            |
+| Turam   | Subite                   |
 
 - Substantivoj:
-    - Jen (Persono)
-    - Bao (Sako)
-    - Mao (Lano)
-    - Dao (Maniero)
-    - Yuan (Funkciulo, Ano, membro)
-    - Guan (Publika institucio, Ejo)
-    - Bey (Dorso)
-    - Duza (Ventro)
-    - Tuza (Leporo)
-    - Chiza (Kulero)
-    - Feng (Vento)
+
+| Lidepla | Esperanto               |
+|---------|-------------------------|
+| Jen     | Persono                 |
+| Bao     | Sako                    |
+| Mao     | Lano                    |
+| Dao     | Maniero                 |
+| Yuan    | Funkciulo, Ano, membro  |
+| Guan    | Publika institucio, Ejo |
+| Bey     | Dorso                   |
+| Duza    | Ventro                  |
+| Tuza    | Leporo                  |
+| Chiza   | Kulero                  |
+| Feng    | Vento                   |
 
 - Verboj:
-    - Zwo (Fari)
-    - Shwo (Paroli)
-    - Lwo (Fali)
-    - Yao (Voli)
-    - Kan (Rigardi)
-    - Gun (Labori)
-    - Chi (Manĝi)
-    - Zin (Eniri)
-    - Chu (Eliri)
-    - Zun (Fari ion)
-    - Mangi (Esti okupata)
-    - Tungi (Dolori, Vundi)
-    - Kaulu (Konsideri)
+
+| Lidepla | Esperanto     |
+|---------|---------------|
+| Zwo     | Fari          |
+| Shwo    | Paroli        |
+| Lwo     | Fali          |
+| Yao     | Voli          |
+| Kan     | Rigardi       |
+| Gun     | Labori        |
+| Chi     | Manĝi         |
+| Zin     | Eniri         |
+| Chu     | Eliri         |
+| Zun     | Fari ion      |
+| Mangi   | Esti okupata  |
+| Tungi   | Dolori, Vundi |
+| Kaulu   | Konsideri     |
 
 - Adjektivoj:
-    - Hao (Bona)
-    - Lao (Malnova)
-    - Gao (Alta)
-    - Syao (Malgranda)
-    - Byen (Konforta)
-    - Hwan (Flava)
-    - Suan (Acida)
-    - Guy (Multekosta)
-    - Kway (Rapida)
-    - Lenge (Malvarma)
-    - Lan (Maldiligenta)
+
+| Lidepla | Esperanto    |
+|---------|--------------|
+| Hao     | Bona         |
+| Lao     | Malnova      |
+| Gao     | Alta         |
+| Syao    | Malgranda    |
+| Byen    | Konforta     |
+| Hwan    | Flava        |
+| Suan    | Acida        |
+| Guy     | Multekosta   |
+| Kway    | Rapida       |
+| Lenge   | Malvarma     |
+| Lan     | Maldiligenta |
 
 [Respondoj de la Ekzercoj de tradukado](./respondoj/l-2.md)
 

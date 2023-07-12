@@ -32,11 +32,12 @@ La plej ofte uzata el ili jam estis lernita en la antaŭaj lecionoj.
 
 | Lidepla   | Esperanto    |
 |-----------|--------------|
-| Chayveti. | Trinki teon. |
+| Chayvati. | Trinki teon. |
 | Memorisi. | Memorigi.    |
 
 - **Adjektivoj** => **Adverboj**:
     - **-m** (-e)
+    - **-nem** (-e)
 
 | Lidepla     | Esperanto |
 |-------------|-----------|
@@ -60,11 +61,11 @@ La plej ofte uzata el ili jam estis lernita en la antaŭaj lecionoj.
     - **-isi** (-igi)
     - **-fai** (Fari agon rilata al)
 
-| Lidepla  | Esperanto                 |
-|----------|---------------------------|
-| Lengifi. | Malvarmiĝi.               |
-| Lengisi. | Malvarmigi.               |
-| Lengifi. | Esti malvarma / Malvarmi. |
+| Lidepla   | Esperanto                 |
+|-----------|---------------------------|
+| Lengifi.  | Malvarmiĝi.               |
+| Lengisi.  | Malvarmigi.               |
+| Lengifai. | Esti malvarma / Malvarmi. |
 
 - **Verboj** => **Substantivoj**:
     - **-(s)a** (o)
@@ -269,17 +270,19 @@ Kun propraj nomoj, ĝi indikas aman formon:
   konscia penado) transiro de io (la objekto de la ago) al certa stato. La verbo
   tiel formita povas preni verbpartiklojn:
 
-| Lidepla               | Esperanto             |
-|-----------------------|-----------------------|
-| Me he mah-warme akwa. | Mi varmigintas akvon. |
-| Mah-chi.              | Manĝigi. / Nutri.     |
+| Lidepla               | Esperanto                   |
+|-----------------------|-----------------------------|
+| Me he mah-warme akwa. | Mi varmigintas akvon.       |
+| Mah-chi.              | Manĝigi. / Nutri.           |
+| Mah-samaji.           | Komprenigi. / Igi kompreni. |
 
-Rimarku, ke **Mah** povas stari sole kiel kaŭza verbo.
+Rimarku, ke **Mah** povas esti uzata sole kiel kaŭza verbo.
 
-| Lidepla         | Esperanto           |
-|-----------------|---------------------|
-| Mah akwa warme. | Igi la akvon varma. |
-| Mah swa tayar.  | Igi sin preta.      |
+| Lidepla                   | Esperanto                                                     |
+|---------------------------|---------------------------------------------------------------|
+| Mah akwa warme.           | Igi la akvon varma.                                           |
+| Mah swa tayar.            | Igi sin preta.                                                |
+| Komo me mah yu samaji to? | Kiel mi komprenigi vin tio? / Kiel mi igas vin kompreni tion? |
 
 - La partiklo **Ney** estas uzata tre vaste por formi adjektivojn. La partiklo
   povas esti uzata kun individuaj vortoj kaj kun frazoj:
@@ -588,7 +591,7 @@ prezentita kiel la frazo kun la prepozicio **fo**:
 - Frisiguan (Barbirejo) = Guan fo frisi
 - Habitalok (Loĝejo) = Lok(o) fo habiti
 - Banishamba (Banĉambro) = Shamba fo bani
-- Banipen (Banbaseno) = Pen fo bani
+- Banipen (Banujo, Bankuvo) = Pen fo bani
 
 La valoro eble ne estas laŭvorta:
 
@@ -743,22 +746,28 @@ Fonetike:
 Oftaj Lidepla vortoj pruntitaj de la franca:
 
 - Gramatikaĵoj:
-    - Avan (Antaŭen)
-    - Kelke (Kelke da, iom da)
-    - Walaa (Jen)
-    - Kel (Kiu [Relativa pronomo pri personoj aŭ aĵoj])
-    - Kom (Kiel)
-    - Malgree (Malgraŭ)
-    - Non (Ne)
-    - Nu (Ni)
-    - Nul (Nenia)
-    - Tal (Tia)
-    - Swa (Si mem)
-    - Apropoo (Interalie, Parenteze; Koncerne)
+
+| Lidepla | Esperanto                                   |
+|---------|---------------------------------------------|
+| Avan    | Antaŭen                                     |
+| Kelke   | Kelke da, iom da                            |
+| Walaa   | Jen                                         |
+| Kel     | Kiu [Relativa pronomo pri personoj aŭ aĵoj] |
+| Kom     | Kiel                                        |
+| Malgree | Malgraŭ                                     |
+| Non     | Ne                                          |
+| Nu      | Ni                                          |
+| Nul     | Nenia                                       |
+| Tal     | Tia                                         |
+| Swa     | Si mem                                      |
+| Apropoo | Interalie, Parenteze; Koncerne              |
 
 - Substantivoj:
-    - Gayar (Ulo)
-    - Garson (Kelnero)
-    - Charma (Ĉarmo)
+
+| Lidepla | Esperanto |
+|---------|-----------|
+| Gayar   | Ulo       |
+| Garson  | Kelnero   |
+| Charma  | Ĉarmo     |
 
 [Sekva leciono](./leciono-10.md)
