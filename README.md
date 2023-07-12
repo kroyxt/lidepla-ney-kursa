@@ -2,7 +2,7 @@
 
 Tiu ĉi deponejo estas traduko al esperanto de la senpaga
 [Vikilibra kurso](https://ru.wikibooks.org/wiki/%D0%9B%D0%B8%D0%BD%D0%B3%D0%B2%D0%B0_%D0%B4%D0%B5_%D0%BF%D0%BB%D0%B0%D0%BD%D0%B5%D1%82%D0%B0)
-pri [Lingwa de plante](https://eo.wikipedia.org/wiki/Lingwa_de_Planeta)
+pri [Lingwa de planeta](https://eo.wikipedia.org/wiki/Lingwa_de_Planeta)
 (Lidepla).
 
 La aŭtoroj de la lernilo (Membroj de la Lidepla-Teamo) ĝojos, se vi partoprenos
